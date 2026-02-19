@@ -22,6 +22,9 @@ FALLBACK_FILES = [
     "ExportDrones_ja.json",
     "ExportKeys_ja.json",
     "ExportGear_ja.json",
+    "ExportFusionBundles_ja.json",
+    "ExportRegions_ja.json",
+    "ExportSortieRewards_ja.json",
     "ExportManifest.json"
 ]
 
