@@ -31,16 +31,23 @@ FALLBACK_FILES = [
 ]
 # Helper function for requests
 def request_get(url: str, timeout: int = 30):
-    """プロキシ設定があればプロキシ経由でリクエストする"""
-    if const.WF_PROXY_URL:
-        logger.info(f"Using Cloudflare Proxy for: {url}")
-        # プロキシURLの形式: https://worker.dev/?url=<target_url>
-        # URLエンコードは requests が params でやってくれるはずだが、
-        # curl_cffi の挙動を確認する必要がある。ここでは単純に params を使う。
-        return requests.get(const.WF_PROXY_URL, params={"url": url}, impersonate="chrome", timeout=timeout)
+    """プロキシ設定があり、かつターゲットがWarframe関連ドメインの場合のみプロキシを使用する"""
+    is_warframe_url = "warframe.com" in url
+    
+    if const.WF_PROXY_URL and is_warframe_url:
+        logger.info(f"Using Proxy for Warframe URL: {url}")
+        # プロキシURLの形式: https://script.google.com/.../exec?url=<target_url>
+        response = requests.get(const.WF_PROXY_URL, params={"url": url}, impersonate="chrome", timeout=timeout)
+        
+        # プロキシが200 OKを返しても、ターゲットサーバーがエラー（HTML）を返している可能性があるためチェック
+        content_type = response.headers.get("Content-Type", "")
+        if "text/html" in content_type:
+            logger.warning(f"警告: プロキシがHTMLを返しました。ターゲットサーバー(Akamai等)に拒否された可能性があります。 (Preview: {response.text[:100]})")
+        return response
     else:
-        # プロキシがない場合は直接アクセス (impersonate="chrome"に戻す)
-        # Safari偽装は失敗したのでChromeに戻すが、どちらでも良い
+        # プロキシがない、またはWarframe以外のURL（GitHub等）の場合は直接アクセス
+        if is_warframe_url:
+             logger.info(f"Direct access to Warframe URL: {url}")
         return requests.get(url, impersonate="chrome", timeout=timeout)
 
 def fetch_index() -> str:
@@ -255,7 +262,13 @@ def fetch_worldstate() -> Dict[str, Any]:
         # response = requests.get(const.WORLDSTATE_URL, impersonate="safari17_0", timeout=30)
         response = request_get(const.WORLDSTATE_URL, timeout=30)
         response.raise_for_status()
-        data = response.json()
+        
+        try:
+            data = response.json()
+        except json.JSONDecodeError as je:
+            logger.error(f"JSONパース失敗: プロキシが非JSONを返しました。 (Body: {response.text[:200]})")
+            raise je
+
         build_label = data.get('BuildLabel', data.get('WorldStatePublished', {}).get('BuildLabel', 'Unknown'))
         logger.info(f"[成功] WorldState 取得完了 (BuildLabel: {build_label})")
         return data
