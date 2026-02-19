@@ -35,6 +35,7 @@ jobs:
       run: python src/main.py
       env:
         WF_PROXY_URL: ${{ secrets.WF_PROXY_URL }}
+        WF_WORLDSTATE_URL: ${{ vars.WF_WORLDSTATE_URL }}
       
     - name: 変更のコミットとプッシュ
       run: |
