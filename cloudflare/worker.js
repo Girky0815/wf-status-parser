@@ -1,9 +1,9 @@
 /**
- * Warframe Status Proxy Worker
+ * Warframe ステータス プロキシ Worker
  * 
  * GitHub Actions -> Cloudflare Worker -> Warframe API
  * 
- * Usage: https://your-worker.subdomain.workers.dev/?url=TARGET_URL
+ * 使い方: https://your-worker.subdomain.workers.dev/?url=TARGET_URL
  */
 
 export default {
@@ -12,16 +12,18 @@ export default {
     const targetUrl = url.searchParams.get("url");
 
     if (!targetUrl) {
-      return new Response("Missing 'url' parameter", { status: 400 });
+      return new Response("エラー: 'url' パラメータが不足しています", { status: 400 });
     }
 
-    console.log(`Proxying request to: ${targetUrl}`);
+    // デバッグログ: プロキシ先を表示
+    console.log(`リクエストをプロキシ中: ${targetUrl}`);
 
     try {
+      // ブラウザのリクエストを模倣するためのヘッダー群
       const proxyRequest = new Request(targetUrl, {
         method: request.method,
         headers: {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
           "Accept": "application/json, text/plain, */*",
           "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
           "Cache-Control": "no-cache",
@@ -33,21 +35,22 @@ export default {
 
       const response = await fetch(proxyRequest);
 
-      // Create a clean response without forwarding potentially problematic headers
+      // 競合を避けるため、クリーンなレスポンスヘッダーを作成
       const responseHeaders = new Headers();
-      // Only forward necessary headers or set new ones
+      // 必要なヘッダーのみを設定または転送
       responseHeaders.set("Content-Type", response.headers.get("Content-Type") || "application/json");
       responseHeaders.set("Access-Control-Allow-Origin", "*");
-      responseHeaders.set("X-Proxy-By", "Cloudflare-Worker-Fixed");
-      responseHeaders.set("X-Target-Status", response.status);
+      responseHeaders.set("X-Proxy-By", "Cloudflare-Worker-Fixed-JP");
+      responseHeaders.set("X-Target-Status", response.status.toString());
 
+      // 元のレスポンスボディとステータスを保持して返す
       return new Response(response.body, {
         status: response.status,
         statusText: response.statusText,
         headers: responseHeaders
       });
     } catch (e) {
-      return new Response(`Error fetching ${targetUrl}: ${e.message}`, { status: 500 });
+      return new Response(`取得エラー (${targetUrl}): ${e.message}`, { status: 500 });
     }
   },
 };

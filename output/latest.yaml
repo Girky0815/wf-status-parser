@@ -1,0 +1,6140 @@
+# Warframe WorldState Status (JP) - Latest
+WorldSeed: 
+  ZusMAPwQVrG+zBQyzT2PaV99o9GNJRgbPtMTpiZAf2NtWcw/LBHVNfHqvPwpGp0tFxZlFHLXp+buFCnnGdJ1ROUENH6n3PhhJ54HV6rYR2nNFDkJxrSzF+cQxUw2CdZzAp8zRDXDkdXNnVqCEd0DYz3aW0wZ7K5343a7OAWtLAE=
+Version: 10
+MobileVersion: 5.3.0.0
+BuildLabel: 2026.02.13.16.03/m9D2v+Lb-IlcRhQxYG26Cw
+Time: 1771524270
+Events:
+  - _id:
+    $oid: 62d31b87106360aa5703954d
+  Messages:
+    - LanguageCode: en
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: fr
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: it
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: de
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: es
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: pt
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: ru
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: pl
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: uk
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: tr
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: ja
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: zh
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: ko
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+    - LanguageCode: tc
+    Message: /Lotus/Language/CommunityMessages/JoinDiscord
+  Prop: https://discord.com/invite/playwarframe
+  Icon: /Lotus/Interface/Icons/DiscordIconNoBacker.png
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 62dff6238607d6b5d80876f5
+  Messages:
+    - LanguageCode: fr
+    Message: Une ressource indispensable, le Wiki FR Warframe !
+  Prop: https://warframe.fandom.com/fr/wiki/Wiki_Warframe
+  ImageUrl: 
+    https://content.invisioncic.com/Mwarframe/monthly_2022_07/image.png.f54c43d80f7da00887a7c41471884c84.png
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 67ae4e9fca4611344608d246
+  Messages:
+    - LanguageCode: en
+    Message: 'Check out the official Warframe Wiki '
+  Prop: https://wiki.warframe.com/
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 6824c85b6c30b5a005004018
+  Messages:
+    - LanguageCode: en
+    Message: Visit the official Warframe Forums!
+  Prop: https://forums.warframe.com/
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 682de27153447e81120764d2
+  Messages:
+    - LanguageCode: tr
+    Message: Epic Games Hesap Bağlama ve Otomatik Giriş
+  Prop: 
+    https://forums.warframe.com/topic/1454865-epic-games-hesap-ba%C4%9Flama-ve-otomatik-giri%C5%9F/
+  Date:
+    $date:
+      $numberLong: '1747837440000'
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 6855a1d787107cb1060a5c18
+  Messages:
+    - LanguageCode: ja
+    Message: 公式Blueskyアカウント開設のお知らせ
+  Prop: http://bit.ly/4ncDPFs
+  Date:
+    $date:
+      $numberLong: '1750441980000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2021_01/Wiki-background.thumb.jpg.f568775e1b4eab008c7c6d3802c942aa.jpg
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 68ba136bbadfdd82900f8bbe
+  Messages:
+    - LanguageCode: ja
+    Message: 公式Xアカウント開設のお知らせ
+  Prop: http://bit.ly/4mXYtZB
+  Date:
+    $date:
+      $numberLong: '1757025060000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2021_01/Wiki-background.thumb.jpg.f568775e1b4eab008c7c6d3802c942aa.jpg
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 693a2f4c00f3d365ea0a0e9d
+  Messages:
+    - LanguageCode: pt
+    Message: 'Atualização 41.1: Legado do Vauban'
+  Prop: 
+    https://forums.warframe.com/topic/1492796-atualiza%C3%A7%C3%A3o-411-legado-do-vauban/
+  Date:
+    $date:
+      $numberLong: '1770825600000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 6973d60189f135d49a0f7725
+  Messages:
+    - LanguageCode: en
+    Message: The Shadowgrapher Arrives This March
+    - LanguageCode: fr
+    Message: L'Ombromane arrive en mars
+    - LanguageCode: it
+    Message: Artista delle Ombre - In Arrivo Questo Marzo
+    - LanguageCode: de
+    Message: Der Schattenmacher erscheint diesen März
+    - LanguageCode: es
+    Message: «Grafista de Sombras» llegará en marzo
+    - LanguageCode: pt
+    Message: A atualização "Artífice das Sombras" chegará em março
+    - LanguageCode: ru
+    Message: Обновление «Тенеграф» выйдет в этом марте
+    - LanguageCode: pl
+    Message: Maestria Cienia pojawi się już w marcu
+    - LanguageCode: uk
+    Message: «Тіньопис» виходить у березні
+    - LanguageCode: tr
+    Message: The Shadowgrapher (Hayalbaz) Bu Mart Ayında Sizlerle
+    - LanguageCode: ja
+    Message: 「シャドウグラファー（仮）」アップデート3月公開
+    - LanguageCode: zh
+    Message: 《绘影者》将于今年三月登陆
+    - LanguageCode: ko
+    Message: 그림자 화가가 올해 3월에 찾아옵니다
+    - LanguageCode: tc
+    Message: Shadowgrapher 將於 3 月登場
+    - LanguageCode: th
+    Message: นักสร้างเงา (The Shadowgrapher) จะมาในเดือนมีนาคมนี้
+  Prop: 
+    https://www.warframe.com/news/the-shadowgrapher-coming-in-march?utm_medium=in-game&utm_source=in-game
+  Date:
+    $date:
+      $numberLong: '1769199000000'
+  EventEndDate:
+    $date:
+      $numberLong: '1772175540000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/85aff7ac745f8f1ef5dea0a2271f1828.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 6978e6e3268df10f46051666
+  Messages:
+    - LanguageCode: fr
+    Message: 'Résumé Devstream #192 - version FR '
+  Prop: 
+    https://forums.warframe.com/topic/1491227-r%C3%A9sum%C3%A9-devstream-192-version-fr/
+  Date:
+    $date:
+      $numberLong: '1769531040000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/thumbnails/3266619ea486e5322d6aaea8b1b2768a_1600x900.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698612a5823edf4ef808bc28
+  Messages:
+    - LanguageCode: en
+    Message: Enter the Winter 2026 Capturathon
+  Prop: https://forums.warframe.com/topic/1490552-capturathon-winter-2026/
+  Date:
+    $date:
+      $numberLong: '1770393600000'
+  EventEndDate:
+    $date:
+      $numberLong: '1772380800000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/42e361d4f3b3d00b29673a84ba5802ed.jpg
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698b782b07cc2b87600bd5c0
+  Messages:
+    - LanguageCode: en
+    Message: 'Coming Soon: Devstream #193 - The Shadowgrapher!'
+  Prop: 
+    https://forums.warframe.com/topic/1492677-coming-soon-devstream-193-the-shadowgrapher/
+  Date:
+    $date:
+      $numberLong: '1770747840000'
+  EventStartDate:
+    $date:
+      $numberLong: '1772218800000'
+  EventEndDate:
+    $date:
+      $numberLong: '1772222400000'
+  EventLiveUrl: https://www.twitch.tv/warframe
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/a7a4216acbfe833626b13cf93d49f152.jpg
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 698b7d6907cc2b87600bd9cf
+  Messages:
+    - LanguageCode: fr
+    Message: "[Prochainement] Devstream 193 - L'Ombromane "
+  Prop: 
+    https://forums.warframe.com/topic/1492678-prochainement-devstream-193-lombromane/
+  Date:
+    $date:
+      $numberLong: '1770749220000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/a7a4216acbfe833626b13cf93d49f152.jpg
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698b824debf22fa7e1025bc9
+  Messages:
+    - LanguageCode: fr
+    Message: 'Lancement Android : FAQ'
+  Prop: https://forums.warframe.com/topic/1492684-lancement-android-faq/
+  Date:
+    $date:
+      $numberLong: '1770750480000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2026_02/image.png.23bcab83d5b89913f492789a538e098f.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698b88787e938d1ba90c6a25
+  Messages:
+    - LanguageCode: ja
+    Message: Devstream 第193回のお知らせ
+  Prop: https://bit.ly/403l3Gg
+  Date:
+    $date:
+      $numberLong: '1770752040000'
+  EventStartDate:
+    $date:
+      $numberLong: '1770699600000'
+  EventEndDate:
+    $date:
+      $numberLong: '1772226000000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/a7a4216acbfe833626b13cf93d49f152.jpg
+  Priority: false
+  MobileOnly: false
+  Community: true
+  HideEndDateModifier: true
+  - _id:
+    $oid: 698ca8cd0cd32e1ccf05009a
+  Messages:
+    - LanguageCode: en
+    Message: 'Update 41.1: Vauban Heirloom Patch Notes'
+  Prop: https://www.warframe.com/patch-notes/pc/41-1-0
+  Date:
+    $date:
+      $numberLong: '1770825480000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/ade1eb557a596afe2dcddf1839be1ce0.png
+  Priority: true
+  MobileOnly: false
+  - _id:
+    $oid: 698ca9a87fe39f0cb2078769
+  Messages:
+    - LanguageCode: en
+    Message: Known Bugs Tracker
+  Prop: https://forums.warframe.com/topic/1492704-known-issues-vauban-heirloom/
+  Date:
+    $date:
+      $numberLong: '1770826080000'
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 698cab11cf975fa6290920d2
+  Messages:
+    - LanguageCode: en
+    Message: Vauban Heirloom Collection Now Available
+    - LanguageCode: fr
+    Message: Collection Vauban Héritage - Maintenant disponible
+    - LanguageCode: it
+    Message: Collezione Vauban Heirloom Ora Disponibile
+    - LanguageCode: de
+    Message: 'Die Heirloom-Kollektion: Vauban ist jetzt verfügbar'
+    - LanguageCode: es
+    Message: Colección Legado de Vauban disponible ya
+    - LanguageCode: pt
+    Message: A Coleção do Legado do Vauban já está disponível
+    - LanguageCode: ru
+    Message: Коллекция Вобана «Наследие» теперь в продаже!
+    - LanguageCode: pl
+    Message: Kolekcja Pamiątkowego Vaubana jest już dostępna
+    - LanguageCode: uk
+    Message: Колекція «Спадок» для Вобана вже доступна
+    - LanguageCode: tr
+    Message: Vauban Heirloom Koleksiyonu Şimdi Sizlerle
+    - LanguageCode: ja
+    Message: Vauban Heirloomコレクションが登場
+    - LanguageCode: zh
+    Message: Vauban 传家宝组合包现已登场
+    - LanguageCode: ko
+    Message: 바우반 에어룸 컬렉션을 지금 만나보세요
+    - LanguageCode: tc
+    Message: Vauban 祖傳組合包現已登場
+    - LanguageCode: th
+    Message: คอลเลกชัน Vauban Heirloom วางจำหน่ายแล้ว
+  Prop: 
+    https://www.warframe.com/heirloom/vauban?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-02-VaubanHeirloomLaunch
+  Date:
+    $date:
+      $numberLong: '1770825600000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/thumbnails/94cfb85cc32513b72a3ed7c46ac4bc0d_1600x900.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698cb0268bf154ee5007aabe
+  Messages:
+    - LanguageCode: pt
+    Message: 'Diretrizes da Comunidade: Código de Conduta'
+  Prop: 
+    https://forums.warframe.com/topic/1492036-diretrizes-da-comunidade-c%C3%B3digo-de-conduta/
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 698cb04081139377cd0eeb32
+  Messages:
+    - LanguageCode: pt
+    Message: 'Diretrizes da Comunidade: Uso do Bate-Papo'
+  Prop: 
+    https://forums.warframe.com/topic/1492034-diretrizes-da-comunidade-uso-dos-canais-de-bate-papo/
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 698cb1daf506355fa1057794
+  Messages:
+    - LanguageCode: en
+    Message: Lunar New Year 2026
+    - LanguageCode: fr
+    Message: Nouvel An Lunaire 2026
+    - LanguageCode: it
+    Message: Nuovo Anno Lunare 2026
+    - LanguageCode: de
+    Message: Neues Mondjahr 2026
+    - LanguageCode: es
+    Message: Año Nuevo Lunar 2026
+    - LanguageCode: pt
+    Message: Ano Novo Lunar 2026
+    - LanguageCode: ru
+    Message: Лунный Новый Год - 2026
+    - LanguageCode: pl
+    Message: Księżycowy Nowy Rok 2026
+    - LanguageCode: uk
+    Message: Місячний Новий рік 2026
+    - LanguageCode: tr
+    Message: 2026 Yeni Ay Yılı
+    - LanguageCode: ja
+    Message: ルナーリニューアル 2026
+    - LanguageCode: zh
+    Message: 2026 新春活动
+    - LanguageCode: ko
+    Message: 2026년 음력설
+    - LanguageCode: tc
+    Message: 農歷新年 2026
+    - LanguageCode: th
+    Message: เทศกาลตรุษจีน 2026
+  Prop: 
+    https://www.warframe.com/news/lunar-new-year-2026?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-LunarNewYearLaunch
+  Date:
+    $date:
+      $numberLong: '1770827400000'
+  EventEndDate:
+    $date:
+      $numberLong: '1773212340000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/b495f86b6da880c61afd175240e7e7f7.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698cd78f91c0e2fc5506b047
+  Messages:
+    - LanguageCode: ko
+    Message: '업데이트 41.1: 바우반 에어룸'
+  Prop: ''
+  Links:
+    - LanguageCode: ko
+    Link: 
+      https://forums.warframe.com/topic/1492854-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-411-%EB%B0%94%EC%9A%B0%EB%B0%98-%EC%97%90%EC%96%B4%EB%A3%B8/
+  Date:
+    $date:
+      $numberLong: '1770837840000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698ce0c9b52ec60c6206b240
+  Messages:
+    - LanguageCode: en
+    Message: Enter the Lunar New Year 2026 Backroom Showcase
+  Prop: 
+    https://forums.warframe.com/topic/1490420-year-of-the-horse-backroom-showcase/?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-LNYHorseBackroomShowcase
+  Date:
+    $date:
+      $numberLong: '1770840000000'
+  EventEndDate:
+    $date:
+      $numberLong: '1772780340000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/3fe88fee1e2b0e5d36e274eaf5cafd3d.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698d2373727825f24d0a4bb2
+  Messages:
+    - LanguageCode: pl
+    Message: 'AKTUALIZACJA 41.1: PAMIĄTKOWY VAUBAN'
+  Prop: 
+    https://forums.warframe.com/topic/1492942-aktualizacja-411-pami%C4%85tkowy-vauban/
+  Date:
+    $date:
+      $numberLong: '1770859200000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/ade1eb557a596afe2dcddf1839be1ce0.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 698de4990d8c03d4c00cca87
+  Messages:
+    - LanguageCode: es
+    Message: 'ACTUALIZACIÓN 41.1: LEGADO DE VAUBAN'
+  Prop: 
+    https://forums.warframe.com/topic/1493109-actualizaci%C3%B3n-411-legado-de-vauban/
+  Date:
+    $date:
+      $numberLong: '1770906600000'
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 698e36fdf79875d410074dbe
+  Messages:
+    - LanguageCode: pt
+    Message: 'Legado do Vauban: Correção 41.1.2'
+  Prop: 
+    https://forums.warframe.com/topic/1493811-legado-do-vauban-corre%C3%A7%C3%A3o-4112/
+  Date:
+    $date:
+      $numberLong: '1771344300000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 69921885d8c5c14dc00c4efa
+  Messages:
+    - LanguageCode: it
+    Message: 'Aggiornamento 41.1: Vauban Heirloom'
+  Prop: 
+    https://forums.warframe.com/topic/1492849-aggiornamento-411-vauban-heirloom/
+  Date:
+    $date:
+      $numberLong: '1771182120000'
+  EventEndDate:
+    $date:
+      $numberLong: '1772319600000'
+  Priority: true
+  MobileOnly: false
+  - _id:
+    $oid: 69948772095b84b1160168c8
+  Messages:
+    - LanguageCode: en
+    Message: 'Prime Time #471'
+  Prop: 
+    https://forums.warframe.com/topic/1493800-community-stream-schedule-feb-16-21-2026/?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-02-CommunityDrops-16
+  Date:
+    $date:
+      $numberLong: '1771341600000'
+  EventStartDate:
+    $date:
+      $numberLong: '1771542000000'
+  EventEndDate:
+    $date:
+      $numberLong: '1771549200000'
+  EventLiveUrl: https://www.twitch.tv/warframe
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/dcfc4879ebdf79ffea2ef0467feda2d2.jpg
+  Priority: false
+  MobileOnly: false
+  Community: true
+  - _id:
+    $oid: 699487a1095b84b1160168c9
+  Messages:
+    - LanguageCode: en
+    Message: Community Stream & Twitch Drop Schedule
+  Prop: 
+    https://forums.warframe.com/topic/1493800-community-stream-schedule-feb-16-21-2026/?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-02-CommunityDrops-16
+  Date:
+    $date:
+      $numberLong: '1771341660000'
+  EventEndDate:
+    $date:
+      $numberLong: '1771707600000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2026_02/image.png.c8fdeb5f144e7ecb67af4d771fb2acda.png
+  Priority: false
+  MobileOnly: false
+  Community: true
+  HideEndDateModifier: true
+  - _id:
+    $oid: 69948e1758a93b7247054f42
+  Messages:
+    - LanguageCode: ja
+    Message: 2月16日～2月21日の配信スケジュール
+  Prop: https://bit.ly/4rOyJAS
+  Date:
+    $date:
+      $numberLong: '1771343280000'
+  EventStartDate:
+    $date:
+      $numberLong: '1771304400000'
+  EventEndDate:
+    $date:
+      $numberLong: '1771794000000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2026_02/image.png.c8fdeb5f144e7ecb67af4d771fb2acda.png
+  Priority: false
+  MobileOnly: false
+  Community: true
+  HideEndDateModifier: true
+  - _id:
+    $oid: 699491ceff0b750c660f4493
+  Messages:
+    - LanguageCode: en
+    Message: 'Vauban Heirloom: Hotfix 41.1.2'
+  Prop: https://www.warframe.com/patch-notes/pc/41-1-2
+  Date:
+    $date:
+      $numberLong: '1771344300000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 69949928a7b2dd1038013874
+  Messages:
+    - LanguageCode: en
+    Message: Use your Two-for-One Platinum Coupon Before Feb.24
+    - LanguageCode: fr
+    Message: Utilisez votre Coupon de Platinum "Deux pour Un" avant le 24 
+      février
+    - LanguageCode: it
+    Message: Utilizza il tuo Coupon Platinum Due per Uno prima del 24 Febbraio
+    - LanguageCode: de
+    Message: Nutze deinen 'Zwei-für-Eins'-Platinum-Coupon vor dem 24. Februar
+    - LanguageCode: es
+    Message: Usa tu cupón "Dos por uno" en Platinum antes del 24 de febrero
+    - LanguageCode: pt
+    Message: Use seu Cupom "Compre 1, Leve 2" para compra de Platinas antes do 
+      dia 24 de fevereiro
+    - LanguageCode: pl
+    Message: Wykorzystaj swój kupon promocyjny do 24 lutego
+    - LanguageCode: uk
+    Message: Використайте купон «За один майте два» до 24 лютого
+    - LanguageCode: tr
+    Message: İki al bir öde Platinum kuponunuzu 24 Şubat'tan önce kullanın
+    - LanguageCode: ja
+    Message: 2月25日までに「ご購入でもう一点プレゼント」プラチナクーポンをご利用ください
+    - LanguageCode: zh
+    Message: 请在美东冬令时间 2 月 24 日前使用你的买一送一白金优惠券
+    - LanguageCode: ko
+    Message: 북미 시각 2월 24일 전에 플래티넘 1+1 쿠폰을 사용하세요
+    - LanguageCode: tc
+    Message: 請於 2 月 24 日前使用你的買一送一白金優惠券。
+    - LanguageCode: th
+    Message: ใช้คูปองซื้อแพลทินัม 1 แถม 1 ก่อนวันที่ 24 กุมภาพันธ์
+  Prop: 
+    https://www.warframe.com/news/platinum-packs-refresh?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-02-PlatinumPackRefresh
+  Date:
+    $date:
+      $numberLong: '1771344000000'
+  EventEndDate:
+    $date:
+      $numberLong: '1771948800000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/139a683af1647d8b3c5643fe8b60a44d.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 6994ac9721a0426ec903a3e3
+  Messages:
+    - LanguageCode: fr
+    Message: 'Streams & Drops : 16 - 21 février '
+  Prop: 
+    https://forums.warframe.com/topic/1493826-streams-communautaires-16-21-f%C3%A9vrier/
+  Date:
+    $date:
+      $numberLong: '1771351080000'
+  EventStartDate:
+    $date:
+      $numberLong: '1771304400000'
+  EventEndDate:
+    $date:
+      $numberLong: '1771729200000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2026_02/image.png.c8fdeb5f144e7ecb67af4d771fb2acda.png
+  Priority: false
+  MobileOnly: false
+  HideEndDateModifier: true
+  - _id:
+    $oid: 6994ba8f3da593c52c07a87a
+  Messages:
+    - LanguageCode: fr
+    Message: 'Notes : Vauban Héritage 41.1.2'
+  Prop: 
+    https://forums.warframe.com/topic/1493835-vauban-h%C3%A9ritage-correctif-4112/
+  Date:
+    $date:
+      $numberLong: '1771354680000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 6994d9f22989de975009d1b1
+  Messages:
+    - LanguageCode: es
+    Message: Programa de Twitch Drops 16 - 21 de Febrero
+  Prop: 
+    https://forums.warframe.com/topic/1493844-programa-de-streams-y-twitch-drops-16-21-de-febrero-2026/
+  Date:
+    $date:
+      $numberLong: '1771362600000'
+  EventEndDate:
+    $date:
+      $numberLong: '1771707600000'
+  Priority: false
+  MobileOnly: false
+  Community: true
+  HideEndDateModifier: true
+  - _id:
+    $oid: 6995bb40d5609dccd7092625
+  Messages:
+    - LanguageCode: pl
+    Message: 'Pamiątkowy Vauban: Poprawka 41.1.2'
+  Prop: 
+    https://forums.warframe.com/topic/1493944-pami%C4%85tkowy-vauban-poprawka-4112/
+  Date:
+    $date:
+      $numberLong: '1771420440000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 699620009b8e02796d0a165e
+  Messages:
+    - LanguageCode: fr
+    Message: '[PSA] Lancement mondial de Warframe sur Android repoussé '
+  Prop: 
+    https://forums.warframe.com/topic/1493987-psa-lancement-mondial-de-warframe-sur-android-repouss%C3%A9/
+  Date:
+    $date:
+      $numberLong: '1771446240000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 699626b45b15d5284e0dbc78
+  Messages:
+    - LanguageCode: pl
+    Message: 'Komunikat: Opóźnienie globalnej premiery Warframe na Androidzie'
+  Prop: 
+    https://forums.warframe.com/topic/1493993-komunikat-op%C3%B3%C5%BAnienie-globalnej-premiery-warframe-na-androidzie/
+  Date:
+    $date:
+      $numberLong: '1771447860000'
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 699639b6a58bbebd9601be22
+  Messages:
+    - LanguageCode: en
+    Message: Warframe on Android Now Live Worldwide
+    - LanguageCode: fr
+    Message: Warframe Android dispo mondialement
+    - LanguageCode: it
+    Message: Warframe su Android ora Disponibile Globalmente
+    - LanguageCode: de
+    Message: Warframe ist jetzt weltweit für Android verfügbar
+    - LanguageCode: es
+    Message: Warframe para Android ya está disponible en todo el mundo
+    - LanguageCode: pt
+    Message: O Warframe para Android já está disponível mundialmente
+    - LanguageCode: ru
+    Message: Warframe на Android уже доступен по всему миру
+    - LanguageCode: pl
+    Message: Warframe na Androidzie jest już dostępny na całym świecie
+    - LanguageCode: uk
+    Message: Warframe на Android уже доступний у всьому світі
+    - LanguageCode: tr
+    Message: Warframe Android platformunda artık dünya çapında yayında
+    - LanguageCode: ja
+    Message: Android版Warframeが世界各地で実装
+    - LanguageCode: zh
+    Message: 安卓版《Warframe》现已全球上线
+    - LanguageCode: ko
+    Message: 워프레임 안드로이드 버전이 전 세계에 출시됩니다
+    - LanguageCode: tc
+    Message: Warframe Android 版已在全球登場
+    - LanguageCode: th
+    Message: Warframe บน Android เปิดให้เล่นแล้วทั่วโลก
+  Prop: 
+    https://www.warframe.com/news/warframe-on-android-available-now?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-02-AndroidGlobalLaunch
+  Date:
+    $date:
+      $numberLong: '1771452000000'
+  ImageUrl: 
+    https://www-static.warframe.com/uploads/a77cff99590968f00c94501ddd0632c9.png
+  Priority: false
+  MobileOnly: false
+  - _id:
+    $oid: 699732a90bbc5972ef086da8
+  Messages:
+    - LanguageCode: fr
+    Message: Warframe Android est maintenant disponible partout !
+  Prop: 
+    https://forums.warframe.com/topic/1494116-psa-warframe-android-est-maintenant-disponible-partout/
+  Date:
+    $date:
+      $numberLong: '1771516380000'
+  EventStartDate:
+    $date:
+      $numberLong: '1771516380000'
+  ImageUrl: 
+    https://media.invisioncic.com/Mwarframe/monthly_2026_02/image.png.f7255712a6611094fad2edf844ec4cef.png
+  Priority: false
+  MobileOnly: false
+Goals:
+  - _id:
+    $oid: 5c7cb0d00000000000000000
+  Activation:
+    $date:
+      $numberLong: '1770656400000'
+  Expiry:
+    $date:
+      $numberLong: '1771866000000'
+  Node: オーブ峡谷
+  ScoreVar: FissuresClosed
+  ScoreLocTag: /Lotus/Language/G1Quests/HeatFissuresEventScore
+  Count: 13
+  HealthPct: 0.13
+  Regions:
+    - 1
+  Desc: /Lotus/Language/G1Quests/HeatFissuresEventName
+  ToolTip: /Lotus/Language/G1Quests/HeatFissuresEventDesc
+  OptionalInMission: true
+  Tag: HeatFissure
+  UpgradeIds:
+    - $oid: 698771ea87748238628ce5b1
+    - $oid: 698771ea87748238628ce5b2
+  Personal: true
+  Community: true
+  Goal: 100
+  Reward:
+    credits: 0
+    xp: 0
+    items:
+      - Opticor Vandal
+    countedItems: []
+  InterimGoals:
+    - 5
+    - 25
+    - 50
+    - 75
+  InterimRewards:
+    - credits: 0
+    xp: 0
+    items:
+      - 「埋もれた負債」エンブレム
+    countedItems: []
+    - credits: 0
+    xp: 0
+    items:
+      - Amalgam Shotgun Barrage
+      - Amalgam Serration
+    countedItems: []
+    - credits: 0
+    xp: 0
+    items:
+      - Amalgam Barrel Diffusion
+      - Amalgam Organ Shatter
+    countedItems: []
+    - credits: 0
+    xp: 0
+    items:
+      - 「埋もれた負債」シジル
+    countedItems: []
+  - _id:
+    $oid: 69821248257e0704f3ce8a45
+  Activation:
+    $date:
+      $numberLong: '1770220800000'
+  Expiry:
+    $date:
+      $numberLong: '1772467200000'
+  Count: 0
+  Goal: 0
+  Success: 0
+  Personal: true
+  Desc: /Lotus/Language/Events/ValentinesFortunaName
+  ToolTip: /Lotus/Language/Events/ValentinesFortunaName
+  Icon: /Lotus/Interface/Icons/WorldStatePanel/ValentinesEventIcon.png
+  Tag: FortunaValentines
+  Node: SolarisUnitedHub1
+Alerts: []
+Sorties:
+  - _id:
+    $oid: 69973e0fc08615106f8ce5b1
+  Activation:
+    $date:
+      $numberLong: '1771520400000'
+  Expiry:
+    $date:
+      $numberLong: '1771606800000'
+  Reward: /Lotus/Types/Game/MissionDecks/SortieRewards
+  Seed: 30527
+  Boss: SORTIE_BOSS_RAPTOR
+  ExtraDrops: []
+  Variants:
+    - missionType: MT_MOBILE_DEFENSE
+    modifierType: SORTIE_MODIFIER_PUNCTURE
+    node: Abaddon
+    tileset: CorpusIcePlanetTileset
+    - missionType: MT_EXTERMINATION
+    modifierType: SORTIE_MODIFIER_HAZARD_ICE
+    node: V Prime
+    tileset: CorpusShipTileset
+    - missionType: MT_RESCUE
+    modifierType: SORTIE_MODIFIER_BOW_ONLY
+    node: Copernicus
+    tileset: OrokinMoonTilesetCorpus
+  Twitter: true
+LiteSorties:
+  - _id:
+    $oid: 69925a7e7a8911586a8ce5b4
+  Activation:
+    $date:
+      $numberLong: '1771200000000'
+  Expiry:
+    $date:
+      $numberLong: '1771804800000'
+  Reward: /Lotus/Types/Game/MissionDecks/ArchonSortieRewards
+  Seed: 85590
+  Boss: SORTIE_BOSS_NIRA
+  Missions:
+    - missionType: MT_RESCUE
+    node: Callisto
+    - missionType: MT_ARTIFACT
+    node: Thebe
+    - missionType: MT_ASSASSINATION
+    node: Themisto
+SyndicateMissions:
+  - _id:
+    $oid: 699740c20000000000000006
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
+  Tag: HexSyndicate
+  Seed: 15525
+  Nodes: []
+  - _id:
+    $oid: 699740c20000000000000002
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
+  Tag: EntratiSyndicate
+  Seed: 15524
+  Nodes: []
+  Jobs:
+    - jobType: 
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosKeyPiecesBounty
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierATableARewards
+    masteryReq: 0
+    minEnemyLevel: 5
+    maxEnemyLevel: 15
+    xpAmounts:
+      - 5
+      - 5
+      - 5
+    - jobType: 
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosCrpSurvivorBounty
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierCTableARewards
+    masteryReq: 1
+    minEnemyLevel: 15
+    maxEnemyLevel: 25
+    xpAmounts:
+      - 11
+      - 11
+      - 11
+    - jobType: 
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosEndlessExcavateBounty
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierBTableARewards
+    masteryReq: 5
+    minEnemyLevel: 25
+    maxEnemyLevel: 30
+    endless: true
+    xpAmounts:
+      - 14
+      - 14
+      - 14
+    - jobType: /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosPurifyBounty
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierDTableARewards
+    masteryReq: 2
+    minEnemyLevel: 30
+    maxEnemyLevel: 40
+    xpAmounts:
+      - 18
+      - 18
+      - 18
+      - 27
+    - jobType: 
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosExcavateBounty
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierETableARewards
+    masteryReq: 3
+    minEnemyLevel: 40
+    maxEnemyLevel: 60
+    xpAmounts:
+      - 23
+      - 23
+      - 23
+      - 23
+      - 45
+    - jobType: 
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosGrnSurvivorBounty
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierETableARewards
+    masteryReq: 10
+    minEnemyLevel: 100
+    maxEnemyLevel: 100
+    xpAmounts:
+      - 25
+      - 25
+      - 25
+      - 25
+      - 50
+    - rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierATableBRewards
+    masteryReq: 5
+    minEnemyLevel: 30
+    maxEnemyLevel: 40
+    xpAmounts:
+      - 2
+      - 2
+      - 2
+      - 4
+    locationTag: ChamberB
+    isVault: true
+    - rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierBTableBRewards
+    masteryReq: 5
+    minEnemyLevel: 40
+    maxEnemyLevel: 50
+    xpAmounts:
+      - 4
+      - 4
+      - 4
+      - 5
+    locationTag: ChamberA
+    isVault: true
+    - rewards: 
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierCTableBRewards
+    masteryReq: 5
+    minEnemyLevel: 50
+    maxEnemyLevel: 60
+    xpAmounts:
+      - 5
+      - 5
+      - 5
+      - 7
+    locationTag: ChamberC
+    isVault: true
+  - _id:
+    $oid: 699740c20000000000000010
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
+  Tag: CetusSyndicate
+  Seed: 15524
+  Nodes: []
+  Jobs:
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/ReclamationBountyTheft
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierATableARewards
+    masteryReq: 0
+    minEnemyLevel: 5
+    maxEnemyLevel: 15
+    xpAmounts:
+      - 400
+      - 400
+      - 400
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/ReclamationBountyCap
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierBTableARewards
+    masteryReq: 1
+    minEnemyLevel: 10
+    maxEnemyLevel: 30
+    xpAmounts:
+      - 630
+      - 630
+      - 630
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AssassinateBountyCap
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierCTableARewards
+    masteryReq: 2
+    minEnemyLevel: 20
+    maxEnemyLevel: 40
+    xpAmounts:
+      - 670
+      - 670
+      - 670
+      - 990
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AttritionBountyCap
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierDTableARewards
+    masteryReq: 3
+    minEnemyLevel: 30
+    maxEnemyLevel: 50
+    xpAmounts:
+      - 570
+      - 570
+      - 570
+      - 570
+      - 1120
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/CaptureBountyCapOne
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierETableARewards
+    masteryReq: 5
+    minEnemyLevel: 40
+    maxEnemyLevel: 60
+    xpAmounts:
+      - 750
+      - 750
+      - 750
+      - 750
+      - 1470
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/CaptureBountyCapTwo
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierETableARewards
+    masteryReq: 10
+    minEnemyLevel: 100
+    maxEnemyLevel: 100
+    xpAmounts:
+      - 840
+      - 840
+      - 840
+      - 840
+      - 1660
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/Narmer/AttritionBountyExt
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/NarmerTableARewards
+    masteryReq: 0
+    minEnemyLevel: 50
+    maxEnemyLevel: 70
+    xpAmounts:
+      - 770
+      - 770
+      - 770
+      - 770
+      - 1500
+  - _id:
+    $oid: 699740c20000000000000004
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
+  Tag: EntratiLabSyndicate
+  Seed: 15525
+  Nodes: []
+  - _id:
+    $oid: 699740c20000000000000031
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
+  Tag: SolarisSyndicate
+  Seed: 15524
+  Nodes: []
+  Jobs:
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusTheftJobResource
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierATableARewards
+    masteryReq: 0
+    minEnemyLevel: 5
+    maxEnemyLevel: 15
+    xpAmounts:
+      - 460
+      - 460
+      - 460
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusChaosJobAssassinate
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierBTableARewards
+    masteryReq: 1
+    minEnemyLevel: 10
+    maxEnemyLevel: 30
+    xpAmounts:
+      - 610
+      - 610
+      - 610
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusIntelJobSpy
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierCTableARewards
+    masteryReq: 2
+    minEnemyLevel: 20
+    maxEnemyLevel: 40
+    xpAmounts:
+      - 570
+      - 570
+      - 570
+      - 850
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusTheftJobExcavation
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierDTableARewards
+    masteryReq: 3
+    minEnemyLevel: 30
+    maxEnemyLevel: 50
+    xpAmounts:
+      - 610
+      - 610
+      - 610
+      - 610
+      - 1200
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusPreservationJobRecovery
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierETableARewards
+    masteryReq: 5
+    minEnemyLevel: 40
+    maxEnemyLevel: 60
+    xpAmounts:
+      - 680
+      - 680
+      - 680
+      - 680
+      - 1340
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusChaosJobExcavation
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierETableARewards
+    masteryReq: 10
+    minEnemyLevel: 100
+    maxEnemyLevel: 100
+    xpAmounts:
+      - 840
+      - 840
+      - 840
+      - 840
+      - 1660
+    - jobType: 
+      /Lotus/Types/Gameplay/Venus/Jobs/Narmer/NarmerVenusCullJobExterminate
+    rewards: 
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/NarmerTableARewards
+    masteryReq: 0
+    minEnemyLevel: 50
+    maxEnemyLevel: 70
+    xpAmounts:
+      - 800
+      - 800
+      - 800
+      - 800
+      - 1560
+  - _id:
+    $oid: 699740c20000000000000035
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
+  Tag: ZarimanSyndicate
+  Seed: 15525
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b1
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: ArbitersSyndicate
+  Seed: 30527
+  Nodes:
+    - Cambria
+    - Linea
+    - Caloris
+    - Baal
+    - Rhea
+    - Casta
+    - Saxis
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b3
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: NecraloidSyndicate
+  Seed: 87253
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b4
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: EventSyndicate
+  Seed: 62089
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b5
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: KahlSyndicate
+  Seed: 10048
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b2
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: CephalonSudaSyndicate
+  Seed: 71506
+  Nodes:
+    - Martialis
+    - Cervantes
+    - Roche
+    - Sorath
+    - Umbriel
+    - M Prime
+    - Io
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b6
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: NewLokaSyndicate
+  Seed: 69708
+  Nodes:
+    - Hellas
+    - E Gate
+    - Suisei
+    - Bode
+    - Palus
+    - Sharpless
+    - Larissa
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b7
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: NightcapJournalSyndicate
+  Seed: 70177
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b8
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: QuillsSyndicate
+  Seed: 41773
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5ba
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegion2Syndicate
+  Seed: 73919
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b9
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: PerrinSyndicate
+  Seed: 47601
+  Nodes:
+    - Everest
+    - Odin
+    - Cytherean
+    - Carpo
+    - Nabuk
+    - Charybdis
+    - Augustus
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bb
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegion3Syndicate
+  Seed: 44769
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bc
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission10Syndicate
+  Seed: 13123
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5be
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission12Syndicate
+  Seed: 41112
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bd
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission11Syndicate
+  Seed: 76822
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bf
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission13Syndicate
+  Seed: 7538
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c0
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission14Syndicate
+  Seed: 29493
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c4
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission5Syndicate
+  Seed: 66439
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c2
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission3Syndicate
+  Seed: 12833
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c5
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission6Syndicate
+  Seed: 70673
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c1
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission2Syndicate
+  Seed: 34447
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c3
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission4Syndicate
+  Seed: 73599
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c6
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission7Syndicate
+  Seed: 50807
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c7
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission8Syndicate
+  Seed: 78755
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c8
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission9Syndicate
+  Seed: 22727
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5ca
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionSyndicate
+  Seed: 13062
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c9
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermissionSyndicate
+  Seed: 2784
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5cb
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RedVeilSyndicate
+  Seed: 10661
+  Nodes:
+    - Eurasia
+    - Ara
+    - Kiliken
+    - Callisto
+    - Boethius
+    - Dione
+    - Hydron
+  - _id:
+    $oid: 69974156cc8765b3e98ce5cd
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: VoxSyndicate
+  Seed: 18116
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5cc
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: VentKidsSyndicate
+  Seed: 46855
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5ce
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: SteelMeridianSyndicate
+  Seed: 14042
+  Nodes:
+    - Unda
+    - Ares
+    - Pantheon
+    - Olympus
+    - Naga
+    - Galatea
+    - Orias
+ActiveMissions:
+  - _id:
+    $oid: 6997395ebf86149d638ce5b1
+  Region: 11
+  Seed: 74924
+  Activation:
+    $date:
+      $numberLong: '1771518302571'
+  Expiry:
+    $date:
+      $numberLong: '1771524866928'
+  Node: Xini
+  MissionType: MT_TERRITORY
+  Modifier: VoidT4
+  - _id:
+    $oid: 69973bb6b22693d8178ce5b2
+  Region: 3
+  Seed: 80553
+  Activation:
+    $date:
+      $numberLong: '1771518902450'
+  Expiry:
+    $date:
+      $numberLong: '1771524600755'
+  Node: Pacific
+  MissionType: MT_RESCUE
+  Modifier: VoidT1
+  Hard: true
+  - _id:
+    $oid: 6997449eea548193018ce5b1
+  Region: 16
+  Seed: 88888
+  Activation:
+    $date:
+      $numberLong: '1771521182513'
+  Expiry:
+    $date:
+      $numberLong: '1771526461296'
+  Node: Stickney
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT2
+  - _id:
+    $oid: 6997449eea548193018ce5b2
+  Region: 6
+  Seed: 9544
+  Activation:
+    $date:
+      $numberLong: '1771521182513'
+  Expiry:
+    $date:
+      $numberLong: '1771525346427'
+  Node: Telesto
+  MissionType: MT_EXTERMINATION
+  Modifier: VoidT2
+  - _id:
+    $oid: 699744da92cbcbec1c8ce5b1
+  Region: 17
+  Seed: 96241
+  Activation:
+    $date:
+      $numberLong: '1771521242834'
+  Expiry:
+    $date:
+      $numberLong: '1771527283033'
+  Node: Persto
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT6
+  Hard: true
+  - _id:
+    $oid: 699747abef729f6bd38ce5b1
+  Region: 18
+  Seed: 17337
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771525861474'
+  Node: Circulus
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT6
+  - _id:
+    $oid: 699747abef729f6bd38ce5b2
+  Region: 19
+  Seed: 91979
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771525894257'
+  Node: Garus
+  MissionType: MT_RESCUE
+  Modifier: VoidT5
+  - _id:
+    $oid: 699747abef729f6bd38ce5b3
+  Region: 19
+  Seed: 40406
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771527289476'
+  Node: Nabuk
+  MissionType: MT_DEFENSE
+  Modifier: VoidT5
+  - _id:
+    $oid: 699747abef729f6bd38ce5b4
+  Region: 19
+  Seed: 10825
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771526122075'
+  Node: Dakata
+  MissionType: MT_EXTERMINATION
+  Modifier: VoidT5
+  - _id:
+    $oid: 699748220e656b870d8ce5b1
+  Region: 15
+  Seed: 17778
+  Activation:
+    $date:
+      $numberLong: '1771522082673'
+  Expiry:
+    $date:
+      $numberLong: '1771525684119'
+  Node: Mithra
+  MissionType: MT_TERRITORY
+  Modifier: VoidT3
+  - _id:
+    $oid: 69974b6ab65f8431d48ce5b1
+  Region: 15
+  Seed: 33251
+  Activation:
+    $date:
+      $numberLong: '1771522922401'
+  Expiry:
+    $date:
+      $numberLong: '1771527352827'
+  Node: Belenus
+  MissionType: MT_DEFENSE
+  Modifier: VoidT4
+  Hard: true
+  - _id:
+    $oid: 69974c1e08178efc0b8ce5b1
+  Region: 6
+  Seed: 38299
+  Activation:
+    $date:
+      $numberLong: '1771523102191'
+  Expiry:
+    $date:
+      $numberLong: '1771526774719'
+  Node: Titan
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT2
+  Hard: true
+  - _id:
+    $oid: 69974c1e08178efc0b8ce5b2
+  Region: 10
+  Seed: 70512
+  Activation:
+    $date:
+      $numberLong: '1771523102191'
+  Expiry:
+    $date:
+      $numberLong: '1771528108884'
+  Node: Thon
+  MissionType: MT_SABOTAGE
+  Modifier: VoidT2
+  Hard: true
+  - _id:
+    $oid: 69974c5a3a37d37dd28ce5b1
+  Region: 13
+  Seed: 32675
+  Activation:
+    $date:
+      $numberLong: '1771523162598'
+  Expiry:
+    $date:
+      $numberLong: '1771528474733'
+  Node: Valac
+  MissionType: MT_INTEL
+  Modifier: VoidT3
+  Hard: true
+  - _id:
+    $oid: 69974c5a3a37d37dd28ce5b2
+  Region: 7
+  Seed: 57892
+  Activation:
+    $date:
+      $numberLong: '1771523162598'
+  Expiry:
+    $date:
+      $numberLong: '1771527212579'
+  Node: Stephano
+  MissionType: MT_DEFENSE
+  Modifier: VoidT3
+  Hard: true
+  - _id:
+    $oid: 69974dc244f17eccac8ce5b1
+  Region: 2
+  Seed: 12455
+  Activation:
+    $date:
+      $numberLong: '1771523522367'
+  Expiry:
+    $date:
+      $numberLong: '1771527540635'
+  Node: Aphrodite
+  MissionType: MT_MOBILE_DEFENSE
+  Modifier: VoidT1
+  - _id:
+    $oid: 69974dc244f17eccac8ce5b2
+  Region: 4
+  Seed: 8831
+  Activation:
+    $date:
+      $numberLong: '1771523522367'
+  Expiry:
+    $date:
+      $numberLong: '1771527443122'
+  Node: Vallis
+  MissionType: MT_MOBILE_DEFENSE
+  Modifier: VoidT1
+  - _id:
+    $oid: 69974e768ae316c9668ce5b1
+  Region: 19
+  Seed: 21670
+  Activation:
+    $date:
+      $numberLong: '1771523702259'
+  Expiry:
+    $date:
+      $numberLong: '1771529453580'
+  Node: Koro
+  MissionType: MT_ASSAULT
+  Modifier: VoidT5
+  Hard: true
+GlobalUpgrades: []
+FlashSales:
+  - TypeName: 
+    /Lotus/Types/StoreItems/Packages/2024Bundles/JadeShadowsSupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1740585600000'
+  EndDate:
+    $date:
+      $numberLong: '1895961600000'
+  - TypeName: 
+    /Lotus/Types/StoreItems/Packages/2024Bundles/VoltNovaSumoDeluxePack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1747897200000'
+  EndDate:
+    $date:
+      $numberLong: '1894358760000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/HODMarketBundle
+  PremiumOverride: 465
+  StartDate:
+    $date:
+      $numberLong: '1709308800000'
+  EndDate:
+    $date:
+      $numberLong: '1893510000000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/TnDeimosSupporterArmourBundle
+  PremiumOverride: 110
+  StartDate:
+    $date:
+      $numberLong: '1709308800000'
+  EndDate:
+    $date:
+      $numberLong: '1893510000000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/VeilbreakerSupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1672591560000'
+  EndDate:
+    $date:
+      $numberLong: '1895849220000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/AOTZMarketBundle
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1709308800000'
+  EndDate:
+    $date:
+      $numberLong: '1893510000000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/InitiateIIIConsolePack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1727691900000'
+  EndDate:
+    $date:
+      $numberLong: '1893456000000'
+  - TypeName: 
+    /Lotus/Types/StoreItems/Packages/2024Bundles/ShrineMaidenSupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1747897200000'
+  EndDate:
+    $date:
+      $numberLong: '1894358760000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/RhinoHeirloomPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1753110000000'
+  EndDate:
+    $date:
+      $numberLong: '1893492420000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/TNWMarketBundle
+  PremiumOverride: 145
+  StartDate:
+    $date:
+      $numberLong: '1709308800000'
+  EndDate:
+    $date:
+      $numberLong: '1893510000000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/TC2025DigitalPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1753441200000'
+  EndDate:
+    $date:
+      $numberLong: '1895570760000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/2024Bundles/Cyte09SupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1757602800000'
+  EndDate:
+    $date:
+      $numberLong: '1893498900000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/EncoreGeminiSupPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1757602800000'
+  EndDate:
+    $date:
+      $numberLong: '1893498960000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/GlamrockSupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1757602800000'
+  EndDate:
+    $date:
+      $numberLong: '1893499020000'
+  - TypeName: 
+    /Lotus/Types/StoreItems/Packages/2024Bundles/GeminiSkinsSupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1757602800000'
+  EndDate:
+    $date:
+      $numberLong: '1893498840000'
+  - TypeName: 
+    /Lotus/Types/StoreItems/Packages/2024Bundles/GeminiHexCompleteSupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1764777900000'
+  EndDate:
+    $date:
+      $numberLong: '1893456000000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/EncoreCompSupPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1764777900000'
+  EndDate:
+    $date:
+      $numberLong: '1893456000000'
+  - TypeName: Valentine
+  RegularOverride: 1
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/Valentine2020GlyphBundle
+  PremiumOverride: 60
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ VI
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ VIII
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Eros オロ装飾品
+  RegularOverride: 50000
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/Valentine2017GlyphBundle
+  PremiumOverride: 80
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ VII
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ I
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ IX
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ II
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ V
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ III
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: Donwyn グリフ IV
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770220800000'
+  EndDate:
+    $date:
+      $numberLong: '1772467200000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1772467200000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/NightwatchWeaponSkinBundle
+  Discount: 19
+  PremiumOverride: 110
+  StartDate:
+    $date:
+      $numberLong: '1771113600000'
+  EndDate:
+    $date:
+      $numberLong: '1771545600000'
+  DailySaleGenerated: true
+  - TypeName: /Lotus/Types/StoreItems/Packages/GlassBundle
+  Discount: 18
+  PremiumOverride: 675
+  StartDate:
+    $date:
+      $numberLong: '1771200000000'
+  EndDate:
+    $date:
+      $numberLong: '1771632000000'
+  DailySaleGenerated: true
+  - TypeName: /Lotus/Types/StoreItems/Packages/MemeGlyphBundleA
+  Discount: 17
+  PremiumOverride: 50
+  StartDate:
+    $date:
+      $numberLong: '1771286400000'
+  EndDate:
+    $date:
+      $numberLong: '1771718400000'
+  DailySaleGenerated: true
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2023BundleC
+  PremiumOverride: 500
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: 勇敢な寅のぬいぐるみ
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Clavatus ヘビーブレード スキン
+  PremiumOverride: 45
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル Prowl シジル
+  PremiumOverride: 40
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアルテーマ
+  PremiumOverride: 50
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「卯」フラリッシュ
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル Carp スガトラ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Cernos Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Clavatus Ignis スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Purified Bloom エフェメラ
+  PremiumOverride: 60
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「卯」シジル
+  PremiumOverride: 40
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2023BundleB
+  PremiumOverride: 265
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Cedo Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ピースフル・ラビットのぬいぐるみ
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Nagantaka Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2023BundleA
+  PremiumOverride: 135
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Chroma Zunlong のぬいぐるみ
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Nukor Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ホワイト ラッキーキャバット
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2026BundleB
+  PremiumOverride: 480
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアルバックグラウンド
+  PremiumOverride: 50
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ターコイズ ラッキーキャバット
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2026BundleA
+  PremiumOverride: 295
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Lunaeus マチェット スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2026BundleC
+  PremiumOverride: 700
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル カリグラフィーポスター
+  RegularOverride: 1
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ゴールド ラッキーキャバット
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Pyrana Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Lunaeus Knot スガトラ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2024BundleA
+  PremiumOverride: 135
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Peach Blossom エフェメラ
+  PremiumOverride: 60
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Orthos Lunaeus スキン
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Moondance クブロウアーマー
+  PremiumOverride: 90
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Clavatus Zarr スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Acceltra Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2025BundleB
+  PremiumOverride: 590
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: チャーミング・スネークのぬいぐるみ
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Malaen エフェメラ
+  PremiumOverride: 60
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「巳」シジル
+  PremiumOverride: 40
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Cordmade スガトラ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「巳」フラリッシュ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2025BundleA
+  PremiumOverride: 215
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2025BundleC
+  PremiumOverride: 805
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Dagath Yfari スキン
+  PremiumOverride: 165
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: 不屈のケイスのぬいぐるみ
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Mirage Nuwaのぬいぐるみ
+  PremiumOverride: 35
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「午」シジル
+  PremiumOverride: 40
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「ケイス」フラリッシュ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Tanau スガトラ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Gynfas テール
+  PremiumOverride: 30
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Gynfas ケイス
+  PremiumOverride: 220
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2024SentinelSkinBundle
+  PremiumOverride: 95
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Baochun スガトラ
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「辰」シジル
+  PremiumOverride: 40
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Dragondance センチネル テール
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Hespar Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ' Lunaeus デュアルソード スキン'
+  PremiumOverride: 75
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2024BundleB
+  PremiumOverride: 295
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Dragondance センチネルスキン
+  PremiumOverride: 85
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Dragondance センチネル マスク
+  PremiumOverride: 30
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: ルナーリニューアル「辰」フラリッシュ
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Dragondance センチネル ウイング
+  PremiumOverride: 15
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Ogris Lunaeus スキン
+  PremiumOverride: 25
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: /Lotus/Types/StoreItems/Packages/LNY2024BundleC
+  PremiumOverride: 575
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Bingwu グリフ
+  RegularOverride: 1
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Xianglong エフェメラ
+  PremiumOverride: 60
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Heaven Stones エフェメラ
+  PremiumOverride: 60
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Boltor Lunaeus スキン
+  PremiumOverride: 20
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: Moondance キャバットアーマー
+  PremiumOverride: 90
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1773244800000'
+  ProductExpiryOverride:
+    $date:
+      $numberLong: '1773244800000'
+  - TypeName: シミター Nami スキン
+  Discount: 20
+  PremiumOverride: 40
+  StartDate:
+    $date:
+      $numberLong: '1771372800000'
+  EndDate:
+    $date:
+      $numberLong: '1771804800000'
+  DailySaleGenerated: true
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/ValkyrHeirloomPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1770825600000'
+  EndDate:
+    $date:
+      $numberLong: '1893510000000'
+  - TypeName: Zastra デュアルダガー スキン
+  Discount: 20
+  PremiumOverride: 80
+  StartDate:
+    $date:
+      $numberLong: '1771459200000'
+  EndDate:
+    $date:
+      $numberLong: '1771891200000'
+  DailySaleGenerated: true
+  - TypeName: /Lotus/Types/StoreItems/Packages/2025Bundles/2025SupporterPack
+  ShowInMarket: true
+  HideFromMarket: true
+  StartDate:
+    $date:
+      $numberLong: '1771430400000'
+  EndDate:
+    $date:
+      $numberLong: '1893456000000'
+SkuSales: []
+InGameMarket:
+  LandingPage:
+    Categories:
+      - CategoryName: NEW_PLAYER
+      Name: /Lotus/Language/Store/NewPlayerCategoryTitle
+      Icon: newplayer
+      AddToMenu: true
+      Items:
+        - /Lotus/Types/StoreItems/Packages/2026Bundles/2026Q1Battlekit
+        - Wukong
+        - Silva & Aegis
+        - Okuri Tails エフェメラ
+        - /Lotus/StoreItems/Types/StoreItems/SlotItems/TwoWeaponSlotItem
+        - Wisp
+        - Strun
+        - Rhino
+        - Sonicor
+        - 3日間 アフィニティ ブースター
+      - CategoryName: POPULAR
+      Name: /Lotus/Language/Menu/StorePopular
+      Icon: popular
+      AddToMenu: true
+      Items:
+        - /Lotus/Types/StoreItems/Packages/2026Bundles/VaubanHeirloomPack
+        - /Lotus/Types/StoreItems/Packages/2026Bundles/2026Q1Battlekit
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1CompleteStoreItem
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1Tier3StoreItem
+        - /Lotus/Types/StoreItems/Packages/LNY2026BundleC
+        - /Lotus/Types/StoreItems/Packages/FormaPack
+        - Dagath Yfari スキン
+        - Vauban Heirloom スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2026BundleB
+        - Marie Gemini スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2024BundleC
+        - /Lotus/Types/StoreItems/Packages/LNY2024SentinelSkinBundle
+        - /Lotus/Types/StoreItems/Packages/LNY2025BundleC
+        - Tanau スガトラ
+        - Vauban Heirloom
+      - CategoryName: HEIRLOOM
+      Name: /Lotus/Language/Store/HeirloomCategoryTitle
+      Icon: heirloom
+      AddToMenu: true
+      Items:
+        - /Lotus/Types/StoreItems/Packages/2026Bundles/VaubanHeirloomPack
+        - Vauban Heirloom スキン
+        - Vauban Heirloom シグナ
+        - Vauban Heirloom
+        - Vauban Heirloom プレックス
+        - Vauban Heirloom グリフ
+        - Vauban Heirloom Tondo グリフ
+        - Vauban Heirloom シジル
+        - Vauban Heirloom Schema シジル
+        - /Lotus/Types/StoreItems/Packages/HeirloomPackValkyr
+        - Valkyr Heirloom スキン
+        - Valkyr Heirloom シグナ
+        - Valkyr Heirloom
+        - Valkyr Heirloom プレックス
+        - Valkyr Heirloom グリフ
+        - Valkyr Heirloom シジル
+        - /Lotus/Types/StoreItems/Packages/HeirloomPackRhino
+        - Rhino Heirloom スキン
+        - Rhino Heirloom シグナ
+        - Rhino Heirloom
+        - Rhino Heirloom プレックス
+        - Rhino Heirloom グリフ
+        - Rhino Heirloom シジル
+        - /Lotus/Types/StoreItems/Packages/HeirloomPackEmber
+        - Ember Heirloom スキン
+        - Ember Heirloom シグナ
+        - Ember Heirloom
+        - Ember Heirloom プレックス
+        - Ember Heirloom グリフ
+        - Ember Heirloom シジル
+      - CategoryName: SEASONAL
+      Name: /Lotus/Language/Store/SeasonalCategoryTitle
+      Icon: seasonal
+      AddToMenu: true
+      Items:
+        - Bingwu グリフ
+        - /Lotus/Types/StoreItems/Packages/LNY2026BundleC
+        - /Lotus/Types/StoreItems/Packages/LNY2026BundleB
+        - Malaen エフェメラ
+        - /Lotus/Types/StoreItems/Packages/LNY2026BundleA
+        - Gynfas ケイス
+        - Gynfas テール
+        - ルナーリニューアル「ケイス」フラリッシュ
+        - ルナーリニューアル「午」シジル
+        - Tanau スガトラ
+        - 不屈のケイスのぬいぐるみ
+        - Dagath Yfari スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2025BundleC
+        - /Lotus/Types/StoreItems/Packages/LNY2025BundleA
+        - チャーミング・スネークのぬいぐるみ
+        - Hespar Lunaeus スキン
+        - ルナーリニューアル「巳」フラリッシュ
+        - Cordmade スガトラ
+        - ルナーリニューアル「巳」シジル
+        - /Lotus/Types/StoreItems/Packages/LNY2025BundleB
+        - Mirage Nuwaのぬいぐるみ
+        - Boltor Lunaeus スキン
+        - Moondance キャバットアーマー
+        - Heaven Stones エフェメラ
+        - /Lotus/Types/StoreItems/Packages/LNY2024BundleC
+        - Xianglong エフェメラ
+        - ルナーリニューアル「辰」フラリッシュ
+        - Ogris Lunaeus スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2024SentinelSkinBundle
+        - Dragondance センチネルスキン
+        - Dragondance センチネル マスク
+        - Dragondance センチネル ウイング
+        - Dragondance センチネル テール
+        - /Lotus/Types/StoreItems/Packages/LNY2024BundleB
+        - ' Lunaeus デュアルソード スキン'
+        - ルナーリニューアル「辰」シジル
+        - Baochun スガトラ
+        - /Lotus/Types/StoreItems/Packages/LNY2024BundleA
+        - Chroma Zunlong のぬいぐるみ
+        - Nukor Lunaeus スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2023BundleA
+        - ピースフル・ラビットのぬいぐるみ
+        - Cedo Lunaeus スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2023BundleB
+        - ルナーリニューアル「卯」シジル
+        - Nagantaka Lunaeus スキン
+        - /Lotus/Types/StoreItems/Packages/LNY2023BundleC
+        - Purified Bloom エフェメラ
+        - Cernos Lunaeus スキン
+        - ルナーリニューアル「卯」フラリッシュ
+        - Clavatus ヘビーブレード スキン
+        - 勇敢な寅のぬいぐるみ
+        - ルナーリニューアルテーマ
+        - ルナーリニューアル Prowl シジル
+        - ルナーリニューアル Carp スガトラ
+        - Clavatus Ignis スキン
+        - Peach Blossom エフェメラ
+        - Moondance クブロウアーマー
+        - Clavatus Zarr スキン
+        - Acceltra Lunaeus スキン
+        - Orthos Lunaeus スキン
+        - Pyrana Lunaeus スキン
+        - Lunaeus Knot スガトラ
+        - ホワイト ラッキーキャバット
+        - ゴールド ラッキーキャバット
+        - ターコイズ ラッキーキャバット
+        - Lunaeus マチェット スキン
+        - ルナーリニューアル カリグラフィーポスター
+        - ルナーリニューアルバックグラウンド
+        - Valentine
+        - Eros オロ装飾品
+        - /Lotus/Types/StoreItems/Packages/Valentine2017GlyphBundle
+        - /Lotus/Types/StoreItems/Packages/Valentine2020GlyphBundle
+        - Donwyn グリフ VI
+        - Donwyn グリフ VII
+        - Donwyn グリフ VIII
+        - Donwyn グリフ IX
+        - Donwyn グリフ I
+        - Donwyn グリフ II
+        - Donwyn グリフ III
+        - Donwyn グリフ IV
+        - Donwyn グリフ V
+      - CategoryName: SALE
+      Name: /Lotus/Language/Menu/Store_Sale
+      Icon: sale
+      AddToMenu: true
+      Items: []
+      - CategoryName: WISH_LIST
+      Name: /Lotus/Language/Menu/Store_Wishlist
+      Icon: wishlist
+      Items: []
+      - CategoryName: PREMIUM_BUNDLES
+      Name: /Lotus/Language/Store/Store_PremiumBundles
+      Icon: premiumbundles
+      Items:
+        - /Lotus/Types/StoreItems/Packages/2026Bundles/VaubanHeirloomPack
+        - /Lotus/Types/StoreItems/Packages/2026Bundles/2026Q1Battlekit
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/TOPCompSupPack
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/TOPGeminiSupPack
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/TOPUrielWFSupPack
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1Tier3StoreItem
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1CompleteStoreItem
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/NokkoSupporterPack
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/WukongDeluxeSupporterPack
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/OraxiaSupporterPack
+        - /Lotus/Types/StoreItems/Packages/2025Bundles/2025SupporterPack
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1Tier2StoreItem
+        - /Lotus/Types/StoreItems/Packages/PrimeAccessStoreItem
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1Tier1StoreItem
+        - /Lotus/Types/StoreItems/Packages/PrimeAccess1AccessoryStoreItem
+        - /Lotus/Types/StoreItems/Packages/PrimeAccessoryStoreItem
+        - /Lotus/Types/StoreItems/Packages/2024Bundles/WeaponStarterPack
+      - CategoryName: QUICK_BUY
+      Name: /Lotus/Language/Store/TopSeller_Title
+      Icon: quickbuy
+      Items:
+        - /Lotus/Types/StoreItems/Packages/FormaPack
+        - オロキン カタリスト
+        - 武器エクシラスアダプター
+Invasions:
+  - _id:
+    $oid: 6993bebe2f46d46c148ce5b2
+  Faction: FC_CORPUS
+  DefenderFaction: FC_GRINEER
+  Node: Adaro
+  Count: 44075
+  Goal: 44000
+  LocTag: /Lotus/Language/Menu/CorpusInvasionGeneric
+  Completed: true
+  ChainID:
+    $oid: 698e01376941c3b9b18ce5b1
+  AttackerReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  AttackerMissionInfo:
+    seed: 689724
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 341632
+    faction: FC_CORPUS
+  Activation:
+    $date:
+      $numberLong: '1771290975192'
+  - _id:
+    $oid: 69974d4a92836b9bee8ce5b2
+  Faction: FC_CORPUS
+  DefenderFaction: FC_GRINEER
+  Node: Selkie
+  Count: 1
+  Goal: 43000
+  LocTag: /Lotus/Language/Menu/CorpusInvasionGeneric
+  Completed: false
+  ChainID:
+    $oid: 698e01376941c3b9b18ce5b1
+  AttackerReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  AttackerMissionInfo:
+    seed: 617279
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 529475
+    faction: FC_CORPUS
+  Activation:
+    $date:
+      $numberLong: '1771524128041'
+  - _id:
+    $oid: 69956372fc2c5514568ce5b1
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_CORPUS
+  Node: Iliad
+  Count: -30011
+  Goal: 30000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionBoss
+  Completed: true
+  ChainID:
+    $oid: 699521d3a63f58c61e8ce5b1
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 106558
+    faction: FC_CORPUS
+  DefenderReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 313250
+    faction: FC_INFESTATION
+    missionReward: []
+  Activation:
+    $date:
+      $numberLong: '1771398001862'
+  - _id:
+    $oid: 6995f847b4b92cf9698ce5b4
+  Faction: FC_GRINEER
+  DefenderFaction: FC_CORPUS
+  Node: Amalthea
+  Count: 11724
+  Goal: 33000
+  LocTag: /Lotus/Language/Menu/GrineerInvasionGeneric
+  Completed: false
+  ChainID:
+    $oid: 6995f847b4b92cf9698ce5b4
+  AttackerReward:
+    countedItems:
+      - ItemType: Latron Wraith ストック
+      ItemCount: 1
+  AttackerMissionInfo:
+    seed: 417026
+    faction: FC_CORPUS
+  DefenderReward:
+    countedItems:
+      - ItemType: /Lotus/Types/Recipes/Weapons/DeraVandalBlueprint
+      ItemCount: 1
+  DefenderMissionInfo:
+    seed: 977113
+    faction: FC_GRINEER
+  Activation:
+    $date:
+      $numberLong: '1771483426594'
+  - _id:
+    $oid: 6996828e1b0a0342468ce5b5
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_CORPUS
+  Node: Gradivus
+  Count: -36226
+  Goal: 36000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: true
+  ChainID:
+    $oid: 6996828e1b0a0342468ce5b5
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 983157
+    faction: FC_CORPUS
+  DefenderReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 559962
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771475689236'
+  - _id:
+    $oid: 6996bace29abe2525d8ce5b1
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_GRINEER
+  Node: Hellas
+  Count: -37265
+  Goal: 37000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: true
+  ChainID:
+    $oid: 6996828e1b0a0342468ce5b5
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 256125
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 436325
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771485901915'
+  - _id:
+    $oid: 6996d1129ec5458d668ce5b1
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_GRINEER
+  Node: Olympus
+  Count: -48213
+  Goal: 48000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: true
+  ChainID:
+    $oid: 6996828e1b0a0342468ce5b5
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 35849
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 648662
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771491601951'
+  - _id:
+    $oid: 6996c686100719edd88ce5b2
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_CORPUS
+  Node: Shklovsky
+  Count: -33404
+  Goal: 33000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: true
+  ChainID:
+    $oid: 6996c686100719edd88ce5b2
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 106464
+    faction: FC_CORPUS
+  DefenderReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 436098
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771495511519'
+  - _id:
+    $oid: 69972a2249ea243f3e8ce5b1
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_CORPUS
+  Node: Sao
+  Count: -1042
+  Goal: 36000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: false
+  ChainID:
+    $oid: 69972a2249ea243f3e8ce5b1
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 96433
+    faction: FC_CORPUS
+  DefenderReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 139030
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771519504608'
+  - _id:
+    $oid: 699734ae256b195f358ce5b1
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_GRINEER
+  Node: Enceladus
+  Count: -179
+  Goal: 43000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: false
+  ChainID:
+    $oid: 699734ae256b195f358ce5b1
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 749489
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 216726
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771522966548'
+HubEvents: []
+NodeOverrides:
+  - _id:
+    $oid: 549b18e9b029cef5991d6aec
+  Node: EuropaHUB
+  Hide: true
+  - _id:
+    $oid: 54a1737aeb658f6cbccf70ff
+  Node: ErisHUB
+  Hide: true
+  - _id:
+    $oid: 54a736ddec12f80bd6e9e326
+  Node: VenusHUB
+  Hide: true
+  - _id:
+    $oid: 5ad9f9bb6df82a56eabf3d44
+  Node: SolNode802
+  Seed: 10846350
+  - _id:
+    $oid: 5b8817c2bd4f253264d6aa91
+  Node: EarthHUB
+  Hide: false
+  LevelOverride: /Lotus/Levels/Proc/Hub/RelayStationHubTwoB
+  Activation:
+    $date:
+      $numberLong: '1535646600000'
+  - _id:
+    $oid: 5d24d1f674491d51f8d44473
+  Node: MercuryHUB
+  Hide: true
+  LevelOverride: /Lotus/Levels/Proc/Hub/RelayStationHubHydroid
+  Activation:
+    $date:
+      $numberLong: '1563030000000'
+  - _id:
+    $oid: 5c7cb0d00000000000000000
+  Activation:
+    $date:
+      $numberLong: '1770656400000'
+  Expiry:
+    $date:
+      $numberLong: '1771866000000'
+  Node: オーブ峡谷
+  Faction: FC_CORPUS
+  CustomNpcEncounters:
+    - /Lotus/Types/Gameplay/Venus/Encounters/Heists/ExploiterHeistFissure
+  - _id:
+    $oid: 69974d4a92836b9bee8ce5b1
+  Node: Adaro
+  Faction: FC_CORPUS
+  EnemySpec: 
+    /Lotus/Types/Game/EnemySpecs/CorpusShipEnemySpecs/CorpusShipExterminateMixed
+  ExtraEnemySpec: ''
+  Expiry:
+    $date:
+      $numberLong: '1771599652794'
+VoidTraders:
+  - _id:
+    $oid: 5d1e07a0a38e4a4fdd7cefca
+  Activation:
+    $date:
+      $numberLong: '1771596000000'
+  Expiry:
+    $date:
+      $numberLong: '1771768800000'
+  Character: Baro'Ki Teel
+  Node: MercuryHUB
+PrimeVaultTraders:
+  - _id:
+    $oid: 631f8c4ac36af423770eaa97
+  Activation:
+    $date:
+      $numberLong: '1770922800000'
+  InitialStartDate:
+    $date:
+      $numberLong: '1662738144266'
+  Node: TradeHUB1
+  Manifest:
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVoltLokiPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMesaHydroidPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVInarosAshPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEmberFrostPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHarrowNekrosPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVIvaraOberonPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVValkyrSarynPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVGarudaKhoraPrimeDualPack
+    PrimePrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMesaPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVAshPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEmberPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVoltPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHydroidPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVLokiPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVInarosPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVFrostPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHarrowPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNekrosPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVIvaraPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVOberonPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVValkyrPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSarynPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVGarudaPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVKhoraPrimeSinglePack
+    PrimePrice: 6
+    - ItemType: Mesa Prime
+    PrimePrice: 3
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVOperatorPrimeAccessories
+    PrimePrice: 2
+    - ItemType: Mesa Prime Montesa ヘルメット
+    PrimePrice: 1
+    - ItemType: Cholla Prime スガトラ
+    PrimePrice: 1
+    - ItemType: Akjagara Prime
+    PrimePrice: 2
+    - ItemType: Redeemer Prime
+    PrimePrice: 2
+    - ItemType: Hydroid Prime
+    PrimePrice: 3
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSpritsailPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: Sardin Prime スガトラ
+    PrimePrice: 1
+    - ItemType: Nami Skyla Prime
+    PrimePrice: 2
+    - ItemType: Ballistica Prime
+    PrimePrice: 2
+    - ItemType: Mesa Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Hydroid Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith N9 レリック
+    RegularPrice: 1
+    - ItemType: Lith R1 レリック
+    RegularPrice: 1
+    - ItemType: Meso B7 レリック
+    RegularPrice: 1
+    - ItemType: Neo A6 レリック
+    RegularPrice: 1
+    - ItemType: Neo H3 レリック
+    RegularPrice: 1
+    - ItemType: Axi M3 レリック
+    RegularPrice: 1
+    - ItemType: Inaros Prime
+    PrimePrice: 3
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMittahkPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: Kahtuss Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Panthera Prime
+    PrimePrice: 2
+    - ItemType: Karyst Prime
+    PrimePrice: 2
+    - ItemType: Ash Prime
+    PrimePrice: 3
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVUndaPrimeSentAccessories
+    PrimePrice: 1
+    - ItemType: Yamako Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Carrier Prime
+    PrimePrice: 2
+    - ItemType: Vectis Prime
+    PrimePrice: 2
+    - ItemType: Inaros Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Ash Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith V10 レリック
+    RegularPrice: 1
+    - ItemType: Meso P12 レリック
+    RegularPrice: 1
+    - ItemType: Meso C7 レリック
+    RegularPrice: 1
+    - ItemType: Neo A10 レリック
+    RegularPrice: 1
+    - ItemType: Axi I3 レリック
+    RegularPrice: 1
+    - ItemType: Axi K12 レリック
+    RegularPrice: 1
+    - ItemType: Volt Prime
+    PrimePrice: 3
+    - ItemType: Kazeru Prime スガトラ
+    PrimePrice: 1
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEdoPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: <ARCHWING> Odonata Prime
+    PrimePrice: 2
+    - ItemType: Loki Prime
+    PrimePrice: 3
+    - ItemType: Daman Prime スガトラ
+    PrimePrice: 1
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSummusPrimeSentAccessories
+    PrimePrice: 1
+    - ItemType: Bo Prime
+    PrimePrice: 2
+    - ItemType: Wyrm Prime
+    PrimePrice: 2
+    - ItemType: Volt Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Loki Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith O2 レリック
+    RegularPrice: 1
+    - ItemType: Meso O3 レリック
+    RegularPrice: 1
+    - ItemType: Neo V8 レリック
+    RegularPrice: 1
+    - ItemType: Axi L4 レリック
+    RegularPrice: 1
+    - ItemType: Sicarus Prime
+    PrimePrice: 2
+    - ItemType: Ember Prime
+    PrimePrice: 3
+    - ItemType: Glaive Prime
+    PrimePrice: 2
+    - ItemType: /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTitanPrimeSet
+    PrimePrice: 1
+    - ItemType: Pyra Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Frost Prime
+    PrimePrice: 3
+    - ItemType: Latron Prime
+    PrimePrice: 2
+    - ItemType: Reaper Prime
+    PrimePrice: 2
+    - ItemType: Misa Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Ember Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Frost Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith G1 レリック
+    RegularPrice: 1
+    - ItemType: Meso F2 レリック
+    RegularPrice: 1
+    - ItemType: Neo S5 レリック
+    RegularPrice: 1
+    - ItemType: Axi E1 レリック
+    RegularPrice: 1
+    - ItemType: Harrow Prime
+    PrimePrice: 3
+    - ItemType: Nave Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTemplarPrimeSuit
+    PrimePrice: 2
+    - ItemType: Scourge Prime
+    PrimePrice: 2
+    - ItemType: Knell Prime
+    PrimePrice: 2
+    - ItemType: Nekros Prime
+    PrimePrice: 3
+    - ItemType: Uru Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVAcanthusPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: Tigris Prime
+    PrimePrice: 2
+    - ItemType: Galatine Prime
+    PrimePrice: 2
+    - ItemType: Harrow Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Nekros Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith K11 レリック
+    RegularPrice: 1
+    - ItemType: Lith H10 レリック
+    RegularPrice: 1
+    - ItemType: Meso N16 レリック
+    RegularPrice: 1
+    - ItemType: Meso S13 レリック
+    RegularPrice: 1
+    - ItemType: Neo G5 レリック
+    RegularPrice: 1
+    - ItemType: Axi T11 レリック
+    RegularPrice: 1
+    - ItemType: Axi S15 レリック
+    RegularPrice: 1
+    - ItemType: Ivara Prime
+    PrimePrice: 3
+    - ItemType: Apavada Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVAnasaAyatanPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: Baza Prime
+    PrimePrice: 2
+    - ItemType: Aksomati Prime
+    PrimePrice: 2
+    - ItemType: Oberon Prime
+    PrimePrice: 3
+    - ItemType: Sukira Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Aroka Prime スガトラ
+    PrimePrice: 1
+    - ItemType: Silva & Aegis Prime
+    PrimePrice: 2
+    - ItemType: Sybaris Prime
+    PrimePrice: 2
+    - ItemType: Ivara Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Oberon Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith B9 レリック
+    RegularPrice: 1
+    - ItemType: Meso O6 レリック
+    RegularPrice: 1
+    - ItemType: Neo I3 レリック
+    RegularPrice: 1
+    - ItemType: Neo S16 レリック
+    RegularPrice: 1
+    - ItemType: Axi A15 レリック
+    RegularPrice: 1
+    - ItemType: Axi S13 レリック
+    RegularPrice: 1
+    - ItemType: Valkyr Prime
+    PrimePrice: 3
+    - ItemType: プライムライセット スキン
+    PrimePrice: 1
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSaitaPrimeSuit
+    PrimePrice: 2
+    - ItemType: Cernos Prime
+    PrimePrice: 2
+    - ItemType: Venka Prime
+    PrimePrice: 2
+    - ItemType: Saryn Prime
+    PrimePrice: 3
+    - ItemType: Cycuta Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Cycuta Prime シジル
+    PrimePrice: 1
+    - ItemType: Spira Prime
+    PrimePrice: 2
+    - ItemType: Nikana Prime
+    PrimePrice: 2
+    - ItemType: Saryn Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Valkyr Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith C5 レリック
+    RegularPrice: 1
+    - ItemType: Lith V6 レリック
+    RegularPrice: 1
+    - ItemType: Meso N8 レリック
+    RegularPrice: 1
+    - ItemType: Neo S13 レリック
+    RegularPrice: 1
+    - ItemType: Axi S5 レリック
+    RegularPrice: 1
+    - ItemType: Axi V9 レリック
+    RegularPrice: 1
+    - ItemType: Garuda Prime
+    PrimePrice: 3
+    - ItemType: Sanguinax Prime エフェメラ
+    PrimePrice: 2
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVKukriPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: Nagantaka Prime
+    PrimePrice: 2
+    - ItemType: Corvas Prime
+    PrimePrice: 2
+    - ItemType: Khora Prime
+    PrimePrice: 3
+    - ItemType: Khora Prime Larqum ヘルメット
+    PrimePrice: 1
+    - ItemType: Kerata Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: インターアルファプライム・アクション
+    PrimePrice: 1
+    - ItemType: Hystrix Prime
+    PrimePrice: 2
+    - ItemType: Dual Keres Prime
+    PrimePrice: 2
+    - ItemType: Garuda Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Khora Prime ボブルヘッド
+    PrimePrice: 1
+    - ItemType: Lith D6 レリック
+    RegularPrice: 1
+    - ItemType: Meso H8 レリック
+    RegularPrice: 1
+    - ItemType: Neo C5 レリック
+    RegularPrice: 1
+    - ItemType: Neo K8 レリック
+    RegularPrice: 1
+    - ItemType: Axi G13 レリック
+    RegularPrice: 1
+    - ItemType: Axi N11 レリック
+    RegularPrice: 1
+  Expiry:
+    $date:
+      $numberLong: '1771527600000'
+  EvergreenManifest:
+    - ItemType: Braton Prime
+    PrimePrice: 1
+    - ItemType: Burston Prime
+    PrimePrice: 2
+    - ItemType: Fang Prime
+    PrimePrice: 2
+    - ItemType: Lex Prime
+    PrimePrice: 1
+    - ItemType: Vistapa Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Spektaka Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: Spektaka Prime スガトラ
+    PrimePrice: 1
+    - ItemType: Spektaka ライセット スキン
+    RegularPrice: 10
+    - ItemType: Static Reactor シジル
+    PrimePrice: 1
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNecraloidBundle
+    RegularPrice: 10
+    - ItemType: ネクロシール エンブレム
+    RegularPrice: 5
+    - ItemType: Apis シャンダナ
+    RegularPrice: 10
+    - ItemType: Stezia Sumbha シャンダナ
+    RegularPrice: 10
+    - ItemType: /Lotus/StoreItems/Types/Game/ShipScenes/PrimeLisetFiligreeScene
+    PrimePrice: 1
+    - ItemType: /Lotus/StoreItems/Types/Game/ShipScenes/CorpusShipScene
+    RegularPrice: 7
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVayasPrimeAccessories
+    PrimePrice: 2
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVAviaPrimeArmorSet
+    PrimePrice: 2
+    - ItemType: Avia Prime シャンダナ
+    PrimePrice: 2
+    - ItemType: K.O.L. Drippyアシスト タクティカルシャンダナ
+    PrimePrice: 1
+    - ItemType: Verv エフェメラ
+    PrimePrice: 1
+    - ItemType: Loki Verv スキン
+    PrimePrice: 1
+    - ItemType: Verv Loki グリフ
+    RegularPrice: 5
+    - ItemType: /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVervArmorSet
+    PrimePrice: 1
+    - ItemType: ライセット Verv スキン
+    RegularPrice: 10
+    - ItemType: Verv シジル
+    RegularPrice: 5
+    - ItemType: Verv エンブレム
+    RegularPrice: 5
+    - ItemType: Verv Redeemer スキン
+    RegularPrice: 7
+    - ItemType: Afuris Verv スキン
+    RegularPrice: 7
+    - ItemType: Verv Rubico スキン
+    RegularPrice: 7
+    - ItemType: Penta Verv スキン
+    RegularPrice: 7
+    - ItemType: Verv Atelia シャンダナ
+    RegularPrice: 10
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVervSentrexSentAccessories
+    RegularPrice: 7
+    - ItemType: Verv Ifrit クブロウアーマー
+    RegularPrice: 7
+    - ItemType: Verv Myrdin キャバットアーマー
+    RegularPrice: 7
+    - ItemType: ベルブ・ドメスティクドローン
+    RegularPrice: 7
+    - ItemType: Verv Sentrex ステンシル
+    RegularPrice: 5
+    - ItemType: Pyra Opula シャンダナ
+    RegularPrice: 10
+    - ItemType: Pyra Opula スガトラ
+    RegularPrice: 6
+    - ItemType: Opula エフェメラ
+    RegularPrice: 10
+    - ItemType: /Lotus/Types/StoreItems/Packages/PrimeColorPackA
+    PrimePrice: 1
+    - ItemType: Spektaka
+    RegularPrice: 5
+    - ItemType: Potentia
+    RegularPrice: 5
+    - ItemType: Tigris Prominence スキン
+    RegularPrice: 7
+    - ItemType: Ankyros Prominence スキン
+    RegularPrice: 7
+    - ItemType: Prominence シジル
+    RegularPrice: 5
+    - ItemType: Excalibur Prominence スキン
+    RegularPrice: 12
+    - ItemType: Volt Prominence スキン
+    RegularPrice: 12
+    - ItemType: Broca Prominence シャンダナ
+    RegularPrice: 10
+    - ItemType: Octavia Iridos スキン
+    PrimePrice: 1
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVIridosArmorSet
+    RegularPrice: 10
+    - ItemType: Udyat Iridos シャンダナ
+    RegularPrice: 10
+    - ItemType: Pyrana Iridos スキン
+    RegularPrice: 7
+    - ItemType: Ogris Iridos スキン
+    RegularPrice: 7
+    - ItemType: Kronen Iridos スキン
+    RegularPrice: 7
+    - ItemType: Akjagara Iridos スキン
+    RegularPrice: 7
+    - ItemType: Mantis Iridos スキン
+    RegularPrice: 10
+    - ItemType: Voidrig Iridos ネクロメカスキン
+    RegularPrice: 10
+    - ItemType: Iridos Shawzin
+    RegularPrice: 7
+    - ItemType: Octavia Iridos アクション グリフ
+    RegularPrice: 5
+    - ItemType: Kudzon エフェメラ
+    RegularPrice: 10
+    - ItemType: Prominence Wisp トーテム
+    RegularPrice: 7
+    - ItemType: "Gauss Prime テーマ\r\n「Redline」"
+    RegularPrice: 5
+    - ItemType: Gara Prime Theme
+    RegularPrice: 5
+    - ItemType: Grendel Prime Theme
+    RegularPrice: 5
+    - ItemType: Hildryn Prime Theme
+    RegularPrice: 5
+    - ItemType: Hydroid Prime Theme
+    RegularPrice: 5
+    - ItemType: Khora Prime Theme
+    RegularPrice: 5
+    - ItemType: Nekros Prime Theme
+    RegularPrice: 5
+    - ItemType: Nidus Prime Theme
+    RegularPrice: 5
+    - ItemType: Oberon Prime Theme
+    RegularPrice: 5
+    - ItemType: Octavia Prime Theme
+    RegularPrice: 5
+    - ItemType: Revenant Prime Theme
+    RegularPrice: 5
+    - ItemType: Vauban Prime Theme
+    RegularPrice: 5
+    - ItemType: Protea Prime Theme
+    RegularPrice: 5
+    - ItemType: Wisp Prime Theme
+    RegularPrice: 5
+    - ItemType: オロキンデュカット
+    RegularPrice: 1
+    - ItemType: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVoidTraceBundle
+    RegularPrice: 1
+  ScheduleInfo:
+    - Expiry:
+      $date:
+        $numberLong: '1667498400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '0'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEquinoxWukongPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1669921200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '0'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVValkyrSarynPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1672945200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1668711600000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVOberonPrimeSinglePack
+    - Expiry:
+      $date:
+        $numberLong: '1675364400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1671130800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVVoltLokiPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1677783600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1674154800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVAtlasVaubanPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1680804000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1676473200000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNekrosOberonPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1683223200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1679594400000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagRhinoPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1685718000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1682013600000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNekrosOberonPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1688666400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1684433100000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVInarosAshPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1691085600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1687456800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVBansheeMiragePrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1694109600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1689876000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVFrostMagPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1696528800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1692900000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEquinoxWukongPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1698948000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1695319200000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVZephyrChromaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1703185200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1697738400000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaOctaviaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1704394800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1697738400000'
+    FeaturedItem: Varziaの提供品
+    - Expiry:
+      $date:
+        $numberLong: '1705604400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '0'
+    FeaturedItem: Varziaの提供品
+    - Expiry:
+      $date:
+        $numberLong: '1706814000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '0'
+    FeaturedItem: Varziaの提供品
+    - Expiry:
+      $date:
+        $numberLong: '1708023600000'
+    FeaturedItem: Varziaの提供品
+    - Expiry:
+      $date:
+        $numberLong: '1710439200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1706814000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVBansheeMiragePrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1712858400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1709233200000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTitaniaGaraPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1715277600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1711648800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVInarosAshPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1717696800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1714068000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEquinoxWukongPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1720116000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1716487200000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVZephyrChromaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1722535200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1718906400000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHarrowNekrosPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1724954400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1721325600000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMesaLimboPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1727373600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1723744800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaOctaviaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1729792800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1726164000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNovaTrinityPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1732215600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1728583200000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVGarudaKhoraPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1734030000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1731006000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVIvaraOberonPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1736449200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1732820400000'
+    FeaturedItem: Varziaの提供品
+    - Expiry:
+      $date:
+        $numberLong: '1738868400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1734030000000'
+    FeaturedItem: Varziaの提供品：パート 2
+    - Expiry:
+      $date:
+        $numberLong: '1739473200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1732820400000'
+    FeaturedItem: ラストチャンス提供品
+    - Expiry:
+      $date:
+        $numberLong: '1741888800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1738868400000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVInarosAshPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1744308000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1740682800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNidusSarynPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1746727200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1743098400000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVBansheeMiragePrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1749146400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1745517600000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNekrosOberonPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1751565600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1747940280000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVRevenantBaruukPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1753984800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1750356000000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTitaniaGaraPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1756404000000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1752775200000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEquinoxWukongPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1758823200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1755194400000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVZephyrChromaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1761242400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1757613600000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagNovaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1763665200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1760032800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaOctaviaPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1766084400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1762455600000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVWispHildrynPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1768503600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1764874800000'
+    FeaturedItem: Varziaの提供品
+    - Expiry:
+      $date:
+        $numberLong: '1770922800000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1766084400000'
+    FeaturedItem: Varziaの提供品：パート 2
+    - Expiry:
+      $date:
+        $numberLong: '1771527600000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1768503600000'
+    FeaturedItem: ラストチャンス提供品
+    - Expiry:
+      $date:
+        $numberLong: '1773943200000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1770922800000'
+    FeaturedItem: 
+      /Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVAtlasVaubanPrimeDualPack
+    - Expiry:
+      $date:
+        $numberLong: '1776362400000'
+    PreviewHiddenUntil:
+      $date:
+        $numberLong: '1772737200000'
+VoidStorms:
+  - _id:
+    $oid: 69972ed3a6d477ca6d8ce5b3
+  Node: CrewBattleNode530
+  Activation:
+    $date:
+      $numberLong: '1771519201401'
+  Expiry:
+    $date:
+      $numberLong: '1771524601401'
+  ActiveMissionTier: VoidT2
+  - _id:
+    $oid: 69972ed3a6d477ca6d8ce5b4
+  Node: CrewBattleNode521
+  Activation:
+    $date:
+      $numberLong: '1771519201402'
+  Expiry:
+    $date:
+      $numberLong: '1771524601402'
+  ActiveMissionTier: VoidT3
+  - _id:
+    $oid: 69972ed2a6d477ca6d8ce5b1
+  Node: CrewBattleNode522
+  Activation:
+    $date:
+      $numberLong: '1771519201396'
+  Expiry:
+    $date:
+      $numberLong: '1771524601396'
+  ActiveMissionTier: VoidT1
+  - _id:
+    $oid: 69972ed2a6d477ca6d8ce5b2
+  Node: CrewBattleNode511
+  Activation:
+    $date:
+      $numberLong: '1771519201400'
+  Expiry:
+    $date:
+      $numberLong: '1771524601400'
+  ActiveMissionTier: VoidT1
+  - _id:
+    $oid: 69972ed3a6d477ca6d8ce5b6
+  Node: CrewBattleNode555
+  Activation:
+    $date:
+      $numberLong: '1771519201403'
+  Expiry:
+    $date:
+      $numberLong: '1771524601403'
+  ActiveMissionTier: VoidT4
+  - _id:
+    $oid: 69972ed3a6d477ca6d8ce5b5
+  Node: CrewBattleNode527
+  Activation:
+    $date:
+      $numberLong: '1771519201403'
+  Expiry:
+    $date:
+      $numberLong: '1771524601403'
+  ActiveMissionTier: VoidT4
+  - _id:
+    $oid: 69973ce36f112926778ce5b2
+  Node: CrewBattleNode515
+  Activation:
+    $date:
+      $numberLong: '1771522801400'
+  Expiry:
+    $date:
+      $numberLong: '1771528201400'
+  ActiveMissionTier: VoidT1
+  - _id:
+    $oid: 69973ce36f112926778ce5b1
+  Node: CrewBattleNode518
+  Activation:
+    $date:
+      $numberLong: '1771522801396'
+  Expiry:
+    $date:
+      $numberLong: '1771528201396'
+  ActiveMissionTier: VoidT1
+  - _id:
+    $oid: 69973ce36f112926778ce5b3
+  Node: CrewBattleNode533
+  Activation:
+    $date:
+      $numberLong: '1771522801401'
+  Expiry:
+    $date:
+      $numberLong: '1771528201401'
+  ActiveMissionTier: VoidT2
+  - _id:
+    $oid: 69973ce36f112926778ce5b5
+  Node: CrewBattleNode536
+  Activation:
+    $date:
+      $numberLong: '1771522801403'
+  Expiry:
+    $date:
+      $numberLong: '1771528201403'
+  ActiveMissionTier: VoidT4
+  - _id:
+    $oid: 69973ce36f112926778ce5b4
+  Node: CrewBattleNode516
+  Activation:
+    $date:
+      $numberLong: '1771522801402'
+  Expiry:
+    $date:
+      $numberLong: '1771528201402'
+  ActiveMissionTier: VoidT3
+  - _id:
+    $oid: 69973ce36f112926778ce5b6
+  Node: CrewBattleNode554
+  Activation:
+    $date:
+      $numberLong: '1771522801403'
+  Expiry:
+    $date:
+      $numberLong: '1771528201403'
+  ActiveMissionTier: VoidT4
+PrimeAccessAvailability:
+  State: PRIME1
+PrimeVaultAvailabilities:
+  - false
+  - false
+  - false
+  - false
+  - false
+PrimeTokenAvailability: true
+DailyDeals:
+  - StoreItem: Nidus
+  Activation:
+    $date:
+      $numberLong: '1771498800000'
+  Expiry:
+    $date:
+      $numberLong: '1771592400000'
+  Discount: 40
+  OriginalPrice: 225
+  SalePrice: 135
+  AmountTotal: 100
+  AmountSold: 100
+LibraryInfo:
+  LastCompletedTargetType: /Lotus/Types/Game/Library/Targets/Research7Target
+PVPChallengeInstances:
+  - _id:
+    $oid: 698e72e315117db9b78ce5b2
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeGameModeWins
+  startDate:
+    $date:
+      $numberLong: '1770943203111'
+  endDate:
+    $date:
+      $numberLong: '1771548003111'
+  params:
+    - n: ScriptParamValue
+    v: 6
+  isGenerated: true
+  PVPMode: PVPMODE_ALL
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_WEEKLY
+  - _id:
+    $oid: 698e72e315117db9b78ce5b3
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeGameModeComplete
+  startDate:
+    $date:
+      $numberLong: '1770943203111'
+  endDate:
+    $date:
+      $numberLong: '1771548003111'
+  params:
+    - n: ScriptParamValue
+    v: 20
+  isGenerated: true
+  PVPMode: PVPMODE_ALL
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_WEEKLY
+  - _id:
+    $oid: 698e72e315117db9b78ce5b5
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeWeeklyStandardSet
+  startDate:
+    $date:
+      $numberLong: '1770943203111'
+  endDate:
+    $date:
+      $numberLong: '1771548003111'
+  params:
+    - n: ScriptParamValue
+    v: 0
+  isGenerated: true
+  PVPMode: PVPMODE_NONE
+  subChallenges:
+    - $oid: 698e72e315117db9b78ce5b2
+    - $oid: 698e72e315117db9b78ce5b3
+    - $oid: 698e72e315117db9b78ce5b4
+  Category: PVPChallengeTypeCategory_WEEKLY_ROOT
+  - _id:
+    $oid: 698e72e315117db9b78ce5b4
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeOtherChallengeCompleteANY
+  startDate:
+    $date:
+      $numberLong: '1770943203111'
+  endDate:
+    $date:
+      $numberLong: '1771548003111'
+  params:
+    - n: ScriptParamValue
+    v: 10
+  isGenerated: true
+  PVPMode: PVPMODE_ALL
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_WEEKLY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b1
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeFlagReturnEASY
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 1
+  isGenerated: true
+  PVPMode: PVPMODE_CAPTURETHEFLAG
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b2
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeFlagCaptureMEDIUM
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 4
+  isGenerated: true
+  PVPMode: PVPMODE_CAPTURETHEFLAG
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b5
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsStreak_MEDIUM
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 3
+  isGenerated: true
+  PVPMode: PVPMODE_DEATHMATCH
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b4
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsWhileInAirEASY
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 1
+  isGenerated: true
+  PVPMode: PVPMODE_TEAMDEATHMATCH
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b7
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeSpeedballStealsEASY
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 3
+  isGenerated: true
+  PVPMode: PVPMODE_SPEEDBALL
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b3
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsMeleeHARD
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 3
+  isGenerated: true
+  PVPMode: PVPMODE_TEAMDEATHMATCH
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b6
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsMeleeHARD
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 3
+  isGenerated: true
+  PVPMode: PVPMODE_DEATHMATCH
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b8
+  challengeTypeRefID: 
+    /Lotus/PVPChallengeTypes/PVPTimedChallengeSpeedballInterceptionsHARD
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 6
+  isGenerated: true
+  PVPMode: PVPMODE_SPEEDBALL
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+PersistentEnemies: []
+PVPAlternativeModes: []
+PVPActiveTournaments: []
+ProjectPct:
+  - 33.00560014908167
+  - 15.11493564600482
+  - 0
+ConstructionProjects: []
+TwitchPromos: []
+ExperimentRecommended: []
+EndlessXpChoices:
+  - Category: EXC_NORMAL
+  Choices:
+    - Saryn
+    - Vauban
+    - Nova
+  - Category: EXC_HARD
+  Choices:
+    - Zylok
+    - Sibear
+    - Dread
+    - Despair
+    - Hate
+ForceLogoutVersion: 0
+FeaturedGuilds:
+  - _id:
+    $oid: 60458c283f098f2615043406
+  Name: Dojo Prime#969
+  Tier: 1
+  Emblem: true
+  AllianceId:
+    $oid: 64750757e2bc7e55240cd443
+  HiddenPlatforms:
+    PLATFORM_SWITCH: true
+    PLATFORM_IOS: true
+  IconOverride: 6
+  - _id:
+    $oid: 639fe547d50036417102c083
+  Name: Red n Exs#031
+  Tier: 5
+  Emblem: true
+  AllianceId:
+    $oid: 5d30103b75b7238e9f649363
+  HiddenPlatforms:
+    PLATFORM_SWITCH: true
+    PLATFORM_IOS: true
+  IconOverride: 4
+  - _id:
+    $oid: 639be72f4a403583f40ff1e2
+  Name: Apollonian#131
+  Tier: 1
+  AllianceId:
+    $oid: 64750757e2bc7e55240cd443
+  Emblem: true
+  HiddenPlatforms:
+    PLATFORM_SWITCH: true
+    PLATFORM_IOS: true
+  IconOverride: 2
+  - _id:
+    $oid: 64fe13e92314fa2af10fb923
+  Name: A. Y. Y. I. L. D. I. Z#410
+  Tier: 3
+  Emblem: true
+  AllianceId:
+    $oid: 691226db5ff556542101dc41
+  HiddenPlatforms:
+    PLATFORM_IOS: true
+  IconOverride: 1
+  - _id:
+    $oid: 581fa86506c56f3665c98af2
+  Name: Huge SUCC#600
+  Tier: 1
+  Emblem: true
+  AllianceId:
+    $oid: 64750757e2bc7e55240cd443
+  HiddenPlatforms:
+    PLATFORM_IOS: true
+  IconOverride: 5
+  - _id:
+    $oid: 5bb2512c3f8d4aac7532cc79
+  Name: Fortress of Lua#736
+  Tier: 4
+  AllianceId:
+    $oid: 5ec428291fbe6e2e877c8bf8
+  Emblem: true
+  IconOverride: 6
+  - _id:
+    $oid: 5baa8ebebda563a0c3222f52
+  Name: TEMPLARIO OROKIN#223
+  Tier: 4
+  AllianceId:
+    $oid: 5b8c482b6b02fd22917a5413
+  Emblem: true
+  IconOverride: 5
+  - _id:
+    $oid: 5c4fecc6bda563ad690b3bbf
+  Name: The Circle Of Divinity#258
+  Tier: 3
+  Emblem: true
+  AllianceId:
+    $oid: 64750757e2bc7e55240cd443
+  IconOverride: 1
+SeasonInfo:
+  Activation:
+    $date:
+      $numberLong: '1761589199000'
+  Expiry:
+    $date:
+      $numberLong: '1779667200000'
+  AffiliationTag: RadioLegionIntermission14Syndicate
+  Season: 16
+  Phase: 0
+  Params: ''
+  ActiveChallenges:
+    - _id:
+      $oid: '001700170000000000000233'
+    Daily: true
+    Activation:
+      $date:
+        $numberLong: '1771286400000'
+    Expiry:
+      $date:
+        $numberLong: '1771545600000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWithCorrosive
+    - _id:
+      $oid: '001700170000000000000234'
+    Daily: true
+    Activation:
+      $date:
+        $numberLong: '1771372800000'
+    Expiry:
+      $date:
+        $numberLong: '1771632000000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWithMelee
+    - _id:
+      $oid: '001700170000000000000235'
+    Daily: true
+    Activation:
+      $date:
+        $numberLong: '1771459200000'
+    Expiry:
+      $date:
+        $numberLong: '1771718400000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWithGas
+    - _id:
+      $oid: '001700170000000000000225'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyPermanentCompleteMissions17
+    - _id:
+      $oid: '001700170000000000000226'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyPermanentKillEximus17
+    - _id:
+      $oid: '001700170000000000000227'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyPermanentKillEnemies17
+    - _id:
+      $oid: '001700170000000000000228'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyCompleteMobileDefense
+    - _id:
+      $oid: '001700170000000000000229'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: /Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyFinelyTuned
+    - _id:
+      $oid: '001700170000000000000230'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardFriendsMirrorDefense
+    - _id:
+      $oid: '001700170000000000000231'
+    Activation:
+      $date:
+        $numberLong: '1771200000000'
+    Expiry:
+      $date:
+        $numberLong: '1771804800000'
+    Challenge: 
+      /Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardEliteSanctuaryOnslaught
+KnownCalendarSeasons:
+  - Activation:
+    $date:
+      $numberLong: '1771200000000'
+  Expiry:
+    $date:
+      $numberLong: '1771804800000'
+  Days:
+    - day: 101
+    events:
+      - type: CET_CHALLENGE
+      challenge: 
+        /Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium
+    - day: 109
+    events:
+      - type: CET_REWARD
+      reward: /Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall
+      - type: CET_REWARD
+      reward: /Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
+    - day: 111
+    events:
+      - type: CET_CHALLENGE
+      challenge: 
+        /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesEasy
+    - day: 113
+    events:
+      - type: CET_REWARD
+      reward: 3日間 MOD ドロップ ブースター
+      - type: CET_REWARD
+      reward: 3日間 アフィニティ ブースター
+    - day: 117
+    events:
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/MeleeAttackSpeed
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/HealingEffects
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary
+    - day: 125
+    events:
+      - type: CET_CHALLENGE
+      challenge: /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium
+    - day: 126
+    events:
+      - type: CET_REWARD
+      reward: /Lotus/Types/StoreItems/Packages/Calendar/CalendarVosforPack
+      - type: CET_REWARD
+      reward: 3日間 MOD ドロップ ブースター
+    - day: 132
+    events:
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/BlastEveryXShots
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/GenerateOmniOrbsOnWeakKill
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/CompanionsRadiationChance
+    - day: 143
+    events: []
+    - day: 144
+    events:
+      - type: CET_CHALLENGE
+      challenge: 
+        /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium
+    - day: 149
+    events:
+      - type: CET_REWARD
+      reward: /Lotus/StoreItems/Types/BoosterPacks/CalendarRivenPack
+      - type: CET_REWARD
+      reward: 
+        /Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint
+    - day: 160
+    events:
+      - type: CET_CHALLENGE
+      challenge: /Lotus/Types/Challenges/Calendar1999/CalendarKillEximusHard
+    - day: 163
+    events:
+      - type: CET_REWARD
+      reward: /Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack
+      - type: CET_REWARD
+      reward: 3日間 アフィニティ ブースター
+    - day: 166
+    events: []
+    - day: 167
+    events:
+      - type: CET_CHALLENGE
+      challenge: 
+        /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeHard
+    - day: 176
+    events:
+      - type: CET_REWARD
+      reward: /Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall
+      - type: CET_REWARD
+      reward: /Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack
+    - day: 180
+    events:
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/MagazineCapacity
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange
+      - type: CET_UPGRADE
+      upgrade: /Lotus/Upgrades/Calendar/MeleeAttackSpeed
+  Season: CST_SPRING
+  YearIteration: 15
+  Version: 19
+  UpgradeAvaliabilityRequirements:
+    - /Lotus/Upgrades/Calendar/1999UpgradeApplicationRequirement
+Conquests:
+  - Activation:
+    $date:
+      $numberLong: '1771200000000'
+  Expiry:
+    $date:
+      $numberLong: '1771804800000'
+  Type: CT_LAB
+  Missions:
+    - faction: FC_MITW
+    missionType: MT_ALCHEMY
+    difficulties:
+      - type: CD_NORMAL
+      deviation: VolatileGrenades
+      risks:
+        - EMPBlackHole
+      - type: CD_HARD
+      deviation: VolatileGrenades
+      risks:
+        - EMPBlackHole
+        - ExplosiveCrawlers
+    - faction: FC_MITW
+    missionType: MT_ARTIFACT
+    difficulties:
+      - type: CD_NORMAL
+      deviation: StickyFingers
+      risks:
+        - Deflectors
+      - type: CD_HARD
+      deviation: StickyFingers
+      risks:
+        - Deflectors
+        - Quicksand
+    - faction: FC_MITW
+    missionType: MT_ASSASSINATION
+    difficulties:
+      - type: CD_NORMAL
+      deviation: Reinforcements
+      risks:
+        - ShieldedFoes
+      - type: CD_HARD
+      deviation: Reinforcements
+      risks:
+        - ShieldedFoes
+        - RegeneratingEnemies
+  Variables:
+    - TimeDilation
+    - VoidEnergyOverload
+    - AbilityLockout
+    - Exhaustion
+  RandomSeed: 523991
+  - Activation:
+    $date:
+      $numberLong: '1771200000000'
+  Expiry:
+    $date:
+      $numberLong: '1771804800000'
+  Type: CT_HEX
+  Missions:
+    - faction: FC_SCALDRA
+    missionType: MT_SURVIVAL
+    difficulties:
+      - type: CD_NORMAL
+      deviation: GestatingTumors
+      risks:
+        - FactionSwarm_Techrot
+      - type: CD_HARD
+      deviation: GestatingTumors
+      risks:
+        - FactionSwarm_Techrot
+        - DrainingResiduals
+    - faction: FC_SCALDRA
+    missionType: MT_DEFENSE
+    difficulties:
+      - type: CD_NORMAL
+      deviation: ChemicalNoise
+      risks:
+        - RegeneratingEnemies
+      - type: CD_HARD
+      deviation: ChemicalNoise
+      risks:
+        - RegeneratingEnemies
+        - MiasmiteHive
+    - faction: FC_SCALDRA
+    missionType: MT_ASSASSINATION
+    difficulties:
+      - type: CD_NORMAL
+      deviation: TankStrongArmor
+      risks:
+        - BalloonFest
+      - type: CD_HARD
+      deviation: TankStrongArmor
+      risks:
+        - BalloonFest
+        - InfectedTechrot
+  Variables:
+    - AntiGuard
+    - DullBlades
+    - ContactDamage
+    - DecayingFlesh
+  RandomSeed: 455669
+Descents:
+  - Activation:
+    $date:
+      $numberLong: '1771200000000'
+  Expiry:
+    $date:
+      $numberLong: '1771804800000'
+  RandSeed: 3706011067
+  Challenges:
+    - Index: 1
+    Type: DT_EXTERMINATE
+    Challenge: MechCombatOnly
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHWeakNecroMechSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHPlayAsMechAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DisableSelfReviveAura
+    - Index: 2
+    Type: DT_LOOT_CREATURES
+    Challenge: BasicLootCreatures
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs: []
+    Auras: []
+    - Index: 3
+    Type: DT_INFESTED_SALVAGE
+    Challenge: FireAndIce
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusGasExterminateMixed
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FireAndIceEnhancementAura
+    - Index: 4
+    Type: DT_CAPTURE
+    Challenge: Manics
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHManicSpec
+    Auras: []
+    - Index: 5
+    Type: DT_INTERCEPTION
+    Challenge: FireChain
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerZarimanExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FireChainAura
+    - Index: 6
+    Type: DT_SABOTAGE_HIVE
+    Challenge: NarmerPhobia
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusGrineerInvasionHard
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHNarmerPhobiaAura
+    - Index: 7
+    Type: DT_PROTOFRAME
+    Challenge: Wisp
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomWisp.level
+    Specs: []
+    Auras: []
+    - Index: 8
+    Type: DT_MIMICS
+    Challenge: BasicMimics
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs: []
+    Auras: []
+    - Index: 9
+    Type: DT_DEFENSE
+    Challenge: JadeGuardian
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHForestGrineerFairy
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/JadeGuardianEnhancementAura
+    - Index: 10
+    Type: DT_COLLECTION
+    Challenge: NC_Darkness
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+    - Index: 11
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: GrenadesOnly
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHEntratiAlchemySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GrenadeSpawnAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GrenadesOnlyAura
+    - Index: 12
+    Type: DT_EXTERMINATE
+    Challenge: NullifierOnly
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHNullifierOnlySpec
+    Auras: []
+    - Index: 13
+    Type: DT_BOSS
+    Challenge: Oraxia
+    Level: /Lotus/Levels/DevilTower/BossArenaSmall.level
+    Specs: []
+    Auras: []
+    - Index: 14
+    Type: DT_PROTOFRAME
+    Challenge: Harrow
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomHarrow.level
+    Specs: []
+    Auras: []
+    - Index: 15
+    Type: DT_EXCAVATION
+    Challenge: JumpSmash
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHVaniaScaldraTechrot
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/JumpSmashAura
+    - Index: 16
+    Type: DT_INFESTED_SALVAGE
+    Challenge: MineField
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Narmer/PNWNarmerForestGrineerExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHMineFieldAura
+    - Index: 17
+    Type: DT_PRESURE_GAUGE
+    Challenge: SpikeCeiling
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusExterminateHumans
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSpikeOrbAura
+    - Index: 18
+    Type: DT_INTERCEPTION
+    Challenge: HeadShotsOnly
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerExterminateFire
+    Auras:
+      - 
+      /Lotus/Types/Gameplay/EntratiLab/LabConquest/GenericFortifiedFoesWeakpointAura
+    - Index: 19
+    Type: DT_ALCHEMY
+    Challenge: SlipAndSlide
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Duviri/Arena/DuviriSurvivalSpecA
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSlipAndSlideAura
+    - Index: 20
+    Type: DT_COLLECTION
+    Challenge: CollectionBasic
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs: []
+    Auras: []
+    - Index: 21
+    Type: DT_PROTOFRAME
+    Challenge: Devil
+    Level: /Lotus/Levels/DevilTower/BossArenaUriel.level
+    Specs: []
+    Auras: []
+  - Activation:
+    $date:
+      $numberLong: '1771804800000'
+  Expiry:
+    $date:
+      $numberLong: '1772409600000'
+  RandSeed: 1431526887
+  Challenges:
+    - Index: 1
+    Type: DT_PRESURE_GAUGE
+    Challenge: VeryToxic
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerZarimanExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/ToxicLeechEnhancementAura
+    - Index: 2
+    Type: DT_ALCHEMY
+    Challenge: Darkness
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusExterminateRobots
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+    - Index: 3
+    Type: DT_INFESTED_SALVAGE
+    Challenge: HeadShotsOnly
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusGrineerInvasionHard
+    Auras:
+      - 
+      /Lotus/Types/Gameplay/EntratiLab/LabConquest/GenericFortifiedFoesWeakpointAura
+    - Index: 4
+    Type: DT_MIMICS
+    Challenge: BasicMimics
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs: []
+    Auras: []
+    - Index: 5
+    Type: DT_INTERCEPTION
+    Challenge: Sentients
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHSentientSurvival
+    Auras: []
+    - Index: 6
+    Type: DT_NETRACELLS
+    Challenge: JumpSmash
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusZarimanExterminateSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/JumpSmashAura
+    - Index: 7
+    Type: DT_PROTOFRAME
+    Challenge: Wisp
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomWisp.level
+    Specs: []
+    Auras: []
+    - Index: 8
+    Type: DT_COLLECTION
+    Challenge: NC_Darkness
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+    - Index: 9
+    Type: DT_RACE
+    Challenge: BasicRace
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs: []
+    Auras: []
+    - Index: 10
+    Type: DT_BREAK_TARGETS
+    Challenge: NC_MineField
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHMineFieldAura
+    - Index: 11
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: PowerHouse
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/OrokinExterminateB
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/PowerHouseEnhancementAura
+    - Index: 12
+    Type: DT_SABOTAGE_HIVE
+    Challenge: SecuritySpin
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Duviri/Arena/DuviriSurvivalSpecA
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSecuritySpinAura
+    - Index: 13
+    Type: DT_CAPTURE
+    Challenge: GrenadesOnly
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHForestGrineerExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GrenadeSpawnAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GrenadesOnlyAura
+    - Index: 14
+    Type: DT_PROTOFRAME
+    Challenge: Harrow
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomHarrow.level
+    Specs: []
+    Auras: []
+    - Index: 15
+    Type: DT_EXTERMINATE
+    Challenge: HordeWeakpoints
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHHordeSpec
+    Auras:
+      - 
+      /Lotus/Types/Gameplay/EntratiLab/LabConquest/GenericFortifiedFoesWeakpointAura
+    - Index: 16
+    Type: DT_BOSS
+    Challenge: HyenaPack
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusInfestedMix
+    Auras: []
+    - Index: 17
+    Type: DT_NETRACELLS
+    Challenge: FieryTrailRollers
+    Level: /Lotus/Levels/DevilTower/ArenaGrape.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRollerSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FieryTrailAura
+    - Index: 18
+    Type: DT_LOOT_CREATURES
+    Challenge: BasicLootCreatures
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs: []
+    Auras: []
+    - Index: 19
+    Type: DT_SHRINE_DEFENSE
+    Challenge: Escapist
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusExterminateHumans
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHEscapistAura
+    - Index: 20
+    Type: DT_EXCAVATION
+    Challenge: PoisonGas
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Duviri/Arena/DuviriExterminateHardmodeA
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/PoisonGasAura
+    - Index: 21
+    Type: DT_PROTOFRAME
+    Challenge: Devil
+    Level: /Lotus/Levels/DevilTower/BossArenaUriel.level
+    Specs: []
+    Auras: []
+  - Activation:
+    $date:
+      $numberLong: '1772409600000'
+  Expiry:
+    $date:
+      $numberLong: '1773014400000'
+  RandSeed: 2280670348
+  Challenges:
+    - Index: 1
+    Type: DT_NETRACELLS
+    Challenge: FieryTrailRollers
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRollerSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FieryTrailAura
+    - Index: 2
+    Type: DT_RACE
+    Challenge: BasicRace
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs: []
+    Auras: []
+    - Index: 3
+    Type: DT_EXTERMINATE
+    Challenge: GrenadesOnly
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/VaniaExterminateTechrotSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GrenadeSpawnAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GrenadesOnlyAura
+    - Index: 4
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: SecuritySpin
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/TauOrokinEmpireSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSecuritySpinAura
+    - Index: 5
+    Type: DT_MIMICS
+    Challenge: BasicMimics
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs: []
+    Auras: []
+    - Index: 6
+    Type: DT_BREAK_TARGETS
+    Challenge: NC_VoidAberration
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHVoidAberrationAura
+    - Index: 7
+    Type: DT_PROTOFRAME
+    Challenge: Wisp
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomWisp.level
+    Specs: []
+    Auras: []
+    - Index: 8
+    Type: DT_PRESURE_GAUGE
+    Challenge: ArbitrationDrones
+    Level: /Lotus/Levels/DevilTower/ArenaGrape.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHEntratiAlchemySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHArbitrationSupportAura
+    - Index: 9
+    Type: DT_BOSS
+    Challenge: InfestedLichDuo
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerNightwatchExterminate
+    Auras:
+      - /Lotus/Types/Gameplay/DevilTower/LiteGameModes/CoHNemesisAura
+    - Index: 10
+    Type: DT_SHRINE_DEFENSE
+    Challenge: UnseenFoes
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Duviri/Arena/DuviriSurvivalSpecA
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHUnseenFoesAura
+    - Index: 11
+    Type: DT_INTERCEPTION
+    Challenge: HordeWeakpoints
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHHordeSpec
+    Auras:
+      - 
+      /Lotus/Types/Gameplay/EntratiLab/LabConquest/GenericFortifiedFoesWeakpointAura
+    - Index: 12
+    Type: DT_LOOT_CREATURES
+    Challenge: BasicLootCreatures
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs: []
+    Auras: []
+    - Index: 13
+    Type: DT_NETRACELLS
+    Challenge: RangedArcadiaOnly
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRangeOnlySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHArcadeAutomataAura
+    - Index: 14
+    Type: DT_PROTOFRAME
+    Challenge: Harrow
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomHarrow.level
+    Specs: []
+    Auras: []
+    - Index: 15
+    Type: DT_UNIQUE
+    Challenge: HorseCombatOnly
+    Level: /Lotus/Levels/DevilTower/SpecialChallengeArena01.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHHorseAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DisableSelfReviveAura
+    - Index: 16
+    Type: DT_DEFENSE
+    Challenge: FireChain
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/OrokinExterminateB
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FireChainAura
+    - Index: 17
+    Type: DT_EXCAVATION
+    Challenge: FieryTrail
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerExterminateFire
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FieryTrailAura
+    - Index: 18
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: BlitzLeech
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusExterminateMixed
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/BlitzLeechEnhancementAura
+    - Index: 19
+    Type: DT_COLLECTION
+    Challenge: NC_MineField
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHMineFieldAura
+    - Index: 20
+    Type: DT_EXTERMINATE
+    Challenge: FreezeInShoot
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHTauGrineerSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FreezeNShootEnhancementAura
+    - Index: 21
+    Type: DT_PROTOFRAME
+    Challenge: Devil
+    Level: /Lotus/Levels/DevilTower/BossArenaUriel.level
+    Specs: []
+    Auras: []
+  - Activation:
+    $date:
+      $numberLong: '1773014400000'
+  Expiry:
+    $date:
+      $numberLong: '1773619200000'
+  RandSeed: 3534087179
+  Challenges:
+    - Index: 1
+    Type: DT_INFESTED_SALVAGE
+    Challenge: NarmerPhobia
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusInfestedMix
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHNarmerPhobiaAura
+    - Index: 2
+    Type: DT_DEFENSE
+    Challenge: RocketsOnly
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHEntratiExterminateSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/RocketSpawnAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/RocketsOnlyAura
+    - Index: 3
+    Type: DT_LOOT_CREATURES
+    Challenge: BasicLootCreatures
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs: []
+    Auras: []
+    - Index: 4
+    Type: DT_PRESURE_GAUGE
+    Challenge: SlipAndSlide
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHForestGrineerFairy
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSlipAndSlideAura
+    - Index: 5
+    Type: DT_NETRACELLS
+    Challenge: SecuritySpin
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/TauOrokinEmpireSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSecuritySpinAura
+    - Index: 6
+    Type: DT_COLLECTION
+    Challenge: NC_NarmerPhobia
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHNarmerPhobiaAura
+    - Index: 7
+    Type: DT_PROTOFRAME
+    Challenge: Wisp
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomWisp.level
+    Specs: []
+    Auras: []
+    - Index: 8
+    Type: DT_UNIQUE
+    Challenge: HorseCombatOnly
+    Level: /Lotus/Levels/DevilTower/SpecialChallengeArena03.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHHorseAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DisableSelfReviveAura
+    - Index: 9
+    Type: DT_MIMICS
+    Challenge: BasicMimics
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs: []
+    Auras: []
+    - Index: 10
+    Type: DT_EXTERMINATE
+    Challenge: FieryTrailRollers
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRollerSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FieryTrailAura
+    - Index: 11
+    Type: DT_DEFENSE
+    Challenge: PowerHouse
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHEntratiAlchemySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/PowerHouseEnhancementAura
+    - Index: 12
+    Type: DT_CAPTURE
+    Challenge: FieryTrail
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/OrokinExterminateB
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FieryTrailAura
+    - Index: 13
+    Type: DT_BREAK_TARGETS
+    Challenge: NC_SpikeCeiling
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSpikeOrbAura
+    - Index: 14
+    Type: DT_PROTOFRAME
+    Challenge: Harrow
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomHarrow.level
+    Specs: []
+    Auras: []
+    - Index: 15
+    Type: DT_INFESTED_SALVAGE
+    Challenge: RangedArcadiaOnly
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRangeOnlySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHArcadeAutomataAura
+    - Index: 16
+    Type: DT_SHRINE_DEFENSE
+    Challenge: PoisonGas
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/VaniaExterminateScaldraNoBalloonSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/PoisonGasAura
+    - Index: 17
+    Type: DT_PRESURE_GAUGE
+    Challenge: Sunlight
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/VaniaExterminateTechrotSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/SunlightAura
+    - Index: 18
+    Type: DT_NETRACELLS
+    Challenge: Escapist
+    Level: /Lotus/Levels/DevilTower/ArenaGrape.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHForestGrineerExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHEscapistAura
+    - Index: 19
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: HeadShotsOnly
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHTauGrineerSpec
+    Auras:
+      - 
+      /Lotus/Types/Gameplay/EntratiLab/LabConquest/GenericFortifiedFoesWeakpointAura
+    - Index: 20
+    Type: DT_EXCAVATION
+    Challenge: SpikeCeiling
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusZarimanExterminateSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSpikeOrbAura
+    - Index: 21
+    Type: DT_PROTOFRAME
+    Challenge: Devil
+    Level: /Lotus/Levels/DevilTower/BossArenaUriel.level
+    Specs: []
+    Auras: []
+  - Activation:
+    $date:
+      $numberLong: '1773619200000'
+  Expiry:
+    $date:
+      $numberLong: '1774224000000'
+  RandSeed: 1719459815
+  Challenges:
+    - Index: 1
+    Type: DT_COLLECTION
+    Challenge: NC_SpikeCeiling
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSpikeOrbAura
+    - Index: 2
+    Type: DT_EXTERMINATE
+    Challenge: FieryTrailRollers
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRollerSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FieryTrailAura
+    - Index: 3
+    Type: DT_NETRACELLS
+    Challenge: MineField
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Narmer/PNWNarmerDesertGrineerExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHMineFieldAura
+    - Index: 4
+    Type: DT_LOOT_CREATURES
+    Challenge: BasicLootCreatures
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs: []
+    Auras: []
+    - Index: 5
+    Type: DT_BREAK_TARGETS
+    Challenge: BasicBreakTargets
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs: []
+    Auras: []
+    - Index: 6
+    Type: DT_DEFENSE
+    Challenge: HardShell
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHInfestedExterminateMixed
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/HardShellEnhancementAura
+    - Index: 7
+    Type: DT_PROTOFRAME
+    Challenge: Wisp
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomWisp.level
+    Specs: []
+    Auras: []
+    - Index: 8
+    Type: DT_MIMICS
+    Challenge: BasicMimics
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs: []
+    Auras: []
+    - Index: 9
+    Type: DT_ALCHEMY
+    Challenge: SpikeCeiling
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerExterminateFire
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSpikeOrbAura
+    - Index: 10
+    Type: DT_INTERCEPTION
+    Challenge: PoisonGas
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHInfestedMicroplanet
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/PoisonGasAura
+    - Index: 11
+    Type: DT_SHRINE_DEFENSE
+    Challenge: RangedArcadiaOnly
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRangeOnlySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHArcadeAutomataAura
+    - Index: 12
+    Type: DT_PRESURE_GAUGE
+    Challenge: PowerHouse
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/VaniaExterminateScaldraNoBalloonSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/PowerHouseEnhancementAura
+    - Index: 13
+    Type: DT_EXTERMINATE
+    Challenge: BallonParty
+    Level: /Lotus/Levels/DevilTower/ArenaEggplant.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CoHScaldraBalloonsOnlySpec
+    Auras: []
+    - Index: 14
+    Type: DT_PROTOFRAME
+    Challenge: Harrow
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomHarrow.level
+    Specs: []
+    Auras: []
+    - Index: 15
+    Type: DT_INFESTED_SALVAGE
+    Challenge: FireChain
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/VaniaExterminateTechrotSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/FireChainAura
+    - Index: 16
+    Type: DT_EXCAVATION
+    Challenge: VeryToxic
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerZarimanExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/ToxicLeechEnhancementAura
+    - Index: 17
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: JumpSmash
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusGrineerInvasionHard
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/JumpSmashAura
+    - Index: 18
+    Type: DT_DEFENSE
+    Challenge: JadeGuardian
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/FiveFatesDefense
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/JadeGuardianEnhancementAura
+    - Index: 19
+    Type: DT_SABOTAGE_HIVE
+    Challenge: ShockingLeech
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHGrineerNightwatchExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/ShockingLeechEnhancementAura
+    - Index: 20
+    Type: DT_RACE
+    Challenge: BasicRace
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs: []
+    Auras: []
+    - Index: 21
+    Type: DT_PROTOFRAME
+    Challenge: Devil
+    Level: /Lotus/Levels/DevilTower/BossArenaUriel.level
+    Specs: []
+    Auras: []
+  - Activation:
+    $date:
+      $numberLong: '1774224000000'
+  Expiry:
+    $date:
+      $numberLong: '1774828800000'
+  RandSeed: 2314013051
+  Challenges:
+    - Index: 1
+    Type: DT_EXTERMINATE
+    Challenge: NecroMechWeakpoints
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHNecroMechSpec
+    Auras:
+      - 
+      /Lotus/Types/Gameplay/EntratiLab/LabConquest/GenericFortifiedFoesWeakpointAura
+    - Index: 2
+    Type: DT_NETRACELLS
+    Challenge: ToxicFire
+    Level: /Lotus/Levels/DevilTower/ArenaGrape.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/CorpusInfestedMix
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/ToxicFireEnhancementAura
+    - Index: 3
+    Type: DT_DEFENSE
+    Challenge: GlassMaker
+    Level: /Lotus/Levels/DevilTower/ArenaBagel.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHInfestedMicroplanet
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GlassMakerAura
+    - Index: 4
+    Type: DT_COLLECTION
+    Challenge: CollectionBasic
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs: []
+    Auras: []
+    - Index: 5
+    Type: DT_ALCHEMY
+    Challenge: RangedArcadiaOnly
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHRangeOnlySpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHArcadeAutomataAura
+    - Index: 6
+    Type: DT_SABOTAGE_DEFENSE
+    Challenge: JadeGuardian
+    Level: /Lotus/Levels/DevilTower/ArenaAvocado.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Narmer/PNWNarmerDesertGrineerExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/JadeGuardianEnhancementAura
+    - Index: 7
+    Type: DT_PROTOFRAME
+    Challenge: Wisp
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomWisp.level
+    Specs: []
+    Auras: []
+    - Index: 8
+    Type: DT_RACE
+    Challenge: BasicRace
+    Level: /Lotus/Levels/DevilTower/SpecialChallengeArena03.level
+    Specs: []
+    Auras: []
+    - Index: 9
+    Type: DT_EXCAVATION
+    Challenge: GiantRealm
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Duviri/Arena/DuviriSurvivalSpecA
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/GiantRealmAura
+    - Index: 10
+    Type: DT_LOOT_CREATURES
+    Challenge: BasicLootCreatures
+    Level: /Lotus/Levels/DevilTower/ArenaMelon.level
+    Specs: []
+    Auras: []
+    - Index: 11
+    Type: DT_BREAK_TARGETS
+    Challenge: NC_NarmerPhobia
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHNarmerPhobiaAura
+    - Index: 12
+    Type: DT_DEFENSE
+    Challenge: HardShell
+    Level: /Lotus/Levels/DevilTower/ArenaWaffle.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHForestGrineerExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/HardShellEnhancementAura
+    - Index: 13
+    Type: DT_NETRACELLS
+    Challenge: Sunlight
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHInfestedExterminateMixed
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/SunlightAura
+    - Index: 14
+    Type: DT_PROTOFRAME
+    Challenge: Harrow
+    Level: /Lotus/Levels/DevilTower/ProtoframeRoomHarrow.level
+    Specs: []
+    Auras: []
+    - Index: 15
+    Type: DT_COLLECTION
+    Challenge: NC_SecuritySpin
+    Level: /Lotus/Levels/DevilTower/ArenaCherry.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSecuritySpinAura
+    - Index: 16
+    Type: DT_INTERCEPTION
+    Challenge: UnseenFoes
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusZarimanExterminateSpec
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHUnseenFoesAura
+    - Index: 17
+    Type: DT_LOOT
+    Challenge: BasicLoot
+    Level: /Lotus/Levels/DevilTower/ArenaCoconut.level
+    Specs: []
+    Auras: []
+    - Index: 18
+    Type: DT_CAPTURE
+    Challenge: VoidAberration
+    Level: /Lotus/Levels/DevilTower/ArenaMango.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHPNWNarmerCorpusGasExterminate
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/DarknessAura
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHVoidAberrationAura
+    - Index: 19
+    Type: DT_SHRINE_DEFENSE
+    Challenge: SecuritySpin
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs:
+      - /Lotus/Types/Game/EnemySpecs/Tau/CoHCorpusGasExterminateMixed
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSecuritySpinAura
+    - Index: 20
+    Type: DT_BREAK_TARGETS
+    Challenge: NC_SpikeCeiling
+    Level: /Lotus/Levels/DevilTower/ArenaPeach.level
+    Specs: []
+    Auras:
+      - /Lotus/Types/Scripts/Tau/CoH/Complications/CoHSpikeOrbAura
+    - Index: 21
+    Type: DT_PROTOFRAME
+    Challenge: Devil
+    Level: /Lotus/Levels/DevilTower/BossArenaUriel.level
+    Specs: []
+    Auras: []
+Tmp: '{"cavabegin":"1690761600","pgr":{"ts":"1732572900","en":"CUSTOM DECALS @ ZEVILA","fr":"DECALS
+  CUSTOM @ ZEVILA","it":"DECALCOMANIE PERSONALIZZATE @ ZEVILA","de":"AUFKLEBER NACH
+  WUNSCH @ ZEVILA","es":"CALCOMANÍAS PERSONALIZADAS @ ZEVILA","pt":"DECALQUES PERSONALIZADOS
+  NA ZEVILA","ru":"ПОЛЬЗОВАТЕЛЬСКИЕ НАКЛЕЙКИ @ ЗеВиЛа","pl":"NOWE NAKLEJKI @ ZEVILA","uk":"КОРИСТУВАЦЬКІ
+  ДЕКОЛІ @ ЗІВІЛА","tr":"ÖZEL ÇIKARTMALAR @ ZEVILA","ja":"カスタムデカール @ ゼビラ","zh":"定制贴花认准泽威拉","ko":"커스텀
+  데칼 @ ZEVILA","tc":"自訂貼花 @ ZEVILA","th":"รูปลอกสั่งทำที่ ZEVILA"},"ennnd":true,"mbrt":true,"fbst":{"a":1771516800,"e":1771524000,"n":1771545600},"lqo66":{"mt":["Survival","Alchemy","Extermination"],"mv":["UnpoweredCapsules","EximusGrenadiers","GrowingIncursion"],"c":[["RegeneratingEnemies","Quicksand"],["DrainingResiduals","ExplosiveCrawlers"],["AntiMaterialWeapons","EMPBlackHole"]],"fv":["Undersupplied","ShieldDelay","Exhaustion","DecayingFlesh"]},"hqo18":{"mt":["EndlessCapture","Survival","Defense"],"mv":["DoubleTroubleLegacyte","ContaminationZone","ChemicalNoise"],"mf":[9,8,8],"c":[["HostileOvergrowth","RegeneratingEnemies"],["VoidAberration","Quicksand"],["DrainingResiduals","PointBlank"]],"fv":["OperatorLockout","OverSensitive","Starvation","ContactDamage"]},"dmegp":1753284600,"tcaz":0,"tces":true,"sfn":554}'

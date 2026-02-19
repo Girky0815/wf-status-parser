@@ -34,10 +34,19 @@ def request_get(url: str, timeout: int = 30):
     """プロキシ設定があり、かつターゲットがWarframe関連ドメインの場合のみプロキシを使用する"""
     is_warframe_url = "warframe.com" in url
     
+    headers = {
+        "User-Agent": const.USER_AGENT,
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+        "Referer": "https://www.warframe.com/",
+        "Origin": "https://www.warframe.com/"
+    }
+    
     if const.WF_PROXY_URL and is_warframe_url:
         logger.info(f"Using Proxy for Warframe URL: {url}")
-        # プロキシURLの形式: https://script.google.com/.../exec?url=<target_url>
-        response = requests.get(const.WF_PROXY_URL, params={"url": url}, impersonate="chrome", timeout=timeout)
+        # プロキシURLの形式: https://script.google.com/.../exec?url=<target_url> または Cloudflare Worker
+        # プロキシ側でヘッダーを再設定する場合が多いが、リクエストに含めておく
+        response = requests.get(const.WF_PROXY_URL, params={"url": url}, headers=headers, impersonate="chrome", timeout=timeout)
         
         # プロキシが200 OKを返しても、ターゲットサーバーがエラー（HTML）を返している可能性があるためチェック
         content_type = response.headers.get("Content-Type", "")
@@ -48,7 +57,7 @@ def request_get(url: str, timeout: int = 30):
         # プロキシがない、またはWarframe以外のURL（GitHub等）の場合は直接アクセス
         if is_warframe_url:
              logger.info(f"Direct access to Warframe URL: {url}")
-        return requests.get(url, impersonate="chrome", timeout=timeout)
+        return requests.get(url, headers=headers, impersonate="chrome", timeout=timeout)
 
 def fetch_index() -> str:
     """index_ja.txt.lzma を取得・解凍してテキストを返す"""
