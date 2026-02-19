@@ -1,13 +1,13 @@
 # Warframe WorldState Status (JP)
-# Generated at: 2026-02-20 01:41:48.816137
+# Generated at: 2026-02-19 18:13:44.609166
 # BuildLabel: 2026.02.13.16.03/m9D2v+Lb-IlcRhQxYG26Cw
 
 WorldSeed: 
-  eHIsHsUKEn7NC9I4Ern5Xxcr2Y8vbpjQrpNzeU/bXzR9DGIRoz+jGUT4vPgiiYP7936HxJx6ct8iW4G9AYV9XD2lci5qWZNdYq+JgYOTYCQ+AnIP24p0A8GBaC/yO4IWqPIrfEb4Z3PZDwaN/iwqplq7uuFYWsAx79pB30P9Grg=
+  RLysTf+7bArHECc6Ubqc1US+u9tLHur9mZaYg7bTX2rpBPUE7HHvk+45M6PQ5y85unkH14EgZMbdOoc4kmJc+1bn1wW20YcX16+TLlaHmXYs91lTNML8N4YZUSosqxlUnxeckUIgWued9ldc8tHkx6gMDXsX9882+vrrBx3yr0g=
 Version: 10
 MobileVersion: 5.3.0.0
 BuildLabel: 2026.02.13.16.03/m9D2v+Lb-IlcRhQxYG26Cw
-Time: 1771519260
+Time: 1771524775
 Events:
   - _id:
     $oid: 62d31b87106360aa5703954d
@@ -464,55 +464,6 @@ Events:
   MobileOnly: false
   Community: true
   - _id:
-    $oid: 698e3178edb7f1ec080d331a
-  Messages:
-    - LanguageCode: en
-    Message: Prime Resurgence EoY Event Last Chance Rotation Now Live!
-    - LanguageCode: fr
-    Message: 'Résurgence Prime spéciale : rotation finale maintenant disponible !'
-    - LanguageCode: it
-    Message: Evento di Fine Anno della Risorgenza Prime Rotazione Ultima 
-      Possibilità Disponibile Ora!
-    - LanguageCode: de
-    Message: "'Letzte Chance'-Rotation von Prime Rückkehr zum Jahresende-Event ist
-      jetzt live!"
-    - LanguageCode: es
-    Message: 'Evento de fin de año de Resurgimiento Prime: ¡Rotación de última oportunidad
-      ya disponible!'
-    - LanguageCode: pt
-    Message: 'Evento de Fim de Ano da Ressurgência Prime: Rotação de Última Chamada
-      já disponível!'
-    - LanguageCode: ru
-    Message: 'Новогоднее «Возрождение Прайм»: Ротация последнего шанса уже здесь!'
-    - LanguageCode: pl
-    Message: Rotacja ostatniej szansy Odrodzenia Prime na koniec roku trwa!
-    - LanguageCode: uk
-    Message: 'Новорічне прайм-відродження: ротація останньої нагоди вже тут!'
-    - LanguageCode: tr
-    Message: Prime Diriliş Yıl Sonu Etkinliği Son Şans Rotasyonu Başladı!
-    - LanguageCode: ja
-    Message: Prime Resurgence 2025年末イベント 最終ローテーション開始
-    - LanguageCode: zh
-    Message: Prime 重生年末活动的最后轮换现已登场！
-    - LanguageCode: ko
-    Message: '프라임 리서전스 연말 이벤트: 마지막 기회 로테이션이 시작되었습니다!'
-    - LanguageCode: tc
-    Message: Prime Resurgence 年終活動最後輪替登場！
-    - LanguageCode: th
-    Message: กิจกรรม Prime Resurgence ส่งท้ายปีรอบสุดท้ายเริ่มแล้ว
-  Prop: 
-    https://www.warframe.com/prime-resurgence?utm_medium=in-game&utm_source=in-game&utm_campaign=2026-PrimeResurgenceEOYEventLC
-  Date:
-    $date:
-      $numberLong: '1770926400000'
-  EventEndDate:
-    $date:
-      $numberLong: '1771523940000'
-  ImageUrl: 
-    https://www-static.warframe.com/uploads/9091e158677425b1136e0ae3a6f54aba.png
-  Priority: false
-  MobileOnly: false
-  - _id:
     $oid: 698e36fdf79875d410074dbe
   Messages:
     - LanguageCode: pt
@@ -882,30 +833,30 @@ Goals:
 Alerts: []
 Sorties:
   - _id:
-    $oid: 6995ec8ee5c9fbdcee8ce5b1
+    $oid: 69973e0fc08615106f8ce5b1
   Activation:
     $date:
-      $numberLong: '1771434000000'
+      $numberLong: '1771520400000'
   Expiry:
     $date:
-      $numberLong: '1771520400000'
+      $numberLong: '1771606800000'
   Reward: /Lotus/Types/Game/MissionDecks/SortieRewards
-  Seed: 58387
-  Boss: SORTIE_BOSS_TYL
+  Seed: 30527
+  Boss: SORTIE_BOSS_RAPTOR
   ExtraDrops: []
   Variants:
-    - missionType: MT_SABOTAGE
-    modifierType: SORTIE_MODIFIER_SNIPER_ONLY
-    node: Stephano
-    tileset: GrineerOceanTileset
-    - missionType: MT_INTEL
-    modifierType: SORTIE_MODIFIER_ARMOR
-    node: Telesto
-    tileset: GrineerGalleonTileset
-    - missionType: MT_DEFENSE
-    modifierType: SORTIE_MODIFIER_EXIMUS
-    node: Plato
-    tileset: OrokinMoonTilesetGrineer
+    - missionType: MT_MOBILE_DEFENSE
+    modifierType: SORTIE_MODIFIER_PUNCTURE
+    node: Abaddon
+    tileset: CorpusIcePlanetTileset
+    - missionType: MT_EXTERMINATION
+    modifierType: SORTIE_MODIFIER_HAZARD_ICE
+    node: V Prime
+    tileset: CorpusShipTileset
+    - missionType: MT_RESCUE
+    modifierType: SORTIE_MODIFIER_BOW_ONLY
+    node: Copernicus
+    tileset: OrokinMoonTilesetCorpus
   Twitter: true
 LiteSorties:
   - _id:
@@ -928,404 +879,43 @@ LiteSorties:
     node: Themisto
 SyndicateMissions:
   - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b1
+    $oid: 699740c20000000000000006
   Activation:
     $date:
-      $numberLong: '1771433942642'
+      $numberLong: '1771520194544'
   Expiry:
     $date:
-      $numberLong: '1771520340000'
-  Tag: ArbitersSyndicate
-  Seed: 58387
-  Nodes:
-    - Tharsis
-    - Unda
-    - Monolith
-    - Abaddon
-    - Xini
-    - Dione
-    - Nabuk
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b2
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: CephalonSudaSyndicate
-  Seed: 36403
-  Nodes:
-    - Suisei
-    - Cervantes
-    - Alator
-    - Cassini
-    - Stickney
-    - Minthe
-    - Venera
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b3
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: NecraloidSyndicate
-  Seed: 55854
+      $numberLong: '1771529193418'
+  Tag: HexSyndicate
+  Seed: 15525
   Nodes: []
   - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b5
+    $oid: 699740c20000000000000002
   Activation:
     $date:
-      $numberLong: '1771433942642'
+      $numberLong: '1771520194544'
   Expiry:
     $date:
-      $numberLong: '1771520340000'
-  Tag: KahlSyndicate
-  Seed: 39142
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b4
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: EventSyndicate
-  Seed: 18344
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b6
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: NewLokaSyndicate
-  Seed: 79049
-  Nodes:
-    - Cambria
-    - Kiliken
-    - Ludi
-    - Arval
-    - Hepit
-    - Metis
-    - Orias
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b8
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: QuillsSyndicate
-  Seed: 75805
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b7
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: NightcapJournalSyndicate
-  Seed: 83222
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5b9
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: PerrinSyndicate
-  Seed: 87807
-  Nodes:
-    - Lares
-    - Eurasia
-    - Roche
-    - Helene
-    - Nuovo
-    - Sorath
-    - Berehynia
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5ba
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegion2Syndicate
-  Seed: 6718
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c9
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermissionSyndicate
-  Seed: 94841
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c8
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission9Syndicate
-  Seed: 53056
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5bb
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegion3Syndicate
-  Seed: 2259
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5bc
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission10Syndicate
-  Seed: 24934
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c0
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission14Syndicate
-  Seed: 65995
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c5
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission6Syndicate
-  Seed: 71372
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5bd
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission11Syndicate
-  Seed: 28139
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c7
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission8Syndicate
-  Seed: 99207
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c3
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission4Syndicate
-  Seed: 61953
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5bf
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission13Syndicate
-  Seed: 48978
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5be
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission12Syndicate
-  Seed: 39343
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c4
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission5Syndicate
-  Seed: 46151
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c6
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission7Syndicate
-  Seed: 57680
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c2
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission3Syndicate
-  Seed: 50569
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5c1
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionIntermission2Syndicate
-  Seed: 40085
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5ca
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RadioLegionSyndicate
-  Seed: 40922
-  Nodes: []
-  - _id:
-    $oid: 6995efd79aadd3dcbc8ce5cc
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: VentKidsSyndicate
-  Seed: 54962
-  Nodes: []
-  - _id:
-    $oid: 6995efd69aadd3dcbc8ce5cb
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: RedVeilSyndicate
-  Seed: 37286
-  Nodes:
-    - Caloris
-    - Saxis
-    - Morax
-    - Skyresh
-    - Martialis
-    - Carpo
-    - Laomedeia
-  - _id:
-    $oid: 6995efd79aadd3dcbc8ce5cd
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: VoxSyndicate
-  Seed: 21285
-  Nodes: []
-  - _id:
-    $oid: 6995efd79aadd3dcbc8ce5ce
-  Activation:
-    $date:
-      $numberLong: '1771433942642'
-  Expiry:
-    $date:
-      $numberLong: '1771520340000'
-  Tag: SteelMeridianSyndicate
-  Seed: 86346
-  Nodes:
-    - Ishtar
-    - Pantheon
-    - Thon
-    - Baal
-    - Isos
-    - Spear
-    - Selkie
-  - _id:
-    $oid: 69971d9b0000000000000002
-  Activation:
-    $date:
-      $numberLong: '1771511195669'
-  Expiry:
-    $date:
-      $numberLong: '1771520194543'
+      $numberLong: '1771529193418'
   Tag: EntratiSyndicate
-  Seed: 67981
+  Seed: 15524
   Nodes: []
   Jobs:
     - jobType: 
-      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosGrnSurvivorBounty
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosKeyPiecesBounty
     rewards: 
-      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierATableCRewards
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierATableARewards
     masteryReq: 0
     minEnemyLevel: 5
     maxEnemyLevel: 15
     xpAmounts:
-      - 6
-      - 6
-      - 6
+      - 5
+      - 5
+      - 5
     - jobType: 
-      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosKeyPiecesBounty
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosCrpSurvivorBounty
     rewards: 
-      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierCTableCRewards
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierCTableARewards
     masteryReq: 1
     minEnemyLevel: 15
     maxEnemyLevel: 25
@@ -1334,7 +924,7 @@ SyndicateMissions:
       - 11
       - 11
     - jobType: 
-      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosEndlessPurifyBounty
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosEndlessExcavateBounty
     rewards: 
       /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierBTableARewards
     masteryReq: 5
@@ -1345,33 +935,32 @@ SyndicateMissions:
       - 14
       - 14
       - 14
-    - jobType: 
-      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosAssassinateBounty
+    - jobType: /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosPurifyBounty
     rewards: 
-      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierDTableBRewards
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierDTableARewards
     masteryReq: 2
     minEnemyLevel: 30
     maxEnemyLevel: 40
     xpAmounts:
-      - 17
-      - 17
-      - 17
-      - 25
+      - 18
+      - 18
+      - 18
+      - 27
     - jobType: 
-      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosCrpSurvivorBounty
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosExcavateBounty
     rewards: 
       /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierETableARewards
     masteryReq: 3
     minEnemyLevel: 40
     maxEnemyLevel: 60
     xpAmounts:
-      - 22
-      - 22
-      - 22
-      - 22
-      - 43
+      - 23
+      - 23
+      - 23
+      - 23
+      - 45
     - jobType: 
-      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosExcavateBounty
+      /Lotus/Types/Gameplay/InfestedMicroplanet/Jobs/DeimosGrnSurvivorBounty
     rewards: 
       /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/TierETableARewards
     masteryReq: 10
@@ -1384,7 +973,7 @@ SyndicateMissions:
       - 25
       - 50
     - rewards: 
-      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierATableARewards
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierATableBRewards
     masteryReq: 5
     minEnemyLevel: 30
     maxEnemyLevel: 40
@@ -1396,7 +985,7 @@ SyndicateMissions:
     locationTag: ChamberB
     isVault: true
     - rewards: 
-      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierBTableARewards
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierBTableBRewards
     masteryReq: 5
     minEnemyLevel: 40
     maxEnemyLevel: 50
@@ -1408,7 +997,7 @@ SyndicateMissions:
     locationTag: ChamberA
     isVault: true
     - rewards: 
-      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierCTableARewards
+      /Lotus/Types/Game/MissionDecks/DeimosMissionRewards/VaultBountyTierCTableBRewards
     masteryReq: 5
     minEnemyLevel: 50
     maxEnemyLevel: 60
@@ -1420,74 +1009,63 @@ SyndicateMissions:
     locationTag: ChamberC
     isVault: true
   - _id:
-    $oid: 69971d9b0000000000000004
+    $oid: 699740c20000000000000010
   Activation:
     $date:
-      $numberLong: '1771511195669'
+      $numberLong: '1771520194544'
   Expiry:
     $date:
-      $numberLong: '1771520194543'
-  Tag: EntratiLabSyndicate
-  Seed: 67982
-  Nodes: []
-  - _id:
-    $oid: 69971d9b0000000000000010
-  Activation:
-    $date:
-      $numberLong: '1771511195669'
-  Expiry:
-    $date:
-      $numberLong: '1771520194543'
+      $numberLong: '1771529193418'
   Tag: CetusSyndicate
-  Seed: 67981
+  Seed: 15524
   Nodes: []
   Jobs:
-    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/CaptureBountyCapOne
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/ReclamationBountyTheft
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierATableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierATableARewards
     masteryReq: 0
     minEnemyLevel: 5
     maxEnemyLevel: 15
     xpAmounts:
-      - 460
-      - 460
-      - 460
+      - 400
+      - 400
+      - 400
     - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/ReclamationBountyCap
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierBTableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierBTableARewards
     masteryReq: 1
     minEnemyLevel: 10
     maxEnemyLevel: 30
     xpAmounts:
-      - 650
-      - 650
-      - 650
-    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/CaptureBountyCapTwo
+      - 630
+      - 630
+      - 630
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AssassinateBountyCap
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierCTableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierCTableARewards
     masteryReq: 2
     minEnemyLevel: 20
     maxEnemyLevel: 40
     xpAmounts:
-      - 640
-      - 640
-      - 640
-      - 940
-    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AttritionBountySab
+      - 670
+      - 670
+      - 670
+      - 990
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AttritionBountyCap
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierDTableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierDTableARewards
     masteryReq: 3
     minEnemyLevel: 30
     maxEnemyLevel: 50
     xpAmounts:
-      - 560
-      - 560
-      - 560
-      - 560
-      - 1090
-    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AssassinateBountyAss
+      - 570
+      - 570
+      - 570
+      - 570
+      - 1120
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/CaptureBountyCapOne
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierETableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierETableARewards
     masteryReq: 5
     minEnemyLevel: 40
     maxEnemyLevel: 60
@@ -1497,9 +1075,9 @@ SyndicateMissions:
       - 750
       - 750
       - 1470
-    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/AttritionBountyLib
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/CaptureBountyCapTwo
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierETableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/TierETableARewards
     masteryReq: 10
     minEnemyLevel: 100
     maxEnemyLevel: 100
@@ -1509,64 +1087,75 @@ SyndicateMissions:
       - 840
       - 840
       - 1660
-    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/Narmer/AttritionBountyLib
+    - jobType: /Lotus/Types/Gameplay/Eidolon/Jobs/Narmer/AttritionBountyExt
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/NarmerTableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/NarmerTableARewards
     masteryReq: 0
     minEnemyLevel: 50
     maxEnemyLevel: 70
     xpAmounts:
-      - 800
-      - 800
-      - 800
-      - 800
-      - 1580
+      - 770
+      - 770
+      - 770
+      - 770
+      - 1500
   - _id:
-    $oid: 69971d9b0000000000000031
+    $oid: 699740c20000000000000004
   Activation:
     $date:
-      $numberLong: '1771511195669'
+      $numberLong: '1771520194544'
   Expiry:
     $date:
-      $numberLong: '1771520194543'
+      $numberLong: '1771529193418'
+  Tag: EntratiLabSyndicate
+  Seed: 15525
+  Nodes: []
+  - _id:
+    $oid: 699740c20000000000000031
+  Activation:
+    $date:
+      $numberLong: '1771520194544'
+  Expiry:
+    $date:
+      $numberLong: '1771529193418'
   Tag: SolarisSyndicate
-  Seed: 67981
+  Seed: 15524
   Nodes: []
   Jobs:
-    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusPreservationJobRecovery
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusTheftJobResource
     rewards: 
-      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierATableCRewards
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierATableARewards
     masteryReq: 0
     minEnemyLevel: 5
     maxEnemyLevel: 15
     xpAmounts:
-      - 350
-      - 350
-      - 350
-    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusChaosJobExcavation
+      - 460
+      - 460
+      - 460
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusChaosJobAssassinate
     rewards: 
-      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierBTableCRewards
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierBTableARewards
     masteryReq: 1
     minEnemyLevel: 10
     maxEnemyLevel: 30
     xpAmounts:
-      - 650
-      - 650
-      - 650
-    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusHelpingJobSpy
+      - 610
+      - 610
+      - 610
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusIntelJobSpy
     rewards: 
-      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierCTableCRewards
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierCTableARewards
     masteryReq: 2
     minEnemyLevel: 20
     maxEnemyLevel: 40
     xpAmounts:
-      - 630
-      - 630
-      - 630
-      - 930
-    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusCullJobExterminate
+      - 570
+      - 570
+      - 570
+      - 850
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusTheftJobExcavation
     rewards: 
-      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierDTableCRewards
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierDTableARewards
     masteryReq: 3
     minEnemyLevel: 30
     maxEnemyLevel: 50
@@ -1576,21 +1165,21 @@ SyndicateMissions:
       - 610
       - 610
       - 1200
-    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusArtifactJobAmbush
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusPreservationJobRecovery
     rewards: 
-      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierETableCRewards
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierETableARewards
     masteryReq: 5
     minEnemyLevel: 40
     maxEnemyLevel: 60
     xpAmounts:
-      - 700
-      - 700
-      - 700
-      - 700
-      - 1370
-    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusWetworkJobSpy
+      - 680
+      - 680
+      - 680
+      - 680
+      - 1340
+    - jobType: /Lotus/Types/Gameplay/Venus/Jobs/VenusChaosJobExcavation
     rewards: 
-      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierETableCRewards
+      /Lotus/Types/Game/MissionDecks/VenusJobMissionRewards/VenusTierETableARewards
     masteryReq: 10
     minEnemyLevel: 100
     maxEnemyLevel: 100
@@ -1601,242 +1190,402 @@ SyndicateMissions:
       - 840
       - 1660
     - jobType: 
-      /Lotus/Types/Gameplay/Venus/Jobs/Narmer/NarmerVenusCullJobAssassinate
+      /Lotus/Types/Gameplay/Venus/Jobs/Narmer/NarmerVenusCullJobExterminate
     rewards: 
-      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/NarmerTableCRewards
+      /Lotus/Types/Game/MissionDecks/EidolonJobMissionRewards/NarmerTableARewards
     masteryReq: 0
     minEnemyLevel: 50
     maxEnemyLevel: 70
     xpAmounts:
-      - 780
-      - 780
-      - 780
-      - 780
-      - 1530
+      - 800
+      - 800
+      - 800
+      - 800
+      - 1560
   - _id:
-    $oid: 69971d9b0000000000000006
+    $oid: 699740c20000000000000035
   Activation:
     $date:
-      $numberLong: '1771511195669'
+      $numberLong: '1771520194544'
   Expiry:
     $date:
-      $numberLong: '1771520194543'
-  Tag: HexSyndicate
-  Seed: 67982
-  Nodes: []
-  - _id:
-    $oid: 69971d9b0000000000000035
-  Activation:
-    $date:
-      $numberLong: '1771511195669'
-  Expiry:
-    $date:
-      $numberLong: '1771520194543'
+      $numberLong: '1771529193418'
   Tag: ZarimanSyndicate
-  Seed: 67982
+  Seed: 15525
   Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b1
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: ArbitersSyndicate
+  Seed: 30527
+  Nodes:
+    - Cambria
+    - Linea
+    - Caloris
+    - Baal
+    - Rhea
+    - Casta
+    - Saxis
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b3
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: NecraloidSyndicate
+  Seed: 87253
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b4
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: EventSyndicate
+  Seed: 62089
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b5
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: KahlSyndicate
+  Seed: 10048
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b2
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: CephalonSudaSyndicate
+  Seed: 71506
+  Nodes:
+    - Martialis
+    - Cervantes
+    - Roche
+    - Sorath
+    - Umbriel
+    - M Prime
+    - Io
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b6
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: NewLokaSyndicate
+  Seed: 69708
+  Nodes:
+    - Hellas
+    - E Gate
+    - Suisei
+    - Bode
+    - Palus
+    - Sharpless
+    - Larissa
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b7
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: NightcapJournalSyndicate
+  Seed: 70177
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b8
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: QuillsSyndicate
+  Seed: 41773
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5ba
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegion2Syndicate
+  Seed: 73919
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5b9
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: PerrinSyndicate
+  Seed: 47601
+  Nodes:
+    - Everest
+    - Odin
+    - Cytherean
+    - Carpo
+    - Nabuk
+    - Charybdis
+    - Augustus
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bb
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegion3Syndicate
+  Seed: 44769
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bc
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission10Syndicate
+  Seed: 13123
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5be
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission12Syndicate
+  Seed: 41112
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bd
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission11Syndicate
+  Seed: 76822
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5bf
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission13Syndicate
+  Seed: 7538
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c0
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission14Syndicate
+  Seed: 29493
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c4
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission5Syndicate
+  Seed: 66439
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c2
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission3Syndicate
+  Seed: 12833
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c5
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission6Syndicate
+  Seed: 70673
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c1
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission2Syndicate
+  Seed: 34447
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c3
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission4Syndicate
+  Seed: 73599
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c6
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission7Syndicate
+  Seed: 50807
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c7
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission8Syndicate
+  Seed: 78755
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c8
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermission9Syndicate
+  Seed: 22727
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5ca
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionSyndicate
+  Seed: 13062
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5c9
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RadioLegionIntermissionSyndicate
+  Seed: 2784
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5cb
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: RedVeilSyndicate
+  Seed: 10661
+  Nodes:
+    - Eurasia
+    - Ara
+    - Kiliken
+    - Callisto
+    - Boethius
+    - Dione
+    - Hydron
+  - _id:
+    $oid: 69974156cc8765b3e98ce5cd
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: VoxSyndicate
+  Seed: 18116
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5cc
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: VentKidsSyndicate
+  Seed: 46855
+  Nodes: []
+  - _id:
+    $oid: 69974156cc8765b3e98ce5ce
+  Activation:
+    $date:
+      $numberLong: '1771520342206'
+  Expiry:
+    $date:
+      $numberLong: '1771606740000'
+  Tag: SteelMeridianSyndicate
+  Seed: 14042
+  Nodes:
+    - Unda
+    - Ares
+    - Pantheon
+    - Olympus
+    - Naga
+    - Galatea
+    - Orias
 ActiveMissions:
-  - _id:
-    $oid: 699729aac4a22f92438ce5b1
-  Region: 16
-  Seed: 96981
-  Activation:
-    $date:
-      $numberLong: '1771514282632'
-  Expiry:
-    $date:
-      $numberLong: '1771521436100'
-  Node: Monolith
-  MissionType: MT_RESCUE
-  Modifier: VoidT2
-  - _id:
-    $oid: 699729aac4a22f92438ce5b2
-  Region: 5
-  Seed: 27925
-  Activation:
-    $date:
-      $numberLong: '1771514282632'
-  Expiry:
-    $date:
-      $numberLong: '1771519624369'
-  Node: Io
-  MissionType: MT_DEFENSE
-  Modifier: VoidT2
-  - _id:
-    $oid: 69972cf23365b0e5608ce5b1
-  Region: 19
-  Seed: 17856
-  Activation:
-    $date:
-      $numberLong: '1771515122368'
-  Expiry:
-    $date:
-      $numberLong: '1771522213572'
-  Node: Taveuni
-  MissionType: MT_SURVIVAL
-  Modifier: VoidT5
-  - _id:
-    $oid: 69972f4a13b4fdbcdd8ce5b1
-  Region: 17
-  Seed: 8505
-  Activation:
-    $date:
-      $numberLong: '1771515722799'
-  Expiry:
-    $date:
-      $numberLong: '1771522219960'
-  Node: Cambire
-  MissionType: MT_ALCHEMY
-  Modifier: VoidT6
-  - _id:
-    $oid: 69972f4a13b4fdbcdd8ce5b2
-  Region: 18
-  Seed: 61706
-  Activation:
-    $date:
-      $numberLong: '1771515722799'
-  Expiry:
-    $date:
-      $numberLong: '1771520109642'
-  Node: Yuvarium
-  MissionType: MT_SURVIVAL
-  Modifier: VoidT6
-  - _id:
-    $oid: 69972f87c0cde41f238ce5b1
-  Region: 7
-  Seed: 88477
-  Activation:
-    $date:
-      $numberLong: '1771515783036'
-  Expiry:
-    $date:
-      $numberLong: '1771522348908'
-  Node: Stephano
-  MissionType: MT_DEFENSE
-  Modifier: VoidT3
-  - _id:
-    $oid: 69972f87c0cde41f238ce5b2
-  Region: 8
-  Seed: 65546
-  Activation:
-    $date:
-      $numberLong: '1771515783036'
-  Expiry:
-    $date:
-      $numberLong: '1771521991082'
-  Node: Neso
-  MissionType: MT_EXTERMINATION
-  Modifier: VoidT3
-  - _id:
-    $oid: 69973076567600c1ba8ce5b1
-  Region: 9
-  Seed: 67270
-  Activation:
-    $date:
-      $numberLong: '1771516022324'
-  Expiry:
-    $date:
-      $numberLong: '1771523186873'
-  Node: Narcissus
-  MissionType: MT_EXTERMINATION
-  Modifier: VoidT4
-  Hard: true
-  - _id:
-    $oid: 699731a368f0ac06768ce5b1
-  Region: 10
-  Seed: 18107
-  Activation:
-    $date:
-      $numberLong: '1771516322983'
-  Expiry:
-    $date:
-      $numberLong: '1771521036740'
-  Node: Ker
-  MissionType: MT_SABOTAGE
-  Modifier: VoidT2
-  Hard: true
-  - _id:
-    $oid: 699731a368f0ac06768ce5b2
-  Region: 16
-  Seed: 17399
-  Activation:
-    $date:
-      $numberLong: '1771516322983'
-  Expiry:
-    $date:
-      $numberLong: '1771523376132'
-  Node: Shklovsky
-  MissionType: MT_INTEL
-  Modifier: VoidT2
-  Hard: true
-  - _id:
-    $oid: 699731a368f0ac06768ce5b3
-  Region: 6
-  Seed: 95291
-  Activation:
-    $date:
-      $numberLong: '1771516322983'
-  Expiry:
-    $date:
-      $numberLong: '1771521114116'
-  Node: Anthe
-  MissionType: MT_RESCUE
-  Modifier: VoidT2
-  Hard: true
-  - _id:
-    $oid: 69973473b7e01f0a618ce5b1
-  Region: 18
-  Seed: 26365
-  Activation:
-    $date:
-      $numberLong: '1771517043092'
-  Expiry:
-    $date:
-      $numberLong: '1771521536283'
-  Node: Circulus
-  MissionType: MT_SURVIVAL
-  Modifier: VoidT6
-  Hard: true
-  - _id:
-    $oid: 69973473b7e01f0a618ce5b2
-  Region: 17
-  Seed: 41294
-  Activation:
-    $date:
-      $numberLong: '1771517043092'
-  Expiry:
-    $date:
-      $numberLong: '1771521070009'
-  Node: Persto
-  MissionType: MT_SURVIVAL
-  Modifier: VoidT6
-  Hard: true
-  - _id:
-    $oid: 6997374379169488908ce5b1
-  Region: 3
-  Seed: 53059
-  Activation:
-    $date:
-      $numberLong: '1771517763132'
-  Expiry:
-    $date:
-      $numberLong: '1771523791361'
-  Node: Mantle
-  MissionType: MT_CAPTURE
-  Modifier: VoidT1
-  - _id:
-    $oid: 6997374379169488908ce5b2
-  Region: 2
-  Seed: 44120
-  Activation:
-    $date:
-      $numberLong: '1771517763132'
-  Expiry:
-    $date:
-      $numberLong: '1771522567942'
-  Node: Ishtar
-  MissionType: MT_SABOTAGE
-  Modifier: VoidT1
   - _id:
     $oid: 6997395ebf86149d638ce5b1
   Region: 11
@@ -1851,61 +1600,247 @@ ActiveMissions:
   MissionType: MT_TERRITORY
   Modifier: VoidT4
   - _id:
-    $oid: 699739d65449e3537d8ce5b1
-  Region: 19
-  Seed: 65537
+    $oid: 6997449eea548193018ce5b1
+  Region: 16
+  Seed: 88888
   Activation:
     $date:
-      $numberLong: '1771518422250'
+      $numberLong: '1771521182513'
   Expiry:
     $date:
-      $numberLong: '1771523944582'
-  Node: Rotuma
-  MissionType: MT_MOBILE_DEFENSE
-  Modifier: VoidT5
+      $numberLong: '1771526461296'
+  Node: Stickney
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT2
+  - _id:
+    $oid: 6997449eea548193018ce5b2
+  Region: 6
+  Seed: 9544
+  Activation:
+    $date:
+      $numberLong: '1771521182513'
+  Expiry:
+    $date:
+      $numberLong: '1771525346427'
+  Node: Telesto
+  MissionType: MT_EXTERMINATION
+  Modifier: VoidT2
+  - _id:
+    $oid: 699744da92cbcbec1c8ce5b1
+  Region: 17
+  Seed: 96241
+  Activation:
+    $date:
+      $numberLong: '1771521242834'
+  Expiry:
+    $date:
+      $numberLong: '1771527283033'
+  Node: Persto
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT6
   Hard: true
   - _id:
-    $oid: 69973ac600278d40218ce5b1
-  Region: 13
-  Seed: 25432
+    $oid: 699747abef729f6bd38ce5b1
+  Region: 18
+  Seed: 17337
   Activation:
     $date:
-      $numberLong: '1771518662455'
+      $numberLong: '1771521963087'
   Expiry:
     $date:
-      $numberLong: '1771523416057'
-  Node: Ose
+      $numberLong: '1771525861474'
+  Node: Circulus
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT6
+  - _id:
+    $oid: 699747abef729f6bd38ce5b2
+  Region: 19
+  Seed: 91979
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771525894257'
+  Node: Garus
+  MissionType: MT_RESCUE
+  Modifier: VoidT5
+  - _id:
+    $oid: 699747abef729f6bd38ce5b3
+  Region: 19
+  Seed: 40406
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771527289476'
+  Node: Nabuk
+  MissionType: MT_DEFENSE
+  Modifier: VoidT5
+  - _id:
+    $oid: 699747abef729f6bd38ce5b4
+  Region: 19
+  Seed: 10825
+  Activation:
+    $date:
+      $numberLong: '1771521963087'
+  Expiry:
+    $date:
+      $numberLong: '1771526122075'
+  Node: Dakata
+  MissionType: MT_EXTERMINATION
+  Modifier: VoidT5
+  - _id:
+    $oid: 699748220e656b870d8ce5b1
+  Region: 15
+  Seed: 17778
+  Activation:
+    $date:
+      $numberLong: '1771522082673'
+  Expiry:
+    $date:
+      $numberLong: '1771525684119'
+  Node: Mithra
   MissionType: MT_TERRITORY
+  Modifier: VoidT3
+  - _id:
+    $oid: 69974b6ab65f8431d48ce5b1
+  Region: 15
+  Seed: 33251
+  Activation:
+    $date:
+      $numberLong: '1771522922401'
+  Expiry:
+    $date:
+      $numberLong: '1771527352827'
+  Node: Belenus
+  MissionType: MT_DEFENSE
+  Modifier: VoidT4
+  Hard: true
+  - _id:
+    $oid: 69974c1e08178efc0b8ce5b1
+  Region: 6
+  Seed: 38299
+  Activation:
+    $date:
+      $numberLong: '1771523102191'
+  Expiry:
+    $date:
+      $numberLong: '1771526774719'
+  Node: Titan
+  MissionType: MT_SURVIVAL
+  Modifier: VoidT2
+  Hard: true
+  - _id:
+    $oid: 69974c1e08178efc0b8ce5b2
+  Region: 10
+  Seed: 70512
+  Activation:
+    $date:
+      $numberLong: '1771523102191'
+  Expiry:
+    $date:
+      $numberLong: '1771528108884'
+  Node: Thon
+  MissionType: MT_SABOTAGE
+  Modifier: VoidT2
+  Hard: true
+  - _id:
+    $oid: 69974c5a3a37d37dd28ce5b1
+  Region: 13
+  Seed: 32675
+  Activation:
+    $date:
+      $numberLong: '1771523162598'
+  Expiry:
+    $date:
+      $numberLong: '1771528474733'
+  Node: Valac
+  MissionType: MT_INTEL
   Modifier: VoidT3
   Hard: true
   - _id:
-    $oid: 69973bb6b22693d8178ce5b1
-  Region: 4
-  Seed: 54513
+    $oid: 69974c5a3a37d37dd28ce5b2
+  Region: 7
+  Seed: 57892
   Activation:
     $date:
-      $numberLong: '1771518902450'
+      $numberLong: '1771523162598'
   Expiry:
     $date:
-      $numberLong: '1771523500522'
-  Node: Ultor
-  MissionType: MT_EXTERMINATION
+      $numberLong: '1771527212579'
+  Node: Stephano
+  MissionType: MT_DEFENSE
+  Modifier: VoidT3
+  Hard: true
+  - _id:
+    $oid: 69974dc244f17eccac8ce5b1
+  Region: 2
+  Seed: 12455
+  Activation:
+    $date:
+      $numberLong: '1771523522367'
+  Expiry:
+    $date:
+      $numberLong: '1771527540635'
+  Node: Aphrodite
+  MissionType: MT_MOBILE_DEFENSE
+  Modifier: VoidT1
+  - _id:
+    $oid: 69974dc244f17eccac8ce5b2
+  Region: 4
+  Seed: 8831
+  Activation:
+    $date:
+      $numberLong: '1771523522367'
+  Expiry:
+    $date:
+      $numberLong: '1771527443122'
+  Node: Vallis
+  MissionType: MT_MOBILE_DEFENSE
+  Modifier: VoidT1
+  - _id:
+    $oid: 69974e768ae316c9668ce5b1
+  Region: 19
+  Seed: 21670
+  Activation:
+    $date:
+      $numberLong: '1771523702259'
+  Expiry:
+    $date:
+      $numberLong: '1771529453580'
+  Node: Koro
+  MissionType: MT_ASSAULT
+  Modifier: VoidT5
+  Hard: true
+  - _id:
+    $oid: 699750cece82468aef8ce5b1
+  Region: 4
+  Seed: 79231
+  Activation:
+    $date:
+      $numberLong: '1771524302512'
+  Expiry:
+    $date:
+      $numberLong: '1771531425720'
+  Node: Olympus
+  MissionType: MT_ARTIFACT
   Modifier: VoidT1
   Hard: true
   - _id:
-    $oid: 69973bb6b22693d8178ce5b2
-  Region: 3
-  Seed: 80553
+    $oid: 699751fbf2a7b285f08ce5b1
+  Region: 12
+  Seed: 55336
   Activation:
     $date:
-      $numberLong: '1771518902450'
+      $numberLong: '1771524602991'
   Expiry:
     $date:
-      $numberLong: '1771524600755'
-  Node: Pacific
-  MissionType: MT_RESCUE
-  Modifier: VoidT1
-  Hard: true
+      $numberLong: '1771529562625'
+  Node: Hydron
+  MissionType: MT_DEFENSE
+  Modifier: VoidT4
 GlobalUpgrades: []
 FlashSales:
   - TypeName: 
@@ -3230,10 +3165,10 @@ Invasions:
   Faction: FC_CORPUS
   DefenderFaction: FC_GRINEER
   Node: Adaro
-  Count: 42956
+  Count: 44075
   Goal: 44000
   LocTag: /Lotus/Language/Menu/CorpusInvasionGeneric
-  Completed: false
+  Completed: true
   ChainID:
     $oid: 698e01376941c3b9b18ce5b1
   AttackerReward:
@@ -3253,6 +3188,34 @@ Invasions:
   Activation:
     $date:
       $numberLong: '1771290975192'
+  - _id:
+    $oid: 69974d4a92836b9bee8ce5b2
+  Faction: FC_CORPUS
+  DefenderFaction: FC_GRINEER
+  Node: Selkie
+  Count: 53
+  Goal: 43000
+  LocTag: /Lotus/Language/Menu/CorpusInvasionGeneric
+  Completed: false
+  ChainID:
+    $oid: 698e01376941c3b9b18ce5b1
+  AttackerReward:
+    countedItems:
+      - ItemType: フィールドロン
+      ItemCount: 3
+  AttackerMissionInfo:
+    seed: 617279
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 529475
+    faction: FC_CORPUS
+  Activation:
+    $date:
+      $numberLong: '1771524128041'
   - _id:
     $oid: 69956372fc2c5514568ce5b1
   Faction: FC_INFESTATION
@@ -3284,7 +3247,7 @@ Invasions:
   Faction: FC_GRINEER
   DefenderFaction: FC_CORPUS
   Node: Amalthea
-  Count: 9863
+  Count: 11939
   Goal: 33000
   LocTag: /Lotus/Language/Menu/GrineerInvasionGeneric
   Completed: false
@@ -3412,7 +3375,7 @@ Invasions:
   Faction: FC_INFESTATION
   DefenderFaction: FC_CORPUS
   Node: Sao
-  Count: 0
+  Count: -1135
   Goal: 36000
   LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
   Completed: false
@@ -3432,6 +3395,31 @@ Invasions:
   Activation:
     $date:
       $numberLong: '1771519504608'
+  - _id:
+    $oid: 699734ae256b195f358ce5b1
+  Faction: FC_INFESTATION
+  DefenderFaction: FC_GRINEER
+  Node: Enceladus
+  Count: -282
+  Goal: 43000
+  LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
+  Completed: false
+  ChainID:
+    $oid: 699734ae256b195f358ce5b1
+  AttackerReward: []
+  AttackerMissionInfo:
+    seed: 749489
+    faction: FC_GRINEER
+  DefenderReward:
+    countedItems:
+      - ItemType: デトナイト インジェクター
+      ItemCount: 3
+  DefenderMissionInfo:
+    seed: 216726
+    faction: FC_INFESTATION
+  Activation:
+    $date:
+      $numberLong: '1771522966548'
 HubEvents: []
 NodeOverrides:
   - _id:
@@ -3478,6 +3466,16 @@ NodeOverrides:
   Faction: FC_CORPUS
   CustomNpcEncounters:
     - /Lotus/Types/Gameplay/Venus/Encounters/Heists/ExploiterHeistFissure
+  - _id:
+    $oid: 69974d4a92836b9bee8ce5b1
+  Node: Adaro
+  Faction: FC_CORPUS
+  EnemySpec: 
+    /Lotus/Types/Game/EnemySpecs/CorpusShipEnemySpecs/CorpusShipExterminateMixed
+  ExtraEnemySpec: ''
+  Expiry:
+    $date:
+      $numberLong: '1771599652794'
 VoidTraders:
   - _id:
     $oid: 5d1e07a0a38e4a4fdd7cefca
@@ -4401,65 +4399,25 @@ PrimeVaultTraders:
         $numberLong: '1772737200000'
 VoidStorms:
   - _id:
-    $oid: 699720c3e8b8b9ecc78ce5b2
-  Node: CrewBattleNode503
+    $oid: 69972ed3a6d477ca6d8ce5b3
+  Node: CrewBattleNode530
   Activation:
     $date:
-      $numberLong: '1771515601400'
+      $numberLong: '1771519201401'
   Expiry:
     $date:
-      $numberLong: '1771521001400'
-  ActiveMissionTier: VoidT1
-  - _id:
-    $oid: 699720c3e8b8b9ecc78ce5b1
-  Node: CrewBattleNode519
-  Activation:
-    $date:
-      $numberLong: '1771515601396'
-  Expiry:
-    $date:
-      $numberLong: '1771521001396'
-  ActiveMissionTier: VoidT1
-  - _id:
-    $oid: 699720c3e8b8b9ecc78ce5b3
-  Node: CrewBattleNode535
-  Activation:
-    $date:
-      $numberLong: '1771515601401'
-  Expiry:
-    $date:
-      $numberLong: '1771521001401'
+      $numberLong: '1771524601401'
   ActiveMissionTier: VoidT2
   - _id:
-    $oid: 699720c3e8b8b9ecc78ce5b6
-  Node: CrewBattleNode538
+    $oid: 69972ed3a6d477ca6d8ce5b4
+  Node: CrewBattleNode521
   Activation:
     $date:
-      $numberLong: '1771515601403'
+      $numberLong: '1771519201402'
   Expiry:
     $date:
-      $numberLong: '1771521001403'
-  ActiveMissionTier: VoidT4
-  - _id:
-    $oid: 699720c3e8b8b9ecc78ce5b4
-  Node: CrewBattleNode524
-  Activation:
-    $date:
-      $numberLong: '1771515601402'
-  Expiry:
-    $date:
-      $numberLong: '1771521001402'
+      $numberLong: '1771524601402'
   ActiveMissionTier: VoidT3
-  - _id:
-    $oid: 699720c3e8b8b9ecc78ce5b5
-  Node: CrewBattleNode529
-  Activation:
-    $date:
-      $numberLong: '1771515601403'
-  Expiry:
-    $date:
-      $numberLong: '1771521001403'
-  ActiveMissionTier: VoidT4
   - _id:
     $oid: 69972ed2a6d477ca6d8ce5b1
   Node: CrewBattleNode522
@@ -4481,26 +4439,6 @@ VoidStorms:
       $numberLong: '1771524601400'
   ActiveMissionTier: VoidT1
   - _id:
-    $oid: 69972ed3a6d477ca6d8ce5b3
-  Node: CrewBattleNode530
-  Activation:
-    $date:
-      $numberLong: '1771519201401'
-  Expiry:
-    $date:
-      $numberLong: '1771524601401'
-  ActiveMissionTier: VoidT2
-  - _id:
-    $oid: 69972ed3a6d477ca6d8ce5b4
-  Node: CrewBattleNode521
-  Activation:
-    $date:
-      $numberLong: '1771519201402'
-  Expiry:
-    $date:
-      $numberLong: '1771524601402'
-  ActiveMissionTier: VoidT3
-  - _id:
     $oid: 69972ed3a6d477ca6d8ce5b6
   Node: CrewBattleNode555
   Activation:
@@ -4519,6 +4457,66 @@ VoidStorms:
   Expiry:
     $date:
       $numberLong: '1771524601403'
+  ActiveMissionTier: VoidT4
+  - _id:
+    $oid: 69973ce36f112926778ce5b2
+  Node: CrewBattleNode515
+  Activation:
+    $date:
+      $numberLong: '1771522801400'
+  Expiry:
+    $date:
+      $numberLong: '1771528201400'
+  ActiveMissionTier: VoidT1
+  - _id:
+    $oid: 69973ce36f112926778ce5b1
+  Node: CrewBattleNode518
+  Activation:
+    $date:
+      $numberLong: '1771522801396'
+  Expiry:
+    $date:
+      $numberLong: '1771528201396'
+  ActiveMissionTier: VoidT1
+  - _id:
+    $oid: 69973ce36f112926778ce5b3
+  Node: CrewBattleNode533
+  Activation:
+    $date:
+      $numberLong: '1771522801401'
+  Expiry:
+    $date:
+      $numberLong: '1771528201401'
+  ActiveMissionTier: VoidT2
+  - _id:
+    $oid: 69973ce36f112926778ce5b5
+  Node: CrewBattleNode536
+  Activation:
+    $date:
+      $numberLong: '1771522801403'
+  Expiry:
+    $date:
+      $numberLong: '1771528201403'
+  ActiveMissionTier: VoidT4
+  - _id:
+    $oid: 69973ce36f112926778ce5b4
+  Node: CrewBattleNode516
+  Activation:
+    $date:
+      $numberLong: '1771522801402'
+  Expiry:
+    $date:
+      $numberLong: '1771528201402'
+  ActiveMissionTier: VoidT3
+  - _id:
+    $oid: 69973ce36f112926778ce5b6
+  Node: CrewBattleNode554
+  Activation:
+    $date:
+      $numberLong: '1771522801403'
+  Expiry:
+    $date:
+      $numberLong: '1771528201403'
   ActiveMissionTier: VoidT4
 PrimeAccessAvailability:
   State: PRIME1
@@ -4545,6 +4543,22 @@ DailyDeals:
 LibraryInfo:
   LastCompletedTargetType: /Lotus/Types/Game/Library/Targets/Research7Target
 PVPChallengeInstances:
+  - _id:
+    $oid: 698e72e315117db9b78ce5b2
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeGameModeWins
+  startDate:
+    $date:
+      $numberLong: '1770943203111'
+  endDate:
+    $date:
+      $numberLong: '1771548003111'
+  params:
+    - n: ScriptParamValue
+    v: 6
+  isGenerated: true
+  PVPMode: PVPMODE_ALL
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_WEEKLY
   - _id:
     $oid: 698e72e315117db9b78ce5b3
   challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeGameModeComplete
@@ -4581,22 +4595,6 @@ PVPChallengeInstances:
     - $oid: 698e72e315117db9b78ce5b3
     - $oid: 698e72e315117db9b78ce5b4
   Category: PVPChallengeTypeCategory_WEEKLY_ROOT
-  - _id:
-    $oid: 698e72e315117db9b78ce5b2
-  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeGameModeWins
-  startDate:
-    $date:
-      $numberLong: '1770943203111'
-  endDate:
-    $date:
-      $numberLong: '1771548003111'
-  params:
-    - n: ScriptParamValue
-    v: 6
-  isGenerated: true
-  PVPMode: PVPMODE_ALL
-  subChallenges: []
-  Category: PVPChallengeTypeCategory_WEEKLY
   - _id:
     $oid: 698e72e315117db9b78ce5b4
   challengeTypeRefID: 
@@ -4665,38 +4663,6 @@ PVPChallengeInstances:
   subChallenges: []
   Category: PVPChallengeTypeCategory_DAILY
   - _id:
-    $oid: 6997269f66f861e99b8ce5b6
-  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsMeleeHARD
-  startDate:
-    $date:
-      $numberLong: '1771513503180'
-  endDate:
-    $date:
-      $numberLong: '1771599903180'
-  params:
-    - n: ScriptParamValue
-    v: 3
-  isGenerated: true
-  PVPMode: PVPMODE_DEATHMATCH
-  subChallenges: []
-  Category: PVPChallengeTypeCategory_DAILY
-  - _id:
-    $oid: 6997269f66f861e99b8ce5b3
-  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsMeleeHARD
-  startDate:
-    $date:
-      $numberLong: '1771513503180'
-  endDate:
-    $date:
-      $numberLong: '1771599903180'
-  params:
-    - n: ScriptParamValue
-    v: 3
-  isGenerated: true
-  PVPMode: PVPMODE_TEAMDEATHMATCH
-  subChallenges: []
-  Category: PVPChallengeTypeCategory_DAILY
-  - _id:
     $oid: 6997269f66f861e99b8ce5b4
   challengeTypeRefID: 
     /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsWhileInAirEASY
@@ -4731,6 +4697,38 @@ PVPChallengeInstances:
   subChallenges: []
   Category: PVPChallengeTypeCategory_DAILY
   - _id:
+    $oid: 6997269f66f861e99b8ce5b3
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsMeleeHARD
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 3
+  isGenerated: true
+  PVPMode: PVPMODE_TEAMDEATHMATCH
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
+    $oid: 6997269f66f861e99b8ce5b6
+  challengeTypeRefID: /Lotus/PVPChallengeTypes/PVPTimedChallengeKillsMeleeHARD
+  startDate:
+    $date:
+      $numberLong: '1771513503180'
+  endDate:
+    $date:
+      $numberLong: '1771599903180'
+  params:
+    - n: ScriptParamValue
+    v: 3
+  isGenerated: true
+  PVPMode: PVPMODE_DEATHMATCH
+  subChallenges: []
+  Category: PVPChallengeTypeCategory_DAILY
+  - _id:
     $oid: 6997269f66f861e99b8ce5b8
   challengeTypeRefID: 
     /Lotus/PVPChallengeTypes/PVPTimedChallengeSpeedballInterceptionsHARD
@@ -4751,8 +4749,8 @@ PersistentEnemies: []
 PVPAlternativeModes: []
 PVPActiveTournaments: []
 ProjectPct:
-  - 32.96026951249569
-  - 15.081908528497008
+  - 33.01090073564432
+  - 15.12128613028218
   - 0
 ConstructionProjects: []
 TwitchPromos: []

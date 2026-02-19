@@ -1,10 +1,10 @@
 # Warframe WorldState Status (JP) - Latest
 WorldSeed: 
-  ZusMAPwQVrG+zBQyzT2PaV99o9GNJRgbPtMTpiZAf2NtWcw/LBHVNfHqvPwpGp0tFxZlFHLXp+buFCnnGdJ1ROUENH6n3PhhJ54HV6rYR2nNFDkJxrSzF+cQxUw2CdZzAp8zRDXDkdXNnVqCEd0DYz3aW0wZ7K5343a7OAWtLAE=
+  RLysTf+7bArHECc6Ubqc1US+u9tLHur9mZaYg7bTX2rpBPUE7HHvk+45M6PQ5y85unkH14EgZMbdOoc4kmJc+1bn1wW20YcX16+TLlaHmXYs91lTNML8N4YZUSosqxlUnxeckUIgWued9ldc8tHkx6gMDXsX9882+vrrBx3yr0g=
 Version: 10
 MobileVersion: 5.3.0.0
 BuildLabel: 2026.02.13.16.03/m9D2v+Lb-IlcRhQxYG26Cw
-Time: 1771524270
+Time: 1771524775
 Events:
   - _id:
     $oid: 62d31b87106360aa5703954d
@@ -1597,20 +1597,6 @@ ActiveMissions:
   MissionType: MT_TERRITORY
   Modifier: VoidT4
   - _id:
-    $oid: 69973bb6b22693d8178ce5b2
-  Region: 3
-  Seed: 80553
-  Activation:
-    $date:
-      $numberLong: '1771518902450'
-  Expiry:
-    $date:
-      $numberLong: '1771524600755'
-  Node: Pacific
-  MissionType: MT_RESCUE
-  Modifier: VoidT1
-  Hard: true
-  - _id:
     $oid: 6997449eea548193018ce5b1
   Region: 16
   Seed: 88888
@@ -1825,6 +1811,33 @@ ActiveMissions:
   MissionType: MT_ASSAULT
   Modifier: VoidT5
   Hard: true
+  - _id:
+    $oid: 699750cece82468aef8ce5b1
+  Region: 4
+  Seed: 79231
+  Activation:
+    $date:
+      $numberLong: '1771524302512'
+  Expiry:
+    $date:
+      $numberLong: '1771531425720'
+  Node: Olympus
+  MissionType: MT_ARTIFACT
+  Modifier: VoidT1
+  Hard: true
+  - _id:
+    $oid: 699751fbf2a7b285f08ce5b1
+  Region: 12
+  Seed: 55336
+  Activation:
+    $date:
+      $numberLong: '1771524602991'
+  Expiry:
+    $date:
+      $numberLong: '1771529562625'
+  Node: Hydron
+  MissionType: MT_DEFENSE
+  Modifier: VoidT4
 GlobalUpgrades: []
 FlashSales:
   - TypeName: 
@@ -3177,7 +3190,7 @@ Invasions:
   Faction: FC_CORPUS
   DefenderFaction: FC_GRINEER
   Node: Selkie
-  Count: 1
+  Count: 53
   Goal: 43000
   LocTag: /Lotus/Language/Menu/CorpusInvasionGeneric
   Completed: false
@@ -3231,7 +3244,7 @@ Invasions:
   Faction: FC_GRINEER
   DefenderFaction: FC_CORPUS
   Node: Amalthea
-  Count: 11724
+  Count: 11939
   Goal: 33000
   LocTag: /Lotus/Language/Menu/GrineerInvasionGeneric
   Completed: false
@@ -3359,7 +3372,7 @@ Invasions:
   Faction: FC_INFESTATION
   DefenderFaction: FC_CORPUS
   Node: Sao
-  Count: -1042
+  Count: -1135
   Goal: 36000
   LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
   Completed: false
@@ -3384,7 +3397,7 @@ Invasions:
   Faction: FC_INFESTATION
   DefenderFaction: FC_GRINEER
   Node: Enceladus
-  Count: -179
+  Count: -282
   Goal: 43000
   LocTag: /Lotus/Language/Menu/InfestedInvasionGeneric
   Completed: false
@@ -4733,8 +4746,8 @@ PersistentEnemies: []
 PVPAlternativeModes: []
 PVPActiveTournaments: []
 ProjectPct:
-  - 33.00560014908167
-  - 15.11493564600482
+  - 33.01090073564432
+  - 15.12128613028218
   - 0
 ConstructionProjects: []
 TwitchPromos: []
@@ -6137,4 +6150,4 @@ Tmp: '{"cavabegin":"1690761600","pgr":{"ts":"1732572900","en":"CUSTOM DECALS @ Z
   WUNSCH @ ZEVILA","es":"CALCOMANÍAS PERSONALIZADAS @ ZEVILA","pt":"DECALQUES PERSONALIZADOS
   NA ZEVILA","ru":"ПОЛЬЗОВАТЕЛЬСКИЕ НАКЛЕЙКИ @ ЗеВиЛа","pl":"NOWE NAKLEJKI @ ZEVILA","uk":"КОРИСТУВАЦЬКІ
   ДЕКОЛІ @ ЗІВІЛА","tr":"ÖZEL ÇIKARTMALAR @ ZEVILA","ja":"カスタムデカール @ ゼビラ","zh":"定制贴花认准泽威拉","ko":"커스텀
-  데칼 @ ZEVILA","tc":"自訂貼花 @ ZEVILA","th":"รูปลอกสั่งทำที่ ZEVILA"},"ennnd":true,"mbrt":true,"fbst":{"a":1771516800,"e":1771524000,"n":1771545600},"lqo66":{"mt":["Survival","Alchemy","Extermination"],"mv":["UnpoweredCapsules","EximusGrenadiers","GrowingIncursion"],"c":[["RegeneratingEnemies","Quicksand"],["DrainingResiduals","ExplosiveCrawlers"],["AntiMaterialWeapons","EMPBlackHole"]],"fv":["Undersupplied","ShieldDelay","Exhaustion","DecayingFlesh"]},"hqo18":{"mt":["EndlessCapture","Survival","Defense"],"mv":["DoubleTroubleLegacyte","ContaminationZone","ChemicalNoise"],"mf":[9,8,8],"c":[["HostileOvergrowth","RegeneratingEnemies"],["VoidAberration","Quicksand"],["DrainingResiduals","PointBlank"]],"fv":["OperatorLockout","OverSensitive","Starvation","ContactDamage"]},"dmegp":1753284600,"tcaz":0,"tces":true,"sfn":554}'
+  데칼 @ ZEVILA","tc":"自訂貼花 @ ZEVILA","th":"รูปลอกสั่งทำที่ ZEVILA"},"ennnd":true,"mbrt":true,"fbst":{"a":1771516800,"e":1771524000,"n":1771545600},"lqo66":{"mt":["Survival","Alchemy","Extermination"],"mv":["UnpoweredCapsules","EximusGrenadiers","GrowingIncursion"],"c":[["RegeneratingEnemies","Quicksand"],["DrainingResiduals","ExplosiveCrawlers"],["AntiMaterialWeapons","EMPBlackHole"]],"fv":["Undersupplied","ShieldDelay","Exhaustion","DecayingFlesh"]},"hqo18":{"mt":["EndlessCapture","Survival","Defense"],"mv":["DoubleTroubleLegacyte","ContaminationZone","ChemicalNoise"],"mf":[9,8,8],"c":[["HostileOvergrowth","RegeneratingEnemies"],["VoidAberration","Quicksand"],["DrainingResiduals","PointBlank"]],"fv":["OperatorLockout","OverSensitive","Starvation","ContactDamage"]},"dmegp":1753284600,"tcaz":0,"tces":true,"sfn":550}'
