@@ -33,6 +33,8 @@ jobs:
         
     - name: ステータスパーサーの実行
       run: python src/main.py
+      env:
+        WF_PROXY_URL: ${{ secrets.WF_PROXY_URL }}
       
     - name: 変更のコミットとプッシュ
       run: |
