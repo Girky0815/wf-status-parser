@@ -7,6 +7,8 @@ on:
   push:
     paths:
       - 'src/**.py'
+      - 'requirements.txt'
+      - '.github/workflows/update_status.yml'
 
 permissions:
   contents: write
@@ -22,7 +24,7 @@ jobs:
     - name: Pythonのセットアップ
       uses: actions/setup-python@v5
       with:
-        python-version: latest
+        python-version: 3.14
         
     - name: 依存関係のインストール
       run: |
