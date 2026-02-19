@@ -1,6 +1,7 @@
 import logging
 import sys
 from pathlib import Path
+from rich.logging import RichHandler
 
 # src モジュールをインポートパスに追加 (実行場所対策)
 sys.path.append(str(Path(__file__).parent.parent))
@@ -10,9 +11,11 @@ from src import fetcher, output, translator
 # ロギング設定
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
+    # format='%(asctime)s - %(levelname)s - %(message)s',
+    format='%(message)s',
     handlers=[
-        logging.StreamHandler(sys.stdout)
+        # logging.StreamHandler(sys.stdout)
+        RichHandler(markup=True,rich_tracebacks=True)
     ]
 )
 logger = logging.getLogger(__name__)
