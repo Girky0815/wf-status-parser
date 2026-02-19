@@ -17,7 +17,7 @@ OUTPUT_DIR = "output"
 INTERNAL_OUTPUT_DIR = "internal_output"
 
 # ユーザーエージェント設定 (GitHub Actionsなどで403エラーが出る対策)
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 
 # プロキシ設定 (環境変数から取得)
 WF_PROXY_URL = os.environ.get("WF_PROXY_URL", "")
