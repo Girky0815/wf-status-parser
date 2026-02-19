@@ -1,4 +1,4 @@
 requests
 ruamel.yaml
 rich
-cloudscraper
+curl_cffi
