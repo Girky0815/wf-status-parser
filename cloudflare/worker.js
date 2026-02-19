@@ -15,29 +15,37 @@ export default {
       return new Response("Missing 'url' parameter", { status: 400 });
     }
 
-    // Add logging
     console.log(`Proxying request to: ${targetUrl}`);
 
     try {
-      // Create request with headers to mimic a browser
       const proxyRequest = new Request(targetUrl, {
         method: request.method,
         headers: {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
           "Accept": "application/json, text/plain, */*",
-          "Accept-Language": "en-US,en;q=0.9,ja;q=0.8",
-          // Add any other headers needed
+          "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache",
+          "Pragma": "no-cache",
+          "Referer": "https://www.warframe.com/",
+          "Origin": "https://www.warframe.com/"
         }
       });
 
       const response = await fetch(proxyRequest);
 
-      // Re-create the response to modify headers (CORS) if necessary
-      const newResponse = new Response(response.body, response);
-      newResponse.headers.set("Access-Control-Allow-Origin", "*");
-      newResponse.headers.set("X-Proxy-By", "Cloudflare-Worker");
+      // Create a clean response without forwarding potentially problematic headers
+      const responseHeaders = new Headers();
+      // Only forward necessary headers or set new ones
+      responseHeaders.set("Content-Type", response.headers.get("Content-Type") || "application/json");
+      responseHeaders.set("Access-Control-Allow-Origin", "*");
+      responseHeaders.set("X-Proxy-By", "Cloudflare-Worker-Fixed");
+      responseHeaders.set("X-Target-Status", response.status);
 
-      return newResponse;
+      return new Response(response.body, {
+        status: response.status,
+        statusText: response.statusText,
+        headers: responseHeaders
+      });
     } catch (e) {
       return new Response(`Error fetching ${targetUrl}: ${e.message}`, { status: 500 });
     }
