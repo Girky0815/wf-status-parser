@@ -29,17 +29,27 @@ FALLBACK_FILES = [
     "ExportSortieRewards_ja.json",
     "ExportManifest.json"
 ]
+# Helper function for requests
+def request_get(url: str, timeout: int = 30):
+    """プロキシ設定があればプロキシ経由でリクエストする"""
+    if const.WF_PROXY_URL:
+        logger.info(f"Using Cloudflare Proxy for: {url}")
+        # プロキシURLの形式: https://worker.dev/?url=<target_url>
+        # URLエンコードは requests が params でやってくれるはずだが、
+        # curl_cffi の挙動を確認する必要がある。ここでは単純に params を使う。
+        return requests.get(const.WF_PROXY_URL, params={"url": url}, impersonate="chrome", timeout=timeout)
+    else:
+        # プロキシがない場合は直接アクセス (impersonate="chrome"に戻す)
+        # Safari偽装は失敗したのでChromeに戻すが、どちらでも良い
+        return requests.get(url, impersonate="chrome", timeout=timeout)
 
 def fetch_index() -> str:
     """index_ja.txt.lzma を取得・解凍してテキストを返す"""
     logger.info("Public Export Index を取得中...")
     try:
-        # headers = {"User-Agent": const.USER_AGENT}
-        # response = requests.get(const.PUBLIC_EXPORT_URL, headers=headers, timeout=30)
-        # scraper = cloudscraper.create_scraper()
-        # response = scraper.get(const.PUBLIC_EXPORT_URL, timeout=30)
-        # response = requests.get(const.PUBLIC_EXPORT_URL, impersonate="chrome", timeout=30)
-        response = requests.get(const.PUBLIC_EXPORT_URL, impersonate="safari17_0", timeout=30)
+        # response = request_get(const.PUBLIC_EXPORT_URL, timeout=30)
+        # response = requests.get(const.PUBLIC_EXPORT_URL, impersonate="safari17_0", timeout=30)
+        response = request_get(const.PUBLIC_EXPORT_URL, timeout=30)
         response.raise_for_status()
         
         # lzma 解凍 (ヘッダー修正)
@@ -121,11 +131,8 @@ def fetch_dictionary(index_content: str) -> Dict[str, Any]:
             # logger.info(f"フォールバック取得: {url}")
             # headers = {"User-Agent": const.USER_AGENT}
             try:
-                # response = requests.get(url, headers=headers, timeout=30)
-                # scraper = cloudscraper.create_scraper()
-                # response = scraper.get(url, timeout=30)
-                # response = requests.get(url, impersonate="chrome", timeout=30)
-                response = requests.get(url, impersonate="safari17_0", timeout=30)
+                # response = requests.get(url, impersonate="safari17_0", timeout=30)
+                response = request_get(url, timeout=30)
                 if response.status_code == 200:
                     try:
                         data = response.json()
@@ -178,12 +185,8 @@ def fetch_dictionary(index_content: str) -> Dict[str, Any]:
         logger.info(f"辞書ファイルを取得中: {dict_url}")
         
         try:
-            # headers = {"User-Agent": const.USER_AGENT}
-            # response = requests.get(dict_url, headers=headers, timeout=30)
-            # scraper = cloudscraper.create_scraper()
-            # response = scraper.get(dict_url, timeout=30)
-            # response = requests.get(dict_url, impersonate="chrome", timeout=30)
-            response = requests.get(dict_url, impersonate="safari17_0", timeout=30)
+            # response = requests.get(dict_url, impersonate="safari17_0", timeout=30)
+            response = request_get(dict_url, timeout=30)
             response.raise_for_status()
             # テキストのクリーニングが必要な場合がある (BOMや制御文字など)
             # requests.json() は BOM (utf-8-sig) を自動処理するはず
@@ -249,12 +252,8 @@ def fetch_worldstate() -> Dict[str, Any]:
     """WorldState JSONを取得する"""
     logger.info("WorldState を取得中...")
     try:
-        # headers = {"User-Agent": const.USER_AGENT}
-        # response = requests.get(const.WORLDSTATE_URL, headers=headers, timeout=30)
-        # scraper = cloudscraper.create_scraper()
-        # response = scraper.get(const.WORLDSTATE_URL, timeout=30)
-        # response = requests.get(const.WORLDSTATE_URL, impersonate="chrome", timeout=30)
-        response = requests.get(const.WORLDSTATE_URL, impersonate="safari17_0", timeout=30)
+        # response = requests.get(const.WORLDSTATE_URL, impersonate="safari17_0", timeout=30)
+        response = request_get(const.WORLDSTATE_URL, timeout=30)
         response.raise_for_status()
         data = response.json()
         build_label = data.get('BuildLabel', data.get('WorldStatePublished', {}).get('BuildLabel', 'Unknown'))
