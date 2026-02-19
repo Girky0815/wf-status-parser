@@ -21,6 +21,7 @@ Digital Extremes (DE) 公式の WorldState JSON を取得し、Public Export デ
   - 作業に成功した場合は[成功]、失敗した場合は[失敗]と色付きでログに出力すること。
   - インデントを活用し、見やすいログを出力すること。
 4. YAML 出力時は ruamel.yaml を使い、セクションごとに日本語の解説コメントを挿入すること。
+5. Git コミットメッセージは必ず日本語を用いること(fix: 等のプレフィックスはそのまま)
 
 ## データソース
 1. WorldState: `https://api.warframe.com/cdn/worldState.php`
