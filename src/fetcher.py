@@ -1,6 +1,7 @@
 import logging
 import lzma
 import requests
+import cloudscraper
 from typing import Dict, Any, List
 
 import json
@@ -32,8 +33,10 @@ def fetch_index() -> str:
     """index_ja.txt.lzma を取得・解凍してテキストを返す"""
     logger.info("Public Export Index を取得中...")
     try:
-        headers = {"User-Agent": const.USER_AGENT}
-        response = requests.get(const.PUBLIC_EXPORT_URL, headers=headers, timeout=30)
+        # headers = {"User-Agent": const.USER_AGENT}
+        # response = requests.get(const.PUBLIC_EXPORT_URL, headers=headers, timeout=30)
+        scraper = cloudscraper.create_scraper()
+        response = scraper.get(const.PUBLIC_EXPORT_URL, timeout=30)
         response.raise_for_status()
         
         # lzma 解凍 (ヘッダー修正)
@@ -112,10 +115,12 @@ def fetch_dictionary(index_content: str) -> Dict[str, Any]:
         logger.warning("有効なIndexがない(または必須エントリ欠落)ため、GitHubフォールバックモードを使用します。")
         for filename in FALLBACK_FILES:
             url = FALLBACK_BASE_URL + filename
-            logger.info(f"フォールバック取得: {url}")
-            headers = {"User-Agent": const.USER_AGENT}
+            # logger.info(f"フォールバック取得: {url}")
+            # headers = {"User-Agent": const.USER_AGENT}
             try:
-                response = requests.get(url, headers=headers, timeout=30)
+                # response = requests.get(url, headers=headers, timeout=30)
+                scraper = cloudscraper.create_scraper()
+                response = scraper.get(url, timeout=30)
                 if response.status_code == 200:
                     try:
                         data = response.json()
@@ -168,8 +173,10 @@ def fetch_dictionary(index_content: str) -> Dict[str, Any]:
         logger.info(f"辞書ファイルを取得中: {dict_url}")
         
         try:
-            headers = {"User-Agent": const.USER_AGENT}
-            response = requests.get(dict_url, headers=headers, timeout=30)
+            # headers = {"User-Agent": const.USER_AGENT}
+            # response = requests.get(dict_url, headers=headers, timeout=30)
+            scraper = cloudscraper.create_scraper()
+            response = scraper.get(dict_url, timeout=30)
             response.raise_for_status()
             # テキストのクリーニングが必要な場合がある (BOMや制御文字など)
             # requests.json() は BOM (utf-8-sig) を自動処理するはず
@@ -235,8 +242,10 @@ def fetch_worldstate() -> Dict[str, Any]:
     """WorldState JSONを取得する"""
     logger.info("WorldState を取得中...")
     try:
-        headers = {"User-Agent": const.USER_AGENT}
-        response = requests.get(const.WORLDSTATE_URL, headers=headers, timeout=30)
+        # headers = {"User-Agent": const.USER_AGENT}
+        # response = requests.get(const.WORLDSTATE_URL, headers=headers, timeout=30)
+        scraper = cloudscraper.create_scraper()
+        response = scraper.get(const.WORLDSTATE_URL, timeout=30)
         response.raise_for_status()
         data = response.json()
         build_label = data.get('BuildLabel', data.get('WorldStatePublished', {}).get('BuildLabel', 'Unknown'))
