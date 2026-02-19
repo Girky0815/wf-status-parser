@@ -212,5 +212,4 @@ marimo/_lsp/
 __marimo__/
 
 # Project Specific
-# output/  <- 抽出結果をコミット対象にするためコメントアウト
-*.log
+# *.log <- logのみ残す

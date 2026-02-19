@@ -265,8 +265,17 @@ def fetch_worldstate() -> Dict[str, Any]:
         
         try:
             data = response.json()
+            # プロキシ(GAS)がエラーをJSONで返してきた場合のチェック
+            if isinstance(data, dict) and ("error" in data or "target_status" in data):
+                logger.error(f"プロキシ側でエラーが発生しました: {data}")
+                raise ValueError(f"Proxy Error: {data.get('error', 'Status ' + str(data.get('target_status')))}")
         except json.JSONDecodeError as je:
-            logger.error(f"JSONパース失敗: プロキシが非JSONを返しました。 (Body: {response.text[:200]})")
+            # 中身が空、またはHTML等が返ってきた場合
+            body_preview = response.text[:500]
+            if not body_preview.strip():
+                logger.error("プロキシから空のレスポンスが返されました。GASの設定または接続を確認してください。")
+            else:
+                logger.error(f"JSONパース失敗: プロキシが非JSONを返しました。 (Body: {body_preview})")
             raise je
 
         build_label = data.get('BuildLabel', data.get('WorldStatePublished', {}).get('BuildLabel', 'Unknown'))
