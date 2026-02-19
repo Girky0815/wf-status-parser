@@ -258,4 +258,11 @@ def fetch_worldstate() -> Dict[str, Any]:
         return data
     except Exception as e:
         logger.error(f"[失敗] WorldState 取得エラー: {e}")
+        if 'response' in locals():
+            logger.error(f"Response Headers: {response.headers}")
+            logger.error(f"Response Status: {response.status_code}")
+            try:
+                logger.error(f"Response Content loaded: {response.text[:500]}")
+            except:
+                pass
         raise
