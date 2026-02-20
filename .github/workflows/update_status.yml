@@ -2,7 +2,7 @@ name: Warframeステータス更新
 
 on:
   schedule:
-    - cron: '0/5 * * * *'  # 5分ごとに実行 (0, 5, 10...)
+    # - cron: '0/5 * * * *'  # 5分ごとに実行 (0, 5, 10...)
   workflow_dispatch:
   push:
     paths:
